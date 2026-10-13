@@ -117,6 +117,10 @@ An Act to make provision for the adoption of infants.
 
 **3.** Upon an application in the prescribed manner being made by any person desirous of being authorised to
 
+*LRO*
+
+1/2010
+
 adopt an infant who has never been married, the court may, subject to the provisions of this Act, make an order (in this Act referred to as an adoption order) authorising the applicant to adopt the infant, and it is hereby declared that the power of the court to make adoption orders shall include power to make an adoption order authorising the adoption of an infant by the mother or father of the infant, either alone or jointly with her or his spouse.
 
 *Alien infants.*
@@ -165,29 +169,37 @@ Provided that the court may dispense with any consent required by this subsectio
 
 (3) Where any person whose consent to the making of an adoption order is required by this section does not attend in the proceedings for the purpose of giving it, a document signifying his consent to the making of such an order shall, if the person in whose favour the order is made is named or otherwise described in the document, be admissible as evidence of that consent, whether the document is executed before or after the commencement of the proceedings; and where any such document is attested by a justice of the peace or notary public (or, if executed outside The Bahamas, by a person of any such class as may be prescribed by rules made under this Act), the document shall be admissible as aforesaid without further proof of the signature of the person by whom it is executed:
 
-*mother of infant.*
+*the mother of infant.*
 
-Provided that a document signifying the consent of the mother of an infant shall not be admissible as aforesaid unless —
+Provided that a document signifying the consent of mother of an infant shall not be admissible as aforesaid unless —
 
 (a) the infant is at least six weeks old on the date of the execution of the document; and
 
-(b) the document is attested on that date by a justice of the peace or notary public or, as the case may be, by a person or a class prescribed as aforesaid.
-
 *Custody of infant when application pending.*
 
-(4) While an application for an adoption order in respect of an infant is pending in any court, any parent or guardian of the infant who has signified his consent to the making of an adoption order in pursuance of the application shall not be entitled, except with the leave of the court, to remove the infant from the care and possession of the applicant; and in considering whether to grant or refuse such leave the court shall have regard to the welfare of the infant.
+*the*
 
-(5) For the purposes of subsection (3) of this section, a document purporting to be attested as mentioned in that subsection shall be deemed to be so attested and to be executed and attested on the date and at the place specified therein, unless the contrary is proved.
+*the*
 
-*Matters with respect to which court to be satisfied.*
+(b) the document is attested on that date by a justice of the peace or notary public or, as the case may be, by a person or a class prescribed as aforesaid. (4) While an application for an adoption order in respect of an infant is pending in any court, any parent or guardian of the infant who has signified his consent to the making of an adoption order in pursuance of the application shall not be entitled, except with the leave of court, to remove the infant from the care and possession of the applicant; and in considering whether to grant or refuse such leave the court shall have regard to welfare of the infant.
 
-**8.** The court before making an adoption order shall be satisfied —
+*a*
+
+(5) For the purposes of subsection (3) of this section, document purporting to be attested as mentioned in that subsection shall be deemed to be so attested and to be executed and attested on the date and at the place specified therein, unless the contrary is proved.
+
+*Matters with be respect to which court to be satisfied.*
+
+**8.** The court before making an adoption order shall satisfied —
 
 (a) that every person whose consent is necessary under this Act and whose consent is not dispensed with has consented to and understands the nature and effect of the adoption order for which application is made and in particular in the case of any parent understands that the effect of the adoption order will be permanently to deprive him or her of his or her parental rights; and
 
 (b) that the order if made will be for the welfare of the infant, due consideration being for this purpose given to the wishes of the infant, having regard to the age and understanding of the infant; and
 
 (c) that the applicant has not received or agreed to receive, and that no person has made or given, or agreed to make or give to the applicant any payment or other reward in consideration of the adoption except such as the court may sanction.
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 *Terms and conditions of order.*
 
@@ -269,11 +281,9 @@ Provided that where the infant is adopted by his mother, and the mother is a sin
 
 **17.** (1) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing
 
-generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act
-
 *Ch. 53. 46 of 1964, Sch.*
 
-into effect shall be made under section 76 of the Supreme Court Act. Such rules may provide for applications for adoption orders being heard and determined otherwise than in open court.
+generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 76 of the Supreme Court Act. Such rules may provide for applications for adoption orders being heard and determined otherwise than in open court.
 
 *1 of 2007, Sixth Sch.*
 

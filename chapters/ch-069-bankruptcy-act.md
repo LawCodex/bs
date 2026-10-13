@@ -21,15 +21,17 @@ retrieved: 2026-10-13
 
 ### BANKRUPTCY
 
-### LIST OF AUTHORISED PAGES
+*LIST*
 
-*1 - 8*
+### OF AUTHORISED PAGES
 
-9 - 40 Original
+*1 - 8 9 - 40 41 - 43 - 54*
 
-41 - 42B LRO 1/2017
+Original
 
-43 - 54 Original
+42B LRO 1/2017
+
+Original
 
 ## ARRANGEMENT OF SECTIONS
 
@@ -84,6 +86,10 @@ Conduct of bankrupt.
 Conduct of trustee and appeal to court against trustee.
 
 Regulations as to general meetings of creditors subsequent to first meeting.
+
+*LRO*
+
+1/2017
 
 ### DEALING WITH BANKRUPT’S PROPERTY
 
@@ -337,19 +343,17 @@ An Act relating to bankruptcy.
 
 “secured creditor” means any creditor holding any mortgage, charge or lien on the bankrupt’s estate, or any part thereof, as security for a debt due to him;
 
-“trader” means the several persons in that behalf
-
 *Schedule.*
 
-mentioned in the Schedule to this Act.
+“trader” means the several persons in that behalf mentioned in the Schedule to this Act.
 
-*Exclusion of companies, etc.*
+*LRO*
 
-**3.** A partnership, association or company corporate, or registered under the Companies Act, shall not be
+1/2017
 
-*Ch. 308.*
+*Exclusion of companies, etc. or Ch. 308.*
 
-adjudged bankrupt under this Act.
+A partnership, association or company corporate, registered under the Companies Act, shall not be adjudged bankrupt under this Act.
 
 ## PART I ADJUDICATION AND VESTING OF PROPERTY
 
@@ -357,7 +361,9 @@ Adjudication
 
 *Petition for adjudication in bankruptcy. 5 of 1987, s. 2.*
 
-**4.** A single creditor, or two or more creditors, if the debt due to such single creditor, or the aggregate amount of debts due to such several creditors from any debtor amount to a sum of not less than two hundred dollars, may present a petition to the court, praying that the debtor be adjudged a bankrupt, and alleging as the ground for such adjudication any one or more of the following acts or defaults, hereinafter deemed to be and included under the expression “acts of bankruptcy” —
+*a*
+
+**4.** A single creditor, or two or more creditors, if the debt due to such single creditor, or the aggregate amount of debts due to such several creditors from any debtor amount to a sum of not less than two hundred dollars, may present a petition to the court, praying that the debtor be adjudged bankrupt, and alleging as the ground for such adjudication any one or more of the following acts or defaults, hereinafter deemed to be and included under the expression “acts of bankruptcy” —
 
 (1) that the debtor has, in The Bahamas or elsewhere, made a conveyance or assignment of his property to a trustee or trustees for the benefit of his creditors generally;
 
@@ -425,19 +431,25 @@ qualified to vote, to form a committee of inspection for the purpose of superint
 
 (4) they may, by resolution, give directions as to the manner in which the property is to be administered by the trustee; and it shall be the duty of the trustee to conform to such direction, unless the court, for some just cause, otherwise orders.
 
-*Description of bankrupt’s property divisible amongst creditors.*
+*Description of bankrupt’s*
 
-**13.** The property of the bankrupt divisible among his creditors, and in this Act referred to as the property of the bankrupt, shall not comprise the following, particulars —
+*creditors,*
 
-(1) property held by the bankrupt on trust for any other person;
+*property divisible*
 
-(2) the tools (if any) of his trade, and the necessary wearing apparel and bedding of himself, his wife and children, to a value, inclusive of tools and
+*bankrupt,*
+
+*amongst creditors.*
+
+**13.** The property of the bankrupt divisible among his and in this Act referred to as the property of the shall not comprise the following, particulars — (1) property held by the bankrupt on trust for any other person;
 
 *5 of 1987, s. 2.*
 
-apparel and bedding, not exceeding eighty dollars in the whole;
+(2) the tools (if any) of his trade, and the necessary wearing apparel and bedding of himself, his wife and children, to a value, inclusive of tools and apparel and bedding, not exceeding eighty dollars in the whole;
 
-but it shall comprise the following particulars —
+*but it*
+
+shall comprise the following particulars —
 
 (3) all such property as may belong to or be vested in the bankrupt at the commencement of the bankruptcy, or may be acquired by or devolve on him during its continuance;
 
@@ -445,31 +457,31 @@ but it shall comprise the following particulars —
 
 (5) all goods and chattels being, at the commencement of the bankruptcy, in the possession, order or disposition of the bankrupt, being a trader, by the consent and permission of the true owner of which goods and chattels the bankrupt is reputed owner, or of which he has taken upon himself the sale or disposition as owner:
 
-Provided that things in action, other than debts due to him in the course of his trade or business, shall not be deemed goods and chattels within the meaning of this clause.
+*him in deemed clause.*
+
+Provided that things in action, other than debts due to the course of his trade or business, shall not be goods and chattels within the meaning of this
 
 *Regulations as to first meeting of creditors.*
 
-**14.** The general meeting of creditors to be summoned, as aforesaid, by the court (in this Act referred to as the first meeting of creditors) shall be held in the prescribed manner and subject to the prescribed regulations as to the quorum, adjournment of meeting and all other matters relating to the conduct of the meeting or the proceedings thereat:
+*to as the*
+
+*as to the matters*
+
+The general meeting of creditors to be summoned, as aforesaid, by the court (in this Act referred first meeting of creditors) shall be held in the prescribed manner and subject to the prescribed regulations quorum, adjournment of meeting and all other relating to the conduct of the meeting or the proceedings thereat:
 
 Provided that —
 
-(1) every meeting held under this section shall be presided over by the Registrar or, in his absence, by such chairman as the meeting may elect;
-
-(2) a person shall not be entitled to vote as a creditor unless at or previously to the meeting he has, in the prescribed manner, proved a debt provable under the bankruptcy to be due to him;
+(1) every meeting held under this section shall be presided over by the Registrar or, in his absence, by such chairman as the meeting may elect; (2) a person shall not be entitled to vote as a creditor unless at or previously to the meeting he has, in the prescribed manner, proved a debt provable under the bankruptcy to be due to him;
 
 (3) a creditor shall not vote at the said meeting in respect of any unliquidated or contingent debt, or any debt the value of which is not ascertained;
 
-(4) a secured creditor shall, for the purposes of voting, be deemed to be a creditor only in respect of the balance (if any) due to him after deducting the value of his security; and the amount of such balance shall, until the security be realised, be determined in the prescribed manner. He may, however, at or previously to the meeting of creditors, give up the security to the trustee, and thereupon he shall rank as a creditor m respect of the whole sum due to him;
-
-(5) votes may be given either personally or by proxy;
-
-(6) an ordinary resolution shall be decided by a majority in value of the creditors present personally or by proxy at the meeting and voting on such resolution;
+(4) a secured creditor shall, for the purposes of voting, be deemed to be a creditor only in respect of the balance (if any) due to him after deducting the value of his security; and the amount of such balance shall, until the security be realised, be determined in the prescribed manner. He may, however, at or previously to the meeting of creditors, give up the security to the trustee, and thereupon he shall rank as a creditor m respect of the whole sum due to him; (5) votes may be given either personally or by proxy; (6) an ordinary resolution shall be decided by a majority in value of the creditors present personally or by proxy at the meeting and voting on such resolution;
 
 (7) a special resolution shall be decided by a majority in number, and three-fourths in value of the creditors present personally or by proxy at the meeting and voting on such resolution.
 
-*Devolution of property on trustee.*
+*Devolution of be the property on trustee. upon the the ment of vest in*
 
-**15.** (1) Until a trustee is appointed the Registrar shall be the trustee for the purposes of this Act, and immediately upon the order of adjudication being made the property of the bankrupt shall vest in the Registrar. On the appointment of a trustee the property shall forthwith pass to and vest in the trustee appointed.
+**15.** (1) Until a trustee is appointed the Registrar shall trustee for the purposes of this Act, and immediately order of adjudication being made the property of bankrupt shall vest in the Registrar. On the appoint-a trustee the property shall forthwith pass to and the trustee appointed.
 
 *Definition of trustee.*
 
@@ -525,11 +537,17 @@ Any person injured by the operation of this section shall be deemed a creditor o
 
 **22.** The trustee shall not be entitled to disclaim any property in pursuance of this Act in cases where an application in writing has been made to him by any person interested in such property, requiring such trustee to decide whether he will disclaim or not, and the trustee has for a
 
-period of not less than twenty-eight days after the receipt of such application, or such further term as may be allowed by the court, declined or neglected to give notice whether he disclaims the same or not.
+*period of of such by the he*
 
-*Power of trustee to deal with property.*
+not less than twenty-eight days after the receipt application, or such further term as may be allowed court, declined or neglected to give notice whether disclaims the same or not.
 
-**23.** Subject to the provisions of this Act, the trustee shall have power to do the following things —
+*Power of trustee to deal with*
+
+*shall*
+
+*property.*
+
+**23.** Subject to the provisions of this Act, the trustee have power to do the following things —
 
 (1) to receive and decide upon proof of debts in the prescribed manner, and for such purpose to administer oaths;
 
@@ -537,11 +555,9 @@ period of not less than twenty-eight days after the receipt of such application,
 
 (3) to bring or defend any action, suit or other legal proceeding relating to the property of the bankrupt;
 
-(4) to deal with any property to which the bankrupt is beneficially entitled as tenant in tail in the same manner as the bankrupt might have dealt
-
 *Ch. 143.*
 
-with the same; and the Estates Tail Barring Act shall extend and apply to proceedings in bankruptcy under this Act as if the said Act, and the Act of the Imperial Parliament to which it refers, were here re-enacted and made applicable in terms to such proceedings;
+(4) to deal with any property to which the bankrupt is beneficially entitled as tenant in tail in the same manner as the bankrupt might have dealt with the same; and the Estates Tail Barring Act shall extend and apply to proceedings in bankruptcy under this Act as if the said Act, and the Act of the Imperial Parliament to which it refers, were here re-enacted and made applicable in terms to such proceedings;
 
 (5) to exercise any powers the capacity to exercise which is vested in him under this Act, and to execute all powers of attorney, deeds, and other instruments expedient or necessary for the purpose of carrying into effect the provisions of this Act;
 
@@ -549,23 +565,21 @@ with the same; and the Estates Tail Barring Act shall extend and apply to procee
 
 (7) to give receipts for any money received by him, which receipt shall effectually discharge the person paying such moneys from all responsibility in respect of the application thereof;
 
-(8) to prove, rank, claim and draw a dividend in the matter of the bankruptcy or sequestration of any debtor of the bankrupt.
+to prove, rank, claim and draw a dividend in the matter of the bankruptcy or sequestration of any debtor of the bankrupt.
 
-*Power to allow bankrupt to manage property.*
+*Power to allow bankrupt to manage property. thereof, the in terms as*
 
-**24.** The trustee may appoint the bankrupt himself to superintend the management of the property or of any part thereof, or to carry on the trade of the bankrupt (if any) for the benefit of the creditors, and in any other respect to aid in administering the property in such manner and on such terms as the creditors direct.
+**24.** The trustee may appoint the bankrupt himself to superintend the management of the property or of any part or to carry on the trade of the bankrupt (if any) for benefit of the creditors, and in any other respect to aid administering the property in such manner and on such the creditors direct.
 
-*Power of trustee to compromise, etc.*
+*Power of trustee to compromise, etc. things —*
 
-**25.** The trustee may, with the sanction of the committee of inspection, do all or any of the following things —
+**25.** The trustee may, with the sanction of the committee of inspection, do all or any of the following
 
 (1) mortgage or pledge any part of the property of the bankrupt for the purpose of raising money for the payment of his debts;
 
 (2) refer any dispute to arbitration, compromise all debts, claims and liabilities, whether present or future, certain or contingent, liquidated or unliquidated, subsisting or supposed to subsist, between the bankrupt and any debtor or person who may have incurred any liability to the bankrupt, upon the receipt of such sums, payable at such terms, and generally upon such terms as may be agreed upon;
 
-(3) make such compromise or other arrangement as may be thought expedient with creditors, or persons claiming to be creditors in respect of any debts provable under the bankruptcy;
-
-(4) make such compromise or other arrangement as may be thought expedient with respect to any claim arising out of or incidental to the property of the bankrupt made or capable of being made on the trustee by any person or by the trustee on any person;
+(3) make such compromise or other arrangement as may be thought expedient with creditors, or persons claiming to be creditors in respect of any debts provable under the bankruptcy; (4) make such compromise or other arrangement as may be thought expedient with respect to any claim arising out of or incidental to the property of the bankrupt made or capable of being made on the trustee by any person or by the trustee on any person;
 
 (5) to divide in its existing form amongst the creditors, according to its estimated value, any property which from its peculiar nature or other special circumstances cannot advantageously be realised by sale.
 
@@ -611,15 +625,11 @@ Any person aggrieved by any estimate made by the trustee, as aforesaid, may appe
 
 (1) All debts due to the Crown whether as Crown revenues or on account of the Consolidated Fund of The Bahamas.
 
-(2) All wages or salary of any clerk or servant in the
-
 *5 of 1987, s.2.*
-
-employment of the bankrupt at the date of the order of adjudication, not exceeding four months’ wages or salary, and not exceeding two hundred dollars; all wages of any labourer or workman in the employment of the bankrupt at the date of the order of adjudication and not
 
 *21 of 1972, s. 59 and 5th Sch. Ch. 350.*
 
-exceeding two months’ wages.
+(2) All wages or salary of any clerk or servant in the employment of the bankrupt at the date of the order of adjudication, not exceeding four months’ wages or salary, and not exceeding two hundred dollars; all wages of any labourer or workman in the employment of the bankrupt at the date of the order of adjudication and not exceeding two months’ wages.
 
 (3) All contributions payable pursuant to the National Insurance Act.
 
@@ -705,15 +715,11 @@ Discharge of Bankrupt
 
 *Order of discharge.*
 
-**46.** When a bankruptcy is closed, or at any time during its continuance, with the assent of the creditors testified by a special resolution, the bankrupt may apply to the court for an order of discharge; but such discharge shall not be granted unless it is proved to the court that one of the following conditions has been fulfilled, that is to say,
-
 *5 of 1987, Sch.*
-
-either that a dividend of not less than fifty cents in the dollar has been paid out of his property, or might have been paid except through the negligence or fraud of the trustee, or that a special resolution of his creditors has been passed to the effect that his bankruptcy or the failure to pay fifty cents in the dollar has, in their opinion, arisen from circumstances for which the bankrupt cannot justly be held responsible, and that they desire that an order of discharge should be granted to him; and the court may suspend for such time as it deems to be just, or withhold altogether, the order of discharge in the circumstances following; namely, if it appears to the court on the representation of the creditors made by special resolution, of the truth of which representation the court is satisfied, or by other sufficient evidence, that the bankrupt has made default in giving up to his creditors the property which he is required by this Act to give up; or that a prosecution has been commenced against him in pursuance of the provisions relating to the
 
 *Ch. 70.*
 
-punishment of fraudulent debtors, contained in the Debtors Act, in respect of any offence alleged to have been committed by him against the said Act.
+**46.** When a bankruptcy is closed, or at any time during its continuance, with the assent of the creditors testified by a special resolution, the bankrupt may apply to the court for an order of discharge; but such discharge shall not be granted unless it is proved to the court that one of the following conditions has been fulfilled, that is to say, either that a dividend of not less than fifty cents in the dollar has been paid out of his property, or might have been paid except through the negligence or fraud of the trustee, or that a special resolution of his creditors has been passed to the effect that his bankruptcy or the failure to pay fifty cents in the dollar has, in their opinion, arisen from circumstances for which the bankrupt cannot justly be held responsible, and that they desire that an order of discharge should be granted to him; and the court may suspend for such time as it deems to be just, or withhold altogether, the order of discharge in the circumstances following; namely, if it appears to the court on the representation of the creditors made by special resolution, of the truth of which representation the court is satisfied, or by other sufficient evidence, that the bankrupt has made default in giving up to his creditors the property which he is required by this Act to give up; or that a prosecution has been commenced against him in pursuance of the provisions relating to the punishment of fraudulent debtors, contained in the Debtors Act, in respect of any offence alleged to have been committed by him against the said Act.
 
 *Effect of order of discharge.*
 
@@ -755,11 +761,9 @@ Status of Undischarged Bankrupt
 
 **52.** Where a person who has been made a bankrupt has not obtained his discharge, then, from and after the close of his bankruptcy, the following consequences shall ensue —
 
-(1) no portion of a debt provable under the bankruptcy shall be enforced against the property of the person so made bankrupt until the expiration of three years from the close of the bankruptcy; and during that time, if he pays to his creditors such additional sum as will, with the dividend paid out of his property during the
-
 *50 of 1987, Sch.*
 
-bankruptcy, make up fifty cents in the dollar, he shall be entitled to an order of discharge in the same manner as if a dividend of fifty cents in the dollar had originally been paid out of his property;
+(1) no portion of a debt provable under the bankruptcy shall be enforced against the property of the person so made bankrupt until the expiration of three years from the close of the bankruptcy; and during that time, if he pays to his creditors such additional sum as will, with the dividend paid out of his property during the bankruptcy, make up fifty cents in the dollar, he shall be entitled to an order of discharge in the same manner as if a dividend of fifty cents in the dollar had originally been paid out of his property;
 
 (2) at the expiration of a period of three years from the close of the bankruptcy, if the debtor made bankrupt has not obtained an order of discharge, any balance remaining unpaid in respect of any debt proved in such bankruptcy (but without interest in the meantime) shall be deemed to be a subsisting debt in the nature of a judgment debt, and, subject to the rights of any persons who have become creditors of the debtor since the close of his bankruptcy, may be enforced against any property of the debtor, with the sanction of the court which adjudicated such debtor a bankrupt, or of the court having jurisdiction in bankruptcy in the place where the property is situated, but to the extent only, and at the time and in manner directed by such court, and after giving such notice and doing such acts as may be prescribed in that behalf.
 
@@ -825,7 +829,7 @@ As to Proceedings
 
 (4) a corporation may prove a debt, vote and otherwise act in bankruptcy, by an agent duly authorised under the seal of the corporation;
 
-(5) a creditor may, in the prescribed manner, by instrument in writing, appoint a person to represent him in all matters relating to any debtor or his affairs in which a creditor is concerned in pursuance of this Act, and such representative shall thereupon, for all the pur-poses of this Act, stand in the same position as the creditor who appointed him;
+a creditor may, in the prescribed manner, by instrument in writing, appoint a person to represent him in all matters relating to any debtor or his affairs in which a creditor is concerned in pursuance of this Act, and such representative shall thereupon, for all the pur-poses of this Act, stand in the same position as the creditor who appointed him;
 
 (6) when a debtor who has been adjudicated a bankrupt dies, the court may order that the proceedings in the matter be continued as if he were alive;
 
@@ -833,31 +837,41 @@ As to Proceedings
 
 *Consequences of annulling of adjudication.*
 
-**63.** Whenever any adjudication in bankruptcy is annulled all sales and dispositions of property and payments duly made, and all acts theretofore done, by the trustee or any person acting under his authority, or by the court, shall be valid, but the property of the debtor who was adjudged a bankrupt shall in such case vest in such person as the court may appoint, or in default of any such appointment revert to the bankrupt for all his estate or interest therein upon such terms and subject to such conditions, if any, as the court may declare by order. A copy of the order of the court annulling the adjudication of a debtor as a bankrupt shall be forthwith published in the Gazette and notified locally in the prescribed manner, and the production of a copy of the Gazette containing such order shall be conclusive evidence of the fact of the adjudication having been annulled, and of the terms of the order annulling the same.
+*court, was*
+
+*interest*
+
+*copy of*
+
+*the order*
+
+*order*
+
+**63.** Whenever any adjudication in bankruptcy is annulled all sales and dispositions of property and payments duly made, and all acts theretofore done, by the trustee or any person acting under his authority, or by the shall be valid, but the property of the debtor who adjudged a bankrupt shall in such case vest in such person as the court may appoint, or in default of any such appointment revert to the bankrupt for all his estate or therein upon such terms and subject to such conditions, if any, as the court may declare by order. A the order of the court annulling the adjudication of a debtor as a bankrupt shall be forthwith published in the Gazette and notified locally in the prescribed manner, and production of a copy of the Gazette containing such shall be conclusive evidence of the fact of the adjudication having been annulled, and of the terms of the annulling the same.
 
 *Formal defects not to invalidate proceedings.*
 
-**64.** No proceedings in bankruptcy shall be invalidated by any formal defect or by any irregularity unless the court before which an objection is made to such proceedings is of opinion that substantial injustice has been caused by such defect or irregularity, and that such injustice cannot be remedied by any order of such court.
+*unless*
+
+*caused injustice*
+
+No proceedings in bankruptcy shall be invalidated by any formal defect or by any irregularity the court before which an objection is made to such proceedings is of opinion that substantial injustice has been by such defect or irregularity, and that such cannot be remedied by any order of such court.
 
 As to Trustees and Committee of Inspection
 
 *Provisions as to trustee, etc.*
 
-**65.** The following provisions shall apply with respect to the trustee and committee of inspection —
+*respect to*
 
-(1) the creditors may, if they think fit, appoint more persons than one to the office of trustee, and when more than one are appointed they shall declare whether any act required or authorised to be done by the trustee is to be done by all or any one or more of such persons, but all such persons are in this Act included under the term
+**65.** The following provisions shall apply with the trustee and committee of inspection — (1) the creditors may, if they think fit, appoint more persons than one to the office of trustee, and when more than one are appointed they shall declare whether any act required or authorised to be done by the trustee is to be done by all or any one or more of such persons, but all such persons are in this Act included under the term
 
-“trustee”, and shall be joint tenants of the property of the bankrupt. The creditors may also appoint persons to act as trustees in succession in the event of one or more of the persons first named declining to accept the office of trustee;
-
-(2) if any vacancy occurs in the office of trustee by death, resignation or otherwise, the creditors in general meeting shall fill up such vacancy, and a general meeting for the purpose of filling up such vacancy may be convened by the continuing trustee, if there be more than one, or by the Registrar on the requisition of any creditor;
+“trustee”, and shall be joint tenants of the property of the bankrupt. The creditors may also appoint persons to act as trustees in succession in the event of one or more of the persons first named declining to accept the office of trustee; (2) if any vacancy occurs in the office of trustee by death, resignation or otherwise, the creditors in general meeting shall fill up such vacancy, and a general meeting for the purpose of filling up such vacancy may be convened by the continuing trustee, if there be more than one, or by the Registrar on the requisition of any creditor;
 
 (3) if, through any cause whatever, there is no trustee acting during the continuance of a bankruptcy, the Registrar shall act as such trustee;
 
 (4) the court may, upon cause shown, remove any trustee. The creditors may, by special resolution at a meeting specially called for that purpose, of which seven days’ notice has been given, remove the trustee and appoint another person to fill his office, and the court shall give a certificate declaring him to be the trustee;
 
-(5) if a trustee be adjudged bankrupt, he shall cease to be trustee, and the Registrar shall, if there be no other trustee, call a meeting of creditors for the appointment of another trustee in his place;
-
-(6) the property of the bankrupt shall pass from trustee to trustee, including under that term the Registrar when he fills the office of trustee, and shall vest in the trustee for the time being during his continuance in office, without any conveyance, assignment or transfer whatever;
+if a trustee be adjudged bankrupt, he shall cease to be trustee, and the Registrar shall, if there be no other trustee, call a meeting of creditors for the appointment of another trustee in his place; (6) the property of the bankrupt shall pass from trustee to trustee, including under that term the Registrar when he fills the office of trustee, and shall vest in the trustee for the time being during his continuance in office, without any conveyance, assignment or transfer whatever;
 
 (7) the trustee of a bankrupt may sue and be sued by the official name of the “trustee of the property of ____________ a bankrupt,” inserting the name of the bankrupt, and by that name may hold property of every description, make con-tracts, sue and be sued, enter into any engage-ments binding upon himself and his successors in office and do all other acts necessary or expedient to be done in the execution of his office;
 
@@ -891,21 +905,25 @@ As to Power over Bankrupt
 
 **67.** The court, upon the application of the trustee, may from time to time order that, for such time as the court thinks fit, not exceeding three months from the date of the order of adjudication, post letters addressed to the
 
-bankrupt at any place or any of the places mentioned in the order, shall be re-directed, sent or delivered by the postmaster or the officers acting under him, to the trustee or otherwise as the court directs, and the same shall be done accordingly.
+*bankrupt order,*
 
-*Arrest of bankrupt under certain circumstances.*
+*or done*
 
-**68.** The court may, by warrant addressed to any peace officer or prescribed officer of the court, cause a debtor to be arrested, and any books, papers, moneys, goods and chattels in his possession to be seized, and him and them to be safely kept as prescribed until such time as the court may order, under the following circumstances —
+at any place or any of the places mentioned in the shall be re-directed, sent or delivered by the postmaster or the officers acting under him, to the trustee otherwise as the court directs, and the same shall be accordingly.
 
-(1) if, after a petition of bankruptcy is presented against such debtor, it appears to the court that there is probable reason for believing that he is about to go abroad or to quit his place of residence with a view of avoiding service of the petition, or of avoiding appearing to the petition or of avoiding examination in respect of his affairs, or otherwise delaying or embarrassing the proceedings in bankruptcy;
+*Arrest of*
+
+*peace bankrupt under*
+
+*certain debtor to circumstances. goods and them the court*
+
+**68.** The court may, by warrant addressed to any officer or prescribed officer of the court, cause a be arrested, and any books, papers, moneys, and chattels in his possession to be seized, and him to be safely kept as prescribed until such time as may order, under the following circumstances — (1) if, after a petition of bankruptcy is presented against such debtor, it appears to the court that there is probable reason for believing that he is about to go abroad or to quit his place of residence with a view of avoiding service of the petition, or of avoiding appearing to the petition or of avoiding examination in respect of his affairs, or otherwise delaying or embarrassing the proceedings in bankruptcy;
 
 (2) if, after a petition in bankruptcy has been presented against such debtor, it appears to the court that there is probable cause for believing that he is about to remove his goods or chattels with a view of preventing or delaying such goods or chattels being taken possession of by the trustee, or that there is probable ground for believing that he has concealed or is about to conceal or destroy any of his goods or chattels, or any books, documents or writings which might be of use to his creditors in the course of his bankruptcy;
 
-(3) if, after the service of the petition on such debtor, or after an adjudication in bankruptcy against him, he removes any goods or chattels in
-
 *5 of 1987, s.2.*
 
-his possession above the value of twenty dollars, without the leave of the trustee, or if, without good cause shown, he fails to attend any examination ordered by the court.
+(3) if, after the service of the petition on such debtor, or after an adjudication in bankruptcy against him, he removes any goods or chattels in his possession above the value of twenty dollars, without the leave of the trustee, or if, without good cause shown, he fails to attend any examination ordered by the court.
 
 As to Property Devolving upon Trustee
 
@@ -939,49 +957,65 @@ the property comprised in such settlement, be void against such trustee. Any cov
 
 (1) any payment made in good faith and for value received to any bankrupt before the date of the order of adjudication by a person not having at the time of such payment notice of any act of bankruptcy committed by the bankrupt, and available against him for adjudication;
 
-(2) any payment or delivery of money or goods belonging to a bankrupt, made to such bankrupt by a depositary of such money or goods before the date of the order of adjudication, who had not at the time of such payment or delivery notice of any act of bankruptcy committed by the bankrupt, and available against him for adjudication;
+any payment or delivery of money or goods belonging to a bankrupt, made to such bankrupt by a depositary of such money or goods before the date of the order of adjudication, who had not at the time of such payment or delivery notice of any act of bankruptcy committed by the bankrupt, and available against him for adjudication;
 
 (3) any contract or dealing with any bankrupt, made in good faith and for valuable consideration, before the date of the order of adjudication, by a person not having, at the time of making such contract or dealing, notice of any act of bankruptcy committed by the bankrupt, and available against him for adjudication.
 
-*Protection of certain transactions entered into by or in relation to the property of the bankrupt.*
+*Protection of certain*
 
-**75.** Subject and without prejudice to the provisions of this Act relating to the proceeds of the sale and seizure of goods of a trader, and to the provisions of this Act avoiding certain settlements, and avoiding, on the ground of their constituting fraudulent preferences, certain con-veyances, charges, payments and judicial proceedings, the following transactions by and in relation to the property of a bankrupt shall be valid, notwithstanding any prior act of bankruptcy —
+*of this*
+
+*transactions*
+
+*of goods*
+
+*entered into by*
+
+*avoiding*
+
+*or in relation to the property of*
+
+*of their*
+
+*the bankrupt.*
+
+*veyances, following a*
+
+**75.** Subject and without prejudice to the provisions Act relating to the proceeds of the sale and seizure of a trader, and to the provisions of this Act certain settlements, and avoiding, on the ground constituting fraudulent preferences, certain con-charges, payments and judicial proceedings, the transactions by and in relation to the property of bankrupt shall be valid, notwithstanding any prior act of bankruptcy —
 
 (1) any disposition or contract with respect to the disposition of property by conveyance, transfer, charge, delivery of goods, payment of money, or otherwise howsoever made by any bankrupt in good faith and for valuable considerations, before the date of the order of adjudication, with any person not having at the time of the making of such disposition of property notice of any act of bankruptcy committed by the bankrupt, and available against him for adjudication;
 
 (2) any execution or attachment against the land of the bankrupt, executed in good faith by seizure before the date of the order of adjudication, if the person on whose account such execution or attachment was issued had not at the time of the same being so executed by seizure, notice of any act of bankruptcy committed by the bankrupt and available against him for adjudication;
 
-(3) any execution or attachment against the goods of any bankrupt, executed in good faith by seizure and sale before the date of the order of adjudication, if the person on whose account such execution or attachment was issued had not at the time of the same being executed by seizure and sale notice of any act of bankruptcy committed by the bankrupt and available against him for adjudication.
+any execution or attachment against the goods of any bankrupt, executed in good faith by seizure and sale before the date of the order of adjudication, if the person on whose account such execution or attachment was issued had not at the time of the same being executed by seizure and sale notice of any act of bankruptcy committed by the bankrupt and available against him for adjudication.
 
 *Protection of transactions within designated systems. 5 of 2012, s. 2.*
 
-**75A.** (1) Notwithstanding any other provision of this Act or any prior act of bankruptcy by a bankrupt, transactions in relation to the property of a bankrupt shall be valid where such transactions consist of —
+**75A.** (1) Notwithstanding any other provision of this Act or any prior act of bankruptcy by a bankrupt, transactions in relation to the property of a bankrupt valid where such transactions consist of — shall be
 
 (a) any entry to or payment out of the account of a bankrupt at the Central Bank, made prior to the date the order is made adjudging the account holder a bankrupt, which is in accordance with the system rules of a designated system final, irrevocable and irreversible;
 
 (b) any grant by a bankrupt, made prior to the date of adjudication of bankruptcy, of any collateral to a participant, clearing house, central counter-party or the Bank as security for a payment, or the performance of an obligation, incurred in a designated system.
 
-(2) For the purposes of this section, “designated system”, “participant”, “clearing house”,
+For the purposes of this section, “designated (2)
 
-“central counter-party” or “the Bank” have the
-
-*Ch. 351A.*
-
-meanings assigned to them under the Payment Systems Act.
-
-(3) A court shall not grant a stay, provision or order under this Act except in accordance with the system rules and finality of payment provisions
+system”, “participant”, “clearing house”,
 
 *Ch. 351A.*
 
-of Part III of the Payment Systems Act.
-
-*Non-recognition of insolvency order of foreign court. 5 of 2012, s. 2.*
-
-**75B.** Notwithstanding any provision of any other written law or rule of law, a court in The Bahamas shall not recognise or give effect to an order of a court outside The Bahamas exercising jurisdiction under the law of insolvency to the extent that the making of or contents of that order would be inconsistent with or contrary to the
+“central counter-party” or “the Bank” have the meanings assigned to them under the Payment Systems Act.
 
 *Ch. 351A.*
 
-provisions of the Payment Systems Act.
+(3) A court shall not grant a stay, provision or order under this Act except in accordance with the system rules and finality of payment provisions of Part III of the Payment Systems Act.
+
+*Non-recognition of insolvency written order of foreign court. 5 of 2012, s. 2.*
+
+*that*
+
+*Ch. 351A.*
+
+**75B.** Notwithstanding any provision of any other law or rule of law, a court in The Bahamas shall not recognise or give effect to an order of a court outside The Bahamas exercising jurisdiction under the law of insolvency to the extent that the making of or contents of order would be inconsistent with or contrary to the provisions of the Payment Systems Act.
 
 *[CH.69 – 42 A*
 
@@ -1089,9 +1123,15 @@ Where by this Act any act or proceeding is directed to be done or taken on a cer
 
 ## PART VI LIQUIDATION BY ARRANGEMENT
 
-*Provisions as to liquidation by arrangement.*
+*Provisions as to liquidation by*
 
-**96.** The following provisions shall apply with respect to the liquidation by arrangement of the affairs of the debtor —
+*respect to*
+
+*arrangement.*
+
+*the*
+
+The following provisions shall apply with the liquidation by arrangement of the affairs of debtor —
 
 (1) a debtor unable to pay his debts may summon a general meeting of his creditors, and such meeting may, by a special resolution as defined by this Act, declare that the affairs of the debtor are to be liquidated by arrangement and not in bankruptcy, and may at that or some subsequent meeting, held at an interval of not more than a week, appoint a trustee, with or without a committee of inspection;
 
@@ -1099,11 +1139,9 @@ Where by this Act any act or proceeding is directed to be done or taken on a cer
 
 (a) that every such meeting shall be presided over by such chairman as the meeting may elect;
 
-(b) that no creditor shall be entitled to vote until he has proved by a statutory declaration a debt provable in bankruptcy to be due to him, and the amount of such debt, with any prescribed particulars; and any person wil-fully making a false declaration in relation to such debt shall be guilty of a misdemeanour;
+(b) that no creditor shall be entitled to vote until he has proved by a statutory declaration a debt provable in bankruptcy to be due to him, and the amount of such debt, with any prescribed particulars; and any person wil-fully making a false declaration in relation to such debt shall be guilty of a misdemeanour; (3) the debtor, unless prevented by sickness or other cause satisfactory to such meeting, shall be present at the meeting at which the special resolution is passed, and shall answer any inquiries made of him, and he, or if he is so prevented from being at such meeting, someone on his behalf shall produce to the meeting a statement showing the whole of his assets and debts and the names and addresses of the creditors to whom his debts are due;
 
-(3) the debtor, unless prevented by sickness or other cause satisfactory to such meeting, shall be present at the meeting at which the special resolution is passed, and shall answer any inquiries made of him, and he, or if he is so prevented from being at such meeting, someone on his behalf shall produce to the meeting a statement showing the whole of his assets and debts and the names and addresses of the creditors to whom his debts are due;
-
-(4) the special resolution, together with the statement of the assets and debts of the debtor, and the name of the trustee appointed, and of the members, if any, of the committee of inspection, shall be presented to the Registrar, and it shall be his duty to inquire whether such resolution has been passed in manner directed by this section, but if satisfied that it was so passed, and that a trustee has been appointed with or without a committee of inspection, he shall forthwith register the resolution and the statement of the assets and debts of the debtor, and such resolution and statement shall be open for inspection on the prescribed conditions, and the liquidation by arrangement shall be deemed to have commenced as from the date of the appointment of the trustee;
+the special resolution, together with the statement of the assets and debts of the debtor, and the name of the trustee appointed, and of the members, if any, of the committee of inspection, shall be presented to the Registrar, and it shall be his duty to inquire whether such resolution has been passed in manner directed by this section, but if satisfied that it was so passed, and that a trustee has been appointed with or without a committee of inspection, he shall forthwith register the resolution and the statement of the assets and debts of the debtor, and such resolution and statement shall be open for inspection on the prescribed conditions, and the liquidation by arrangement shall be deemed to have commenced as from the date of the appointment of the trustee;
 
 (5) all such property of the debtor as would, if he were made bankrupt, be divisible amongst his creditors shall, from and after the date of the appointment of a trustee, vest in such trustee under a liquidation by arrangement, and be divisible amongst the creditors, and all such settlements, conveyances, transfers, charges, payments, obligations and proceedings, as would be void against the trustee in the case of a bankruptcy, shall be void against the trustee in the case of liquidation by arrangement;
 
@@ -1127,11 +1165,9 @@ included liquidation by arrangement; and in construing such provisions the appoi
 
 (13) where no committee of inspection is appointed, the trustee may act in his own discretion in cases where he would otherwise have been bound to refer to such committee;
 
-(14) in calculating a majority, on a special resolution for the purposes of this section, creditors whose
-
 *5 of 1987. s. 2.*
 
-debts amount to sums not exceeding forty dollars shall be reckoned in the majority in value, but not in the majority in number.
+(14) in calculating a majority, on a special resolution for the purposes of this section, creditors whose debts amount to sums not exceeding forty dollars shall be reckoned in the majority in value, but not in the majority in number.
 
 ## PART VII COMPOSITION WITH CREDITORS AND MISCELLANEOUS
 
@@ -1141,11 +1177,9 @@ debts amount to sums not exceeding forty dollars shall be reckoned in the majori
 
 An extraordinary resolution of creditors shall be a resolution which has been passed by a majority in number and three-fourths in value of the creditors of the debtor, assembled at a general meeting to be held in the manner prescribed, of which notice has been given in the prescribed manner, and has been confirmed by a majority in number and value of the creditors assembled at a subsequent general meeting, of which notice has been given in the prescribed manner, and held at an interval of not less than seven days or more than fourteen days from the date of the meeting at which such resolution was first passed.
 
-In calculating a majority for the purposes of a composition under this section, creditors whose debts
-
 *5 of 1987, s. 2.*
 
-amount to sums not exceeding forty dollars shall be reckoned in the majority in value, but not in the majority in number, and the value of the debts of secured creditors shall, as nearly as circumstances admit, be estimated in the same way, and the same description of creditors shall be entitled to vote at such general meetings as in bankruptcy.
+In calculating a majority for the purposes of a composition under this section, creditors whose debts amount to sums not exceeding forty dollars shall be reckoned in the majority in value, but not in the majority in number, and the value of the debts of secured creditors shall, as nearly as circumstances admit, be estimated in the same way, and the same description of creditors shall be entitled to vote at such general meetings as in bankruptcy.
 
 The debtor, unless prevented by sickness or other cause satisfactory to such meetings, shall be present at both the meetings at which the extraordinary resolution is passed, and shall answer any inquiries made of him, and
 

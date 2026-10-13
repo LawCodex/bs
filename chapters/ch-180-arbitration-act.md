@@ -271,7 +271,9 @@ Saving for rights of person who takes no part in proceedings. Loss of right to o
 
 *42 of 2009*
 
-An Act to restate and improve the law relating to Arbitration pursuant to an Arbitration Agreement; to make other provision relating to Arbitration and Arbitration Awards; and for other matters related thereto.
+*make*
+
+An Act to restate and improve the law relating to Arbitration pursuant to an Arbitration Agreement; to other provision relating to Arbitration and Arbitration Awards; and for other matters related thereto.
 
 [Assent 31st January, 2009]
 
@@ -287,7 +289,9 @@ PART l PRELIMINARY
 
 *Interpretation.*
 
-**2.** (1) In this Act —
+(1) In this Act —
+
+2.
 
 “arbitration agreement” means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not; and may be in the form of an arbitration clause in a contract or in the form of a separate agreement;
 
@@ -323,7 +327,9 @@ or determined, in the absence of any such designation, having regard to the part
 
 “substantive jurisdiction”, in relation to an arbitral tribunal, refers to the matters specified in section 41(1)(a) to (c), and references to the tribunal exceeding its substantive jurisdiction shall be construed accordingly.
 
-(2) The reference in an agreement to a written form of arbitration clause or to a document containing an arbitration clause constitutes an arbitration agreement if the reference is such as to make that clause part of the agreement.
+*of*
+
+(2) The reference in an agreement to a written form arbitration clause or to a document containing an arbitration clause constitutes an arbitration agreement if the reference is such as to make that clause part of the agreement.
 
 (3) References in this Act to a party to an arbitration agreement include any person claiming under or through a party to the agreement.
 
@@ -459,11 +465,9 @@ the court may by order extend the time for taking that step.
 
 (4) The court may extend the time for such period and on such terms as it thinks fit, and may do so whether or not the time previously fixed (by agreement or by a previous order) has expired.
 
-(5) An order under this section does not affect the
-
 *Ch. 83.*
 
-operation of the Limitation Act.
+(5) An order under this section does not affect the operation of the Limitation Act.
 
 (6) The leave of the court is required for any appeal from a decision of the court under this section.
 
@@ -525,7 +529,9 @@ the period between the commencement of the arbitration and the date of the order
 
 *Application of sections 17 to 25.*
 
-**16.** Except as the parties may otherwise agree in writing (whether in the arbitration agreement or otherwise), sections 17 to 25 apply to every arbitration for which the place of arbitration is, or would be, The Bahamas.
+*place*
+
+**16.** Except as the parties may otherwise agree in writing (whether in the arbitration agreement or otherwise), sections 17 to 25 apply to every arbitration for which the of arbitration is, or would be, The Bahamas.
 
 *Arbitral proceedings must be private. Arbitration agreements deemed to prohibit disclosure.*
 
@@ -567,25 +573,31 @@ the period between the commencement of the arbitration and the date of the order
 
 *Arbitral tribunal may allow disclosure.*
 
-**20.** (1) This section applies if —
+(1) This section applies if —
+
+20.
 
 (a) a question arises in any arbitral proceedings as to whether confidential information should be disclosed other than as authorised under section 19(a) to (d); and
 
 (b) at least one of the parties agrees to refer that question to the arbitral tribunal concerned.
 
-(2) The arbitral tribunal, after giving each of the parties an opportunity to be heard, may make or refuse to make an order allowing all or any of the parties to disclose confidential information.
+*parties an make an*
 
-*When Supreme Court may allow or prohibit disclosure.*
+(2) The arbitral tribunal, after giving each of the opportunity to be heard, may make or refuse to order allowing all or any of the parties to disclose confidential information.
 
-**21.** (1) The Supreme Court may make an order allowing a party to disclose any confidential information —
+*When Supreme Court may allow allowing or prohibit mation — disclosure.*
 
-(a) on the application of that party, which application may be made only if the mandate of the arbitral tribunal has been terminated; or
+**21.** (1) The Supreme Court may make an order a party to disclose any confidential infor-
 
-(b) on an appeal by that party, after an order under section 20(2) allowing that party to disclose the confidential information has been refused by an arbitral tribunal.
+(a) on the application of that party, which application may be made only if the mandate of the arbitral tribunal has been terminated; or (b) on an appeal by that party, after an order under section 20(2) allowing that party to disclose the confidential information has been refused by an arbitral tribunal.
 
 (2) The Supreme Court may make an order under subsection (1) only if —
 
 (a) it is satisfied, in the circumstances of the particular case, that the public interest in preserving the confidentiality of arbitral pro-ceedings is outweighed by other considerations that render it desirable in the public interest for the confidential information to be disclosed; and
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 (b) the disclosure is no more than what is reasonably required to serve the other considerations referred to in paragraph (a).
 
@@ -593,7 +605,9 @@ the period between the commencement of the arbitration and the date of the order
 
 (4) The Supreme Court may make an order under this section only if it has given each of the parties an opportunity to be heard.
 
-(5) The Supreme Court may make an order under this section —
+(5) The Supreme Court may make an order under this
+
+section —
 
 (a) unconditionally; or
 
@@ -607,9 +621,9 @@ the period between the commencement of the arbitration and the date of the order
 
 **22.** (1) The Court must conduct proceedings under this Act in public unless the Court makes an order that the whole or any part of the proceedings must be conducted in private.
 
-(2) The Court may make an order under subsection
+(2) The Court may make an order under subsection (1)
 
-(1) —
+—
 
 (a) on the application of any party to the proceedings; and
 
@@ -619,7 +633,9 @@ the period between the commencement of the arbitration and the date of the order
 
 *Applicant must state reasons for seeking order.*
 
-**23.** An applicant for an order under section 22 must state in the application —
+**23.** An applicant for an order under section 22 must state
+
+in the application —
 
 (a) whether the applicant is seeking an order for the whole or part of the proceedings to be conducted in private; and
 
@@ -783,7 +799,9 @@ parties are free to agree how the tribunal is to make decisions, orders and awar
 
 *Power of court to remove arbitrator.*
 
-**35.** (1) A party to arbitral proceedings may (upon notice to the other parties, to the arbitrator concerned and to any other arbitrator) apply to the court to remove an arbitrator on any of the following grounds —
+*to*
+
+**35.** (1) A party to arbitral proceedings may (upon notice to the other parties, to the arbitrator concerned and any other arbitrator) apply to the court to remove an arbitrator on any of the following grounds —
 
 (a) that circumstances exist that give rise to justifiable doubts as to his impartiality;
 
@@ -961,41 +979,51 @@ make an award while an application to the court under this section is pending.
 
 (c) whether any and if so what form of written statements of claim and defence are to be used,
 
-when these should be supplied and the extent to which such statements can be later amended;
+when these should be supplied and the extent to which such statements can be later amended; (d) whether any and if so which documents or classes of documents should be disclosed between and produced by the parties and at what stage;
 
-(d) whether any and if so which documents or classes of documents should be disclosed between and produced by the parties and at what stage;
-
-(e) whether any and if so what questions should be put to and answered by the respective parties and when and in what form this should be done;
-
-(f) whether to apply strict rules of evidence (or any other rules) as to the admissibility, relevance or weight of any material (oral, written or other) sought to be tendered on any matters of fact or opinion, and the time, manner and form in which such material should be exchanged and presented;
+(e) whether any and if so what questions should be put to and answered by the respective parties and when and in what form this should be done; (f) whether to apply strict rules of evidence (or any other rules) as to the admissibility, relevance or weight of any material (oral, written or other) sought to be tendered on any matters of fact or opinion, and the time, manner and form in which such material should be exchanged and presented;
 
 (g) whether and to what extent the tribunal should itself take the initiative in ascertaining the facts and the law;
 
 (h) whether and to what extent there should be oral or written evidence or submissions.
 
-(3) The tribunal may fix the time within which any directions given by it are to be complied with, and may if it thinks fit extend the time so fixed (whether or not it has expired).
+*directions thinks fit expired).*
+
+(3) The tribunal may fix the time within which any given by it are to be complied with, and may if it extend the time so fixed (whether or not it has
 
 *Consolidation of proceedings and concurrent hearings.*
 
-**46.** (1) The parties are free to agree —
+(1) The parties are free to agree —
 
-(a) that the arbitral proceedings shall be consolidated with other arbitral proceedings; or
+46.
 
-(b) that concurrent hearings shall be held, on such terms as may be agreed.
+(a) that the arbitral proceedings shall be consolidated with other arbitral proceedings; or (b) that concurrent hearings shall be held, on such terms as may be agreed.
 
-(2) Unless the parties agree to confer such power on the tribunal, the tribunal has no power to order consolidation of proceedings or concurrent hearings.
+*the*
 
-*Legal or other representation.*
+(2) Unless the parties agree to confer such power on tribunal, the tribunal has no power to order consolidation of proceedings or concurrent hearings.
 
-**47.** Unless otherwise agreed by the parties, a party to arbitral proceedings may be represented in the proceedings by a counsel and attorney or other person chosen by him.
+*Legal or other representation. to*
+
+*chosen*
+
+**47.** Unless otherwise agreed by the parties, a party arbitral proceedings may be represented in the proceedings by a counsel and attorney or other person by him.
 
 *Power to appoint experts, legal advisers or assessors.*
 
-**48.** (1) Unless otherwise agreed by the parties —
+(1) Unless otherwise agreed by the parties —
 
-(a) the tribunal may —
+48.
+
+the tribunal may —
+
+(a)
 
 (i) appoint experts or legal advisers to report to it and the parties, or
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 (ii) appoint assessors to assist it on technical matters,
 
@@ -1003,21 +1031,29 @@ and may allow any such expert, legal adviser or assessor to attend the proceedin
 
 (b) the parties shall be given a reasonable opportunity to comment on any information, opinion or advice offered by any such person.
 
-(2) The fees and expenses of an expert, legal adviser or assessor appointed by the tribunal for which the arbitrators are liable are expenses of the arbitrators for the purposes of this Act.
+*or*
+
+(2) The fees and expenses of an expert, legal adviser assessor appointed by the tribunal for which the arbitrators are liable are expenses of the arbitrators for the purposes of this Act.
 
 *General powers exercisable by the tribunal.*
 
-**49.** (1) The parties are free to agree on the powers exercisable by the arbitral tribunal for the purposes of and in relation to the proceedings.
+*in*
+
+**49.** (1) The parties are free to agree on the powers exercisable by the arbitral tribunal for the purposes of and relation to the proceedings.
 
 (2) Unless otherwise agreed by the parties the tribunal has the following powers.
 
-(3) The tribunal may order a claimant to provide security for the costs of the arbitration and this power shall not be exercised on the ground only that the claimant is —
+*not*
+
+(3) The tribunal may order a claimant to provide security for the costs of the arbitration and this power shall be exercised on the ground only that the claimant is —
 
 (a) an individual ordinarily resident outside The Bahamas; or
 
 (b) a corporation or association incorporated or formed under the law of a country outside The Bahamas or whose central management and control is exercised outside The Bahamas.
 
-(4) The tribunal may give directions in relation to any property which is the subject of the proceedings or as to which any question arises in the proceedings, and which is owned by or is in the possession of a party to the proceedings —
+*any to is*
+
+(4) The tribunal may give directions in relation to property which is the subject of the proceedings or as which any question arises in the proceedings, and which owned by or is in the possession of a party to the proceedings —
 
 (a) for the inspection, photographing, preservation, custody or detention of the property by the tribunal, an expert or a party; or
 
@@ -1037,7 +1073,9 @@ and may allow any such expert, legal adviser or assessor to attend the proceedin
 
 (b) an order to make an interim payment on account of the costs of the arbitration.
 
-(3) Any such order shall be subject to the tribunal’s final adjudication; and the tribunal’s final award, on the merits or as to costs, shall take account of any such order.
+(3) Any such order shall be subject to the tribunal’s adjudication; and the tribunal’s final award, on the final
+
+merits or as to costs, shall take account of any such order.
 
 (4) Unless the parties agree to confer such power on the tribunal, the tribunal has no such power.
 
@@ -1071,7 +1109,9 @@ and may allow any such expert, legal adviser or assessor to attend the proceedin
 
 the tribunal may continue the proceedings in the absence of that party or, as the case may be, without any written evidence or submissions on his behalf, and may make an award on the basis of the evidence before it.
 
-(5) If without showing sufficient cause a party fails to comply with any order or directions of the tribunal, the tribunal may make a peremptory order to the same effect, prescribing such time for compliance with it as the tribunal considers appropriate.
+*to*
+
+(5) If without showing sufficient cause a party fails comply with any order or directions of the tribunal, the tribunal may make a peremptory order to the same effect, prescribing such time for compliance with it as the tribunal considers appropriate.
 
 (6) If a claimant fails to comply with a peremptory order of the tribunal to provide security for costs, the tribunal may make an award dismissing his claim.
 
@@ -1087,9 +1127,13 @@ the tribunal may continue the proceedings in the absence of that party or, as th
 
 ## PART IX POWERS OF COURT IN RELATION TO ARBITRAL PROCEEDINGS
 
-*Enforcement of peremptory orders of tribunal.*
+*Enforcement of peremptory orders of*
 
-court may make an order requiring a party to comply with a peremptory order made by the tribunal.
+*a*
+
+*tribunal.*
+
+court may make an order requiring a party to comply with peremptory order made by the tribunal.
 
 (2) An application for an order under this section may be made —
 
@@ -1267,17 +1311,21 @@ with the interim measure issued by the arbitral tribunal has not been complied w
 
 (iii) the interim measure has been terminated or suspended by the arbitral tribunal or, where so empowered, by the court of the country in which the arbitration takes place or under the law of which that interim measure was granted; or
 
-(b) if the court finds that —
+*(b) if*
 
-(i) the interim measure is incompatible with the powers conferred upon the court unless the court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or
+the court finds that —
 
-(ii) any of the grounds set forth in subsection (3)(b) apply to the recognition and enforcement of the interim measure.
+(i) the interim measure is incompatible with the powers conferred upon the court unless the court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or (ii) any of the grounds set forth in subsection (3)(b) apply to the recognition and enforcement of the interim measure.
 
-(2) Any determination made by the court on any ground in subsection (1) shall be effective only for the purposes of the application to recognise and enforce the interim measure. The court where recognition or enforcement is sought shall not, in making that determination, undertake a review of the substance of the interim measure.
+*ground in purposes of interim cement is undertake a (3) The and (1)(b)(ii)*
 
-(3) The grounds referred to in subsection (1)(a)(i) and (1)(b)(ii) are —
+(2) Any determination made by the court on any subsection (1) shall be effective only for the the application to recognise and enforce the measure. The court where recognition or enfor-sought shall not, in making that determination, review of the substance of the interim measure.
 
-(a) where the court finds that —
+grounds referred to in subsection (1)(a)(i) are —
+
+where the court finds that —
+
+(a)
 
 (i) a party to the arbitration agreement was under some incapacity; or the agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the interim measure was made;
 
@@ -1285,11 +1333,15 @@ with the interim measure issued by the arbitral tribunal has not been complied w
 
 (iii) the interim measure deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the
 
+*STATUTE LAW OF THE BAHAMAS*
+
 scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the interim measure which contains decisions on matters submitted to arbitration may be recognised and enforced; or
 
 (iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties or, failing such agreement, was not in accordance with the law of the country where the arbitration took place;
 
-(b) where the court finds that —
+(b)
+
+where the court finds that —
 
 (i) the subject-matter of the dispute is not capable of settlement by arbitration under the law of The Bahamas; or
 
@@ -1297,21 +1349,35 @@ scope of the submission to arbitration, provided that, if the decisions on matte
 
 *Court-ordered interim measures.*
 
-**67.** The court shall have the same power of issuing an interim measure in relation to arbitration proceedings, irrespective of whether the place is in The Bahamas, as it has in relation to proceedings in the court. The court shall exercise such power in accordance with its own procedures in consideration of the specific features of international arbitration.
+*an interim*
+
+*exercise such in arbitration.*
+
+**67.** The court shall have the same power of issuing measure in relation to arbitration proceedings, irrespective of whether the place is in The Bahamas, as it has in relation to proceedings in the court. The court shall power in accordance with its own procedures consideration of the specific features of international
 
 ## PART XI THE AWARD
 
-*Rules applicable to substance of dispute.*
+*\68. (1)*
 
-**68.** (1) The arbitral tribunal shall decide the dispute —
+*Rules applicable*
 
-(a) in accordance with the law chosen by the parties as applicable to the substance of the dispute; or
+*dispute —*
 
-(b) if the parties so agree, in accordance with such other considerations as are agreed by them or determined by the tribunal.
+The arbitral tribunal shall decide the
 
-(2) For this purpose the choice of the laws of a country shall be understood to refer to the substantive laws of that country and not its conflict of laws rules.
+*to substance of dispute.*
 
-(3) If or to the extent that there is no such choice or agreement, the tribunal shall apply the law determined by the conflict of laws rules which it considers applicable.
+*(a) in as (b) if*
+
+accordance with the law chosen by the parties applicable to the substance of the dispute; or the parties so agree, in accordance with such other considerations as are agreed by them or determined by the tribunal.
+
+*country shall*
+
+(2) For this purpose the choice of the laws of a be understood to refer to the substantive laws of that country and not its conflict of laws rules.
+
+*(3) If agreement,*
+
+or to the extent that there is no such choice or the tribunal shall apply the law determined by the conflict of laws rules which it considers applicable.
 
 *Awards on different issues, etc.*
 
@@ -1349,7 +1415,9 @@ tribunal may make more than one award at different times on different aspects of
 
 (2) Unless otherwise agreed by the parties the following provisions apply.
 
-(3) The tribunal may award simple or compound interest from such dates, at such rates and with such rests as it considers meet the justice of the case —
+(3) The tribunal may award simple or compound interest from such dates, at such rates and with such rests considers meet the justice of the case —
+
+as it
 
 (a) on the whole or part of any amount awarded by the tribunal, in respect of any period up to the date of the award;
 
@@ -1533,7 +1601,9 @@ proceedings may apply to the court (upon notice to the other parties) which may 
 
 **86.** (1) Unless otherwise agreed by the parties, the recoverable costs of the arbitration shall include in respect of the fees and expenses of the arbitrators only such reasonable fees and expenses as are appropriate in the circumstances.
 
-(2) If there is any question as to what reasonable fees and expenses are appropriate in the circumstances, and the matter is not already before the court on an application under section 85(4), the court may on the application of any party (upon notice to the other parties) —
+(2) If there is any question as to what reasonable fees and expenses are appropriate in the circumstances, and the matter is not already before the court on an application under section 85(4), the court may on the application of party (upon notice to the other parties) —
+
+any
 
 (a) determine the matter; or
 
@@ -1561,17 +1631,13 @@ arbitration, or of any part of the arbitral proceedings, shall be limited to a s
 
 (3) Leave to enforce an award shall not be given where, or to the extent that, the person against whom it is sought to be enforced shows that the tribunal lacked substantive jurisdiction to make the award.
 
-(4) Nothing in this section affects the recognition or enforcement of an award under any other written law or rule of law in particular the provisions of the Arbitration
+*Ch. 182.*
+
+(4) Nothing in this section affects the recognition or enforcement of an award under any other written law or rule of law in particular the provisions of the Arbitration (Foreign Arbitral Awards) Act, relating to the recognition and enforcement of awards under the New York Convention or by an action on the award.
 
 *Ch. 182.*
 
-(Foreign Arbitral Awards) Act, relating to the recognition and enforcement of awards under the New York Convention or by an action on the award.
-
-(5) An arbitral award, irrespective of the country in which it was made, shall be recognised as binding and, upon application to the court, shall be enforced subject (whether or not it is a convention award) to the provisions of sections 5 and 6 of the Arbitration (Foreign Arbitral
-
-*Ch. 182.*
-
-Awards) Act.
+(5) An arbitral award, irrespective of the country in which it was made, shall be recognised as binding and, upon application to the court, shall be enforced subject (whether or not it is a convention award) to the provisions of sections 5 and 6 of the Arbitration (Foreign Arbitral Awards) Act.
 
 *Challenging the award: substantive jurisdiction.*
 
@@ -1581,7 +1647,9 @@ Awards) Act.
 
 (b) for an order declaring an award made by the tribunal on the merits to be of no effect, in whole or in part, because the tribunal did not have substantive jurisdiction.
 
-(2) The arbitral tribunal may continue the arbitral proceedings and make a further award while an application to the court under this section is pending in relation to an award as to jurisdiction.
+*to*
+
+(2) The arbitral tribunal may continue the arbitral proceedings and make a further award while an application the court under this section is pending in relation to an award as to jurisdiction.
 
 (3) On an application under this section challenging an award of the arbitral tribunal as to its substantive jurisdiction, the court may by order —
 
@@ -1597,7 +1665,9 @@ Awards) Act.
 
 **90.** (1) A party to arbitral proceedings may (upon notice to the other parties and to the tribunal) apply to the court challenging an award in the proceedings on the ground of serious irregularity affecting the tribunal, the proceedings or the award.
 
-(2) Serious irregularity means an irregularity of one or more of the following kinds which the court considers has caused or will cause substantial injustice to the applicant —
+*or*
+
+(2) Serious irregularity means an irregularity of one more of the following kinds which the court considers has caused or will cause substantial injustice to the applicant —
 
 (a) failure by the tribunal to comply with section 44;
 
@@ -1727,7 +1797,9 @@ Bahamas or whose central management and control is exercised outside The Bahamas
 
 he may not raise that objection later, before the tribunal or the court, unless he shows that, at the time he took part or continued to take part in the proceedings, he did not know and could not with reasonable diligence have discovered the grounds for the objection.
 
-(2) Where the arbitral tribunal rules that it has substantive jurisdiction and a party to arbitral proceedings who could have questioned that ruling —
+(2) Where the arbitral tribunal rules that it has substantive jurisdiction and a party to arbitral proceedings could have questioned that ruling —
+
+who
 
 (a) by any available arbitral process of appeal or review; or
 
@@ -1801,7 +1873,9 @@ it shall be treated as effectively served.
 
 (b) by the arbitral tribunal (upon notice to the parties).
 
-(3) The court shall not exercise its power to extend a time limit unless it is satisfied —
+(3) The court shall not exercise its power to extend a
+
+time limit unless it is satisfied —
 
 (a) that any available recourse to the tribunal, or to any arbitral or other institution or person vested by the parties with power in that regard, has first been exhausted; and
 

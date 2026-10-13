@@ -15,11 +15,9 @@ retrieved: 2026-10-13
 
 # Anti-Doping in Sport Act
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-24 th March, 2025 (A)
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 24 th March, 2025 (A)
 
 ### ANTI-DOPING IN SPORTS ACT
 
@@ -113,7 +111,9 @@ Dated this day of , 2025 Dated this 25 th day of March, 2025 Signed
 
 ## PART I - PRELIMINARY
 
-**1.** Short title.
+*Short*
+
+**1.** title.
 
 This Act may be cited as the Anti-Doping in Sports Act.
 
@@ -179,7 +179,7 @@ In this Act —
 
 “event” means a series of individual competitions conducted together under one international sporting federation or National sporting organisation or ruling body;
 
-9 “fault” means any breach of duty or any lack of care appropriate to a particular situation;
+“fault” means any breach of duty or any lack of care appropriate to a particular situation;
 
 10 “ineligibility” means the athlete or other person is barred on account of anti-doping rule violations for a specified period of time from participating in any Competition or other activity or funding as provided in Article 10.14 of the Code;
 
@@ -251,19 +251,27 @@ c) an International Federation;
 
 **3.** Convention to have force of law.
 
-The Unesco International Convention against Doping in Sport shall have the force of law in The Bahamas.
+*The*
 
-## PART II - THE BAHAMAS ANTI-DOPING COMMISSION
+Unesco International Convention against Doping in Sport shall have the force of law in The Bahamas.
+
+*PART II -*
+
+### THE BAHAMAS ANTI-DOPING COMMISSION
 
 Establishment of The Bahamas Anti-Doping Commission.
 
-(1) There is established for the purposes of this Act, a body to be known as The Bahamas Anti-Doping Commission which shall be a body corporate. (2) The provisions of the First Schedule shall have effect as to the constitution and procedure of the Commission and otherwise in relation thereto.
+*The The*
 
-**5.** Functions of the Commission.
+(1) There is established for the purposes of this Act, a body to be known as Bahamas Anti-Doping Commission which shall be a body corporate. (2) provisions of the First Schedule shall have effect as to the constitution and procedure of the Commission and otherwise in relation thereto.
 
-(1) The Commission shall perform such functions as are necessary to facilitate the control and prevention of doping in sports including —
+*Functions*
 
-(a) implementing the policies and programmes of the Government against doping in sport;
+**5.** of the Commission.
+
+*The*
+
+(1) Commission shall perform such functions as are necessary to facilitate the control and prevention of doping in sports including — (a) implementing the policies and programmes of the Government against doping in sport;
 
 (b) doing all things necessary to comply with and implement any Article of the Code;
 
@@ -283,9 +291,7 @@ Establishment of The Bahamas Anti-Doping Commission.
 
 (vii) the athlete’s rights and responsibilities with regard to doping in sport, and the consequences of committing an Anti-Doping Rules violation;
 
-(d) establishing a register for the Registered Testing Pool of national-level and international-level Bahamian athletes who are citizens or residents of The Bahamas and notifying such athletes and relevant national sporting organisations of entries made in the register;
-
-(e) directing the anti-doping programme of the Government specific to sports including, the conducting of testing of athletes, planning, coordinating and implementing the collection of samples, the management of test results and conducting hearings in keeping with the mandatory International Standard 26 set out in the Code; (f) testing any athlete whether or not he is a citizen or resident of The Bahamas;
+(d) establishing a register for the Registered Testing Pool of national-level and international-level Bahamian athletes who are citizens or residents of The Bahamas and notifying such athletes and relevant national sporting organisations of entries made in the register; (e) directing the anti-doping programme of the Government specific to sports including, the conducting of testing of athletes, planning, coordinating and implementing the collection of samples, the management of test results and conducting hearings in keeping with the mandatory International Standard 26 set out in the Code; (f) testing any athlete whether or not he is a citizen or resident of The Bahamas;
 
 (g) notifying test results to athletes and, as the case may be, governments of countries other than The Bahamas, anti-doping organisations of other countries, or other signatories to the Code in accordance with bilateral or multilateral agreements entered into by The Bahamas with such governments, organisations or signatories; (h) entering into reciprocal testing agreements with National Anti-Doping Organisations outside The Bahamas, in relation to any athlete;
 
@@ -307,11 +313,11 @@ Establishment of The Bahamas Anti-Doping Commission.
 
 (o) performing any other functions relating to doping in sport that are conferred on the Commission by this or any other enactment; and (p) generally taking all steps necessary or desirable to achieve the purposes of this Act.
 
-(2) In the performance of its functions, the Commission —
+*In the*
 
-(a) shall establish for its use, and for the use of its committees, procedures that are appropriate and fair in the circumstances;
+(2) performance of its functions, the Commission —
 
-(b) shall develop appropriate procedures to —
+(a) shall establish for its use, and for the use of its committees, procedures that are appropriate and fair in the circumstances; (b) shall develop appropriate procedures to —
 
 reflect the needs of athletes who are under the age of eighteen years;
 
@@ -323,7 +329,11 @@ may impose fees or charges for the provision of information, advice or other ser
 
 **6.** Commission to make rules.
 
-The Commission may 29 make rules (in this Act referred to as “Anti-Doping Rules”) for controlling the occurrence of doping in sports and for carrying out the objects of this Act, and without limiting the generality of the foregoing such rules may provide for —
+*The*
+
+*the rules*
+
+Commission may 29 make rules (in this Act referred to as “Anti-Doping Rules”) for controlling the occurrence of doping in sports and for carrying out objects of this Act, and without limiting the generality of the foregoing such may provide for —
 
 (a) initiating, implementing or enforcing any part of the Doping Control 30 process;
 
@@ -357,25 +367,29 @@ For the purposes of this Act, an Anti-Doping Rules violation shall mean an occur
 
 tests which are declared based on reasonable rules which comply with the International Standard for testing;
 
-(e) tampering or attempting to tamper with any part of doping control; (f) the possession of prohibited substances 35 or prohibited methods;
-
-(g) trafficking or attempted trafficking 36 in any prohibited substances or prohibited method; or
+(e) tampering or attempting to tamper with any part of doping control; (f) the possession of prohibited substances 35 or prohibited methods; (g) trafficking or attempted trafficking 36 in any prohibited substances or prohibited method; or
 
 (h) the administration or attempted administration of a prohibited substance or prohibited method to any athlete, or assisting, encouraging, aiding, abetting, covering up or any type of complicity involving an Anti-Doping Rules violation or any attempted violation; 37
 
-38 (i) the complicit or attempted complicit assisting, encouraging, aiding, abetting, conspiring, covering up or any other type of intentional complicity or attempted complicity, involving anti-doping rule violations, attempted anti-doping rule violations or violation of Article 10.14.1 or any other article of the Code;
+*38 (i)*
 
-39 (j) the prohibited association by an athlete or other person with an athlete support person who —
+the complicit or attempted complicit assisting, encouraging, aiding, abetting, conspiring, covering up or any other type of intentional complicity or attempted complicity, involving anti-doping rule violations, attempted anti-doping rule violations or violation of Article 10.14.1 or any other article of the Code;
+
+*39 (j)*
+
+the prohibited association by an athlete or other person with an athlete support person who —
 
 (i) if subject to the authority of an Anti-Doping Organisation, is serving a period of ineligibility 40 ;or
 
 (ii) if not subject to the authority of an Anti-Doping Organisation, and where ineligibility has not been addressed in a results management process pursuant to the Code, has been convicted or found in a criminal, disciplinary or professional proceeding to have engaged in conduct which would have constituted a violation of anti-doping rules, if rules compliant with the Code had been applicable to such person;
 
-41 (k) the taking of any act by an athlete or other person, which threatens or seeks to intimidate another person with the intent of discouraging another person from reporting in good-faith, the information that relates to alleged anti-doping rule violations or alleged noncompliance with the Code to World Anti-Doping Agency, an Anti-Doping Organisation, law enforcement, regulatory or professional disciplinary body, hearing body or person conducting an investigation for World Anti-Doping Agency or an Anti-Doping Organisation to discourage or retaliate against reporting to Authorities.
+*41 (k)*
 
-*42 (2)*
+the taking of any act by an athlete or other person, which threatens or seeks to intimidate another person with the intent of discouraging another person from reporting in good-faith, the information that relates to alleged anti-doping rule violations or alleged noncompliance with the Code to World Anti-Doping Agency, an Anti-Doping Organisation, law enforcement, regulatory or professional disciplinary body, hearing body or person conducting an investigation for World Anti-Doping Agency or an Anti-Doping Organisation to discourage or retaliate against reporting to Authorities.
 
-For the purposes of this section, “Authorities” means WADA, an Anti-Doping Organization, law enforcement, regulatory or professional disciplinary body, hearing body or person conducting an investigation for WADA or an Anti-Doping Organization.
+*42 (2) For*
+
+the purposes of this section, “Authorities” means WADA, an Anti-Doping Organization, law enforcement, regulatory or professional disciplinary body, hearing body or person conducting an investigation for WADA or an Anti-Doping Organization.
 
 Automatic individual disqualification.
 
@@ -421,9 +435,7 @@ where the Athlete does not already have a Therapeutic Use Exemption granted by t
 
 (3) The application for a Therapeutic Use Exemption Certificate from an athlete shall —
 
-(a) be made immediately after the athlete becomes aware that the use of a Prohibited Substance or Prohibited Method is required; and
-
-(b) subject to any circumstance of emergency, be obtained prior to the athlete’s participation in any competition or event.
+(a) be made immediately after the athlete becomes aware that the use of a Prohibited Substance or Prohibited Method is required; and (b) subject to any circumstance of emergency, be obtained prior to the athlete’s participation in any competition or event.
 
 (4) Where an athlete who is subject to testing and has been granted a Therapeutic Use Exemption Certificate by an international sporting federation, the athlete shall immediately report the granting of the Therapeutic Use Exemption Certificate to WADA, and to the relevant national sporting organisation and shall provide to BADTUEC all the relevant information and documentation.
 
@@ -453,7 +465,7 @@ Application to be made in accordance with International Standard. 49
 
 **15.** Functions of BADTUEC.
 
-The functions of the BADTUEC shall be to —
+functions of the BADTUEC shall be to —
 
 (a) receive and examine applications from national-level athletes for Therapeutic Use Exemption Certificates;
 
@@ -579,7 +591,7 @@ Where an appeal is in respect of an international event or a case involving an i
 
 Regulations.
 
-The Commission may, after consultation with the Minister 54 , make regulations generally for giving effect to the provisions of this Act and without prejudice to the generality of the foregoing, the regulations may provide for —
+Commission may, after consultation with the Minister 54 , make regulations generally for giving effect to the provisions of this Act and without prejudice to the generality of the foregoing, the regulations may provide for —
 
 (a) the determination and collection of fees and charges in connection with the exercise of the functions of the Commission;
 
@@ -597,7 +609,9 @@ The Commission may, after consultation with the Minister 54 , make regulations g
 
 **1.** Constitution of Commission.
 
-55 The Commission shall consist of nine members who shall be appointed by the Governor-General by instrument in writing, based on the following selection criteria —
+*55 The*
+
+Commission shall consist of nine members who shall be appointed by the Governor-General by instrument in writing, based on the following selection criteria —
 
 (a) the Chairman shall possess 56 a minimum of ten years of executive-level experience;
 
@@ -627,7 +641,9 @@ The Commission may, after consultation with the Minister 54 , make regulations g
 
 Acting Appointments.
 
-If any member is absent or unable to perform his duties due to absence or illness, the Governor-General may appoint 64 any person to act in place of that member, so, however, that such appointment shall be made in the same manner and from among the same category of persons as would be required in the case of a substantive appointment.
+*so,*
+
+If any member is absent or unable to perform his duties due to absence or illness, Governor-General may appoint 64 any person to act in place of that member, however, that such appointment shall be made in the same manner and from among the same category of persons as would be required in the case of a substantive appointment.
 
 **4.** Tenure of office.
 
@@ -637,7 +653,9 @@ If any member is absent or unable to perform his duties due to absence or illnes
 
 **5.** Quorom.
 
-The quorum shall consist of six members including the Chairman or any person appointed to act as Chairman, who shall preside at all meetings.
+*The*
+
+quorum shall consist of six members including the Chairman or any person appointed to act as Chairman, who shall preside at all meetings.
 
 **6.** Resignation.
 
@@ -649,7 +667,9 @@ The quorum shall consist of six members including the Chairman or any person app
 
 **7.** Revocation.
 
-The Governor-General 69 may at any time revoke the appointment of any member of the Commission if such member —
+*The*
+
+Governor-General 69 may at any time revoke the appointment of any member of the Commission if such member —
 
 (a) becomes of unsound mind or becomes permanently unable to perform his functions by reason of ill health;
 
@@ -661,15 +681,17 @@ The Governor-General 69 may at any time revoke the appointment of any member of 
 
 Gazetting of membership.
 
-The names of all members of the Commission as first constituted and every change thereafter, shall be made available to the public.
+names of all members of the Commission as first constituted and every change thereafter, shall be made available to the public.
 
 Decisions.
 
-The decisions of the Commission shall be by a majority of votes, and in the event of an equality of votes the Chairman shall have a casting vote.
+decisions of the Commission shall be by a majority of votes, and in the event of an equality of votes the Chairman shall have a casting vote.
 
 **10.** Signature and Seal.
 
-All decisions made by the Commission and all documents of the Commission shall be signed by the Chairman or any other person so authorised to act.
+*All*
+
+decisions made by the Commission and all documents of the Commission shall be signed by the Chairman or any other person so authorised to act.
 
 **11.** Remuneration.
 
@@ -677,7 +699,9 @@ There shall be paid to the members of the Commission such remuneration (whether 
 
 **12.** Procedure.
 
-71 (1) The Commission will comply with the operational independence in their activities, both from the Sports Movement and Government, as outlined in Article 20.5.1 of the Code.
+*71 (1)*
+
+The Commission will comply with the operational independence in their activities, both from the Sports Movement and Government, as outlined in Article 20.5.1 of the Code.
 
 (2) Subject to the provisions of this Act, the Commission may regulate its own proceedings.
 
@@ -785,7 +809,9 @@ The resignation of the Chairman or a member of the Appeals Tribunal shall take e
 
 Revocation.
 
-The Governor-General 88 may at any time revoke the appointment of any member of the Appeals Tribunal if such member —
+Governor-General 88 may at any time revoke the appointment of any member The
+
+of the Appeals Tribunal if such member —
 
 (a) becomes of unsound mind or becomes permanently unable to perform his functions by reason of ill health;
 

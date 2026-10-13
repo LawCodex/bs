@@ -14,7 +14,7 @@ retrieved: 2026-10-13
 
 # Appropriation (Revenue Account Expenses)(2022-2023) Act, 2022
 
-### APPROPRIATION (REVENUE ACCOUNT EXPENSES)(2022/2023) ACT, 2022
+### EXPENSES)(2022/2023) ACT, 2022
 
 ## Arrangement of Sections
 
@@ -42,13 +42,13 @@ This Act may be cited as the Appropriation (Revenue Account Expenses) (2022/2023
 
 There may be paid out of the Treasury upon the authority of a warrant under the hand of the Minister of Finance during the financial year beginning on the 1 st day of July, 2022 and ending on the 30th day of June, 2023 the several sums of money for defraying the recurrent expenses on revenue account for the public services of The Bahamas set forth in the Schedule.
 
+\- - 2 2
+
 ## SCHEDULE (section 2)
 
-*Sum Granted $*
+*Sum Granted $ 989,248 277,362 4,078,151 2,460,943 332,045,236 7,744,260 19,364,510*
 
 Head of Expenditure
-
-*989,248 277,362 4,078,151 2,460,943 332,045,236 7,744,260 19,364,510*
 
 **1.** Governor-General and Staff
 
@@ -99,6 +99,8 @@ Head of Expenditure
 **23.** Customs Department
 
 **28.** Department of Inland Revenue Ministry of National Security
+
+*Expenses)(2022/2023) Act,*
 
 Department of Immigration The Royal Bahamas Police Force The Royal Bahamas Defence Force
 
@@ -157,8 +159,6 @@ Department of Immigration The Royal Bahamas Police Force The Royal Bahamas Defen
 **67.** Ministry of Tourism, Investments and Aviation Ministry of Labour and Immigration Ministry of the Environment & Natural
 
 *Page - 4*
-
-Page - 4
 
 Resources
 

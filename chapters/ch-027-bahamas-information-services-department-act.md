@@ -41,11 +41,9 @@ retrieved: 2026-10-13
 
 ## SCHEDULE — Functions of the Department.
 
-### BAHAMAS INFORMATION SERVICES DEPARTMENT
-
 *16 of 1974 S.I. 98/1974 5 of 1980*
 
-An Act to make provision for the establishment of a Bahamas Information Services Department as a department within Article 127(c) of the Constitution; to define its functions; and for matters connected therewith or incidental thereto.
+BAHAMAS INFORMATION SERVICES DEPARTMENT An Act to make provision for the establishment of a Bahamas Information Services Department as a department within Article 127(c) of the Constitution; to define its functions; and for matters connected therewith or incidental thereto.
 
 [Assent 15th October, 1974]
 
@@ -71,17 +69,13 @@ An Act to make provision for the establishment of a Bahamas Information Services
 
 **3.** (1) There shall be established a Department of Government to be called the Bahamas Information Services Department.
 
-(2) The Department shall be subject to the general
-
 *Functions of Department.*
 
-direction and the control of the Minister.
-
-**4.** The functions of the Department shall be those
+(2) The Department shall be subject to the general direction and the control of the Minister.
 
 *Schedule. Offices in Department not public offices.*
 
-set out in the Schedule.
+**4.** The functions of the Department shall be those set out in the Schedule.
 
 **5.** The offices in the Department shall not be public offices for the purposes of the Constitution.
 
@@ -103,11 +97,9 @@ set out in the Schedule.
 
 *Pensions, etc. 5 of 1980, s. 3.*
 
-**7.** (1) Except as provided in any contract of employment with the Department, the Minister may grant to any employee of the Department in respect of his service in the Department a pension, gratuity or other like benefit
-
 *Ch. 43.*
 
-at the rate prescribed by, and in accordance with, the provisions of the Pensions Act as if reference in that Act to the Governor-General, the public service and a public officer were references to the Minister, service in the Department and such employee, respectively.
+**7.** (1) Except as provided in any contract of employment with the Department, the Minister may grant to any employee of the Department in respect of his service in the Department a pension, gratuity or other like benefit at the rate prescribed by, and in accordance with, the provisions of the Pensions Act as if reference in that Act to the Governor-General, the public service and a public officer were references to the Minister, service in the Department and such employee, respectively.
 
 (2) For the purposes of subsection (1), reference to the service of an employee of the Department includes any continuous period of service of that employee in the Department of Tourism immediately prior to his service in the Department.
 
@@ -116,6 +108,10 @@ at the rate prescribed by, and in accordance with, the provisions of the Pension
 *Expenses.*
 
 **8.** The expenses incurred by the Minister in the administration of this Act shall be paid out of moneys provided by Parliament.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 ## SCHEDULE (Section 4)
 

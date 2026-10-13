@@ -16,11 +16,9 @@ retrieved: 2026-10-13
 
 # Bail Act
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-24 th March, 2025
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 24 th March, 2025
 
 ## Arrangement of Sections
 
@@ -98,7 +96,9 @@ Dated this day 25 of day of March, 2025 th
 
 Dated this , 2025 Signed RYAN PINDER ATTORNEY-GENERAL ATTORNEY-GENERAL
 
-Short title.
+*Short*
+
+title.
 
 This Act may be cited as the Bail Act.
 
@@ -132,9 +132,7 @@ In this Act —
 
 **3.** Discretionary grant of bail.
 
-(1) Subject to section 4 and the requirements of Part A of the First Schedule, bail may be granted, notwithstanding the provisions of any other law, to a person —
-
-(a) who is accused of an offence when —
+(1) Subject to section 4 and the requirements of Part A of the First Schedule, bail may be granted, notwithstanding the provisions of any other law, to a person — (a) who is accused of an offence when —
 
 he appears or is brought before a Magistrate’s Court or the Supreme Court in the course of or in connection with proceedings for that offence; or
 
@@ -164,7 +162,9 @@ order that such person be released from custody with or without a surety or sure
 
 may deal with any matter necessary or expedient for the effective and efficient processing of applications for bail.
 
-**3A.** 4 Persons charged with an offence must register with the Bail Management System.
+*3A. 4*
+
+Persons charged with an offence must register with the Bail Management System.
 
 Every person charged with a criminal offence after the coming into operation of the Bail Management System shall be required to register with the Bail Management System either at the Magistrates Court, the Criminal Registry of the Supreme Court, or at the Bahamas Department of Correctional Services with such information as may be required by the Rules regulating the procedure for applying for bail, inclusive of biometric fingerprint data, for the purposes of verifying his identification in the Bail Management System.
 
@@ -192,9 +192,7 @@ shall include in the record a written statement giving the reasons for the order
 
 (a) without limiting the extent of a reasonable time, a period of three years from the date of the arrest or detention of the person charged shall be deemed to be a reasonable time;
 
-(b) delay which is occasioned by the act or conduct of the accused is to be excluded from any calculation of what is considered a reasonable time.
-
-(2B) For the purpose of subsection (2)(c), in deciding whether or not to grant bail to a person charged with an offence mentioned in Part C of the First Schedule, the character or antecedents of the person charged, the need to protect the safety of the public or public order and, where appropriate, the need to protect the safety of the victim or victims of the alleged offence, are to be primary considerations. (3) Deleted. 5
+(b) delay which is occasioned by the act or conduct of the accused is to be excluded from any calculation of what is considered a reasonable time. (2B) For the purpose of subsection (2)(c), in deciding whether or not to grant bail to a person charged with an offence mentioned in Part C of the First Schedule, the character or antecedents of the person charged, the need to protect the safety of the public or public order and, where appropriate, the need to protect the safety of the victim or victims of the alleged offence, are to be primary considerations. (3) Deleted. 5
 
 (3A) Notwithstanding section 3 or any other law, the Magistrates Court shall not have jurisdiction for the grant of bail in respect of any person charged with an offence mentioned in Part C 6 of the First Schedule.
 
@@ -254,7 +252,9 @@ to the Supreme Court for a review of the decision remand the accused person or c
 
 (5) The powers of the Supreme Court under this section are without prejudice to the jurisdiction vested in the Supreme Court under any other law.
 
-**8A.** 7 Appeal to the Court of Appeal.
+*8A. 7*
+
+Appeal to the Court of Appeal.
 
 (1) Where the Supreme Court grants or refuses a person bail, or revokes or refuses to revoke bail, the prosecution or the person, shall have a right of appeal to the Court of Appeal.
 
@@ -280,11 +280,15 @@ Where a parent or guardian of a child or young person consents to be surety for 
 
 (b) by the prosecutor or a police officer, vary the conditions of bail or, in respect of bail which it has granted unconditionally, impose conditions.
 
-**9A.** 8 Conditions of recognisance of bail.
+*9A. 8*
+
+Conditions of recognisance of bail.
 
 (1) Where a person is granted bail in accordance with this Act, he shall be required to enter into a recognisance of bail which shall contain the conditions to which the grant of bail is subject.
 
-(2) The recognisance of bail shall be in the form in the Third Schedule. (3) The breach of any of the conditions contained in the recognisance of bail shall result in the recognisance of bail being void for all purposes other than enforcement against the accused person and suretors.
+(2) The recognisance of bail shall be in the form in the Third Schedule.
+
+(3) The breach of any of the conditions contained in the recognisance of bail shall result in the recognisance of bail being void for all purposes other than enforcement against the accused person and suretors.
 
 (4) Every recognisance of bail shall specify the profession or calling of the person entering into or acknowledging the same together with his Christian name and surname and the name of his place of residence, and, when duly acknowledged, shall be subscribed by the accused person, his sureties (if any), the judge, magistrate or other authorised person before whom it is acknowledged. (5) Subject to section 9, the recognisance of bail shall be conditioned that the accused person—
 
@@ -356,11 +360,15 @@ An offence under subsection (1) or (2) of section 10 is punishable on summary co
 
 A person arrested pursuant to subsection (3) shall be brought as soon as practicable before a Magistrate, and in any event within forty-eight hours after his arrest.
 
-(5) 10 A person arrested pursuant to paragraph (d) of subsection (3) and brought before a Magistrate may be remanded in custody or committed to custody, or, alternatively, granted bail.
+*(5) 10*
+
+A person arrested pursuant to paragraph (d) of subsection (3) and brought before a Magistrate may be remanded in custody or committed to custody, or, alternatively, granted bail.
 
 Deleted. 11
 
-**12A.** 12 Offence of violating conditions of bail.
+*12A. 12*
+
+Offence of violating conditions of bail.
 
 Any person released on bail in criminal proceedings who breaches any conditions of bail, commits an offence.
 
@@ -370,11 +378,15 @@ Any person released on bail in criminal proceedings who breaches any conditions 
 
 **12B.** Penalty for violating conditions of bail.
 
-(1) 13 An offence under section 12A is punishable on summary conviction to a term of imprisonment not exceeding five years.
+*(1) 13*
+
+An offence under section 12A is punishable on summary conviction to a term of imprisonment not exceeding five years.
 
 (2) In criminal proceedings for an offence under section 12A, a document purporting to be a copy of the part of the prescribed record which relates to granting 14 of bail of the accused person, and duly certified to be a true copy of the record, shall be evidence of the conditions of bail.
 
-**13.** Bail with sureties.
+*\13. Bail*
+
+with sureties.
 
 (1) This section applies where a person is granted bail in criminal proceedings on condition that the person provides one or more surety or sureties for the purpose of securing that he surrenders to custody.
 
@@ -422,7 +434,9 @@ A recognisance of the surety under subsection (3) may be entered into before suc
 
 ### PART A
 
-In considering whether to grant bail to a defendant, the court shall have regard to the following factors—
+*In following*
+
+considering whether to grant bail to a defendant, the court shall have regard to the factors—
 
 (a) whether there are substantial grounds for believing that the defendant, if released on bail, would—
 

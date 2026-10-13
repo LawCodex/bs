@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 Act No. 63 of 1963
 
-### ADDERLEY PROPERTY PURCHASE LOAN
-
 *63 of 1963 S.I. 113/1965*
 
-An Act to authorise the raising of a loan by the issue of debentures to the Royal Bank of Canada to be used for the purpose of purchasing the Adderley Property and the construction of a building thereon.
+ADDERLEY PROPERTY PURCHASE LOAN An Act to authorise the raising of a loan by the issue of debentures to the Royal Bank of Canada to be used for the purpose of purchasing the Adderley Property and the construction of a building thereon.
 
 [Commencement 20th December, 1963]
 
@@ -81,6 +79,10 @@ An Act to authorise the raising of a loan by the issue of debentures to the Roya
 *No income tax on debentures.*
 
 **12.** The debentures issued under this Act and the interest on such debentures shall not be liable to any present or future income or other similar tax.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF
 
 *Payment of expenses of*
 

@@ -76,15 +76,19 @@ forth in the Schedule.
 
 (2) In hundred the financial seventy one year million, referred one to hundred in subsection forty six (1), thousand, not more one than hundred three hundred seventy one million, one hundred forty six thousand, one hundred forty two dollars may be paid in total under the provisions of this section. forty two dollars may be paid in total under the provisions of this section.
 
+Page
+
+Page
+
+Page
+
 *Schedule*
 
 ## SCHEDULE (section 3)
 
-*Sum Granted $*
+*Sum Granted $ 2,400,000*
 
 Head of Expenditure
-
-*2,400,000*
 
 **13.** Ministry of Foreign Affairs and the Public Service
 
@@ -124,4 +128,10 @@ Head of Expenditure
 
 ### TOTAL
 
-Note: This Schedule excludes statutory expenditure.
+*expenditure.*
+
+Note: This Schedule excludes statutory
+
+*Page - 3*
+
+*Page - 3*

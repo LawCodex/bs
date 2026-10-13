@@ -57,11 +57,13 @@ AGRICULTURAL MANUFACTORIES An Act relating to the encouragement of agricultural 
 
 **1.** This Act may be cited as the Agricultural Manufactories Act.
 
-*Interpretation. 41 of 1936, s. 2; 5 of 1961, s. 2; 5 of 1987, Sch.*
+*Interpretation. 41 of 1936, s. 2; 5*
 
-**2.** In this Act, unless the context otherwise requires —
+*“*
 
-“ agricultural factory” means a factory used exclusively for the purpose of manufacturing, preser-ving, packing or otherwise preparing for sale or export —
+*of 1961, s. 2; 5 of 1987, Sch.*
+
+**2.** In this Act, unless the context otherwise requires — agricultural factory” means a factory used exclusively for the purpose of manufacturing, preser-ving, packing or otherwise preparing for sale or export —
 
 (a) any agricultural, floricultural or horticultural produce of The Bahamas;
 
@@ -71,17 +73,27 @@ AGRICULTURAL MANUFACTORIES An Act relating to the encouragement of agricultural 
 
 “Minister” means the Minister responsible for Agriculture;
 
-“ owner” includes the duly authorised agent of the owner and the person having the charge of an agricultural factory;
+*“*
 
-“ prescribed” means prescribed by the rules;
+owner” includes the duly authorised agent of the owner and the person having the charge of an agricultural factory;
+
+*“*
+
+prescribed” means prescribed by the rules;
 
 *4 of 1958, s. 2.*
 
 “register” means the register kept by the Comptroller of Customs under this Act;
 
-“ rules” means rules made under this Act;
+*“ “*
 
-“ supplies” means any article which enters into the cost of production of such agricultural or marine product as finally manufactured, preserved or packed, but does not include any article used for any of the incidental purposes of the business conducted at the factory not directly connected with the processes there carried on.
+rules” means rules made under this Act;
+
+supplies” means any article which enters into the cost of production of such agricultural or marine product as finally manufactured, preserved or packed, but does not include any article used for any of the incidental purposes of the business conducted at the factory not directly connected with the processes there carried on.
+
+*[Original*
+
+Service 2001]
 
 *Registration.*
 
@@ -137,7 +149,9 @@ unless he has obtained the written approval of the Minister.
 
 (ii) all materials necessary for the purposes of the building, erection, alteration, repair or equipment of such factory, or for the adaptation of such building as a factory.
 
-(2) Before any permit for the delivery of any article mentioned in paragraphs (i) and (ii) of subsection (1) of this section shall be given, the following conditions shall be observed —
+*this be*
+
+(2) Before any permit for the delivery of any article mentioned in paragraphs (i) and (ii) of subsection (1) of section shall be given, the following conditions shall observed —
 
 *Declaration to be made.*
 
@@ -145,19 +159,21 @@ unless he has obtained the written approval of the Minister.
 
 *Bond to be entered into.*
 
-(b) the owner shall enter into a bond in the prescribed form with two good and sufficient sureties to be approved by the Comptroller of Customs or other chief revenue officer of the port in double the amount of any duties which would ordinarily attach on importation of the said articles to the effect that all such articles imported or taken out of bond during the financial year then current shall not be used or
-
 *15 of 1966, s. 3.*
 
-applied otherwise than for the purpose specified in the bond or in any manner contrary to any terms and conditions subject to which the application for the registration of the factory concerned was approved.
+(b) the owner shall enter into a bond in the prescribed form with two good and sufficient sureties to be approved by the Comptroller of Customs or other chief revenue officer of the port in double the amount of any duties which would ordinarily attach on importation of the said articles to the effect that all such articles imported or taken out of bond during the financial year then current shall not be used or applied otherwise than for the purpose specified in the bond or in any manner contrary to any terms and conditions subject to which the application for the registration of the factory concerned was approved.
 
-*Goods liable to forfeiture and penalty of bond may be recovered. Ch. 293.*
+*Goods liable to shall forfeiture and penalty of bond the may be recovered. Ch. 293.*
 
-(3) If any articles in respect of which such bond shall have been given shall be used or applied in breach of the conditions of the bond, such articles shall be forfeited and may be seized and proceeded against in the same manner as goods liable to forfeiture under the Customs Management Act or any Act in amendment thereof or substitution therefor, and in addition thereto the penalty of the bond may be recovered as liquidated damages.
+(3) If any articles in respect of which such bond have been given shall be used or applied in breach of conditions of the bond, such articles shall be forfeited and may be seized and proceeded against in the same manner as goods liable to forfeiture under the Customs Management Act or any Act in amendment thereof or substitution therefor, and in addition thereto the penalty of the bond may be recovered as liquidated damages.
 
-*Payment of import duties.*
+*Payment of*
 
-(4) If at any time any person who may have given bond under this section or any person in whom the property in any articles comprised in such bond shall be vested, shall desire to use any of such articles otherwise than for the purposes specified in the bond, it shall be lawful for the Comptroller on payment of the full amount of the duties ordinarily payable on such articles (or on so much thereof as the Comptroller shall consider reasonable) by memorandum endorsed on the bond to cancel the same as far as relates to such articles.
+*bond import duties.*
+
+*lawful of the much by*
+
+(4) If at any time any person who may have given under this section or any person in whom the property in any articles comprised in such bond shall be vested, shall desire to use any of such articles otherwise than for the purposes specified in the bond, it shall be for the Comptroller on payment of the full amount duties ordinarily payable on such articles (or on so thereof as the Comptroller shall consider reasonable) memorandum endorsed on the bond to cancel the same as far as relates to such articles.
 
 *21 of 1999, s. 2.*
 
@@ -166,6 +182,10 @@ applied otherwise than for the purpose specified in the bond or in any manner co
 (a) in respect of materials used for plant construction and equipment on a one time basis at commencement of registration and subsequently only upon the expansion or replacement of the plant but not including spare or replacement parts;
 
 (b) on approved raw materials as may be prescribed by the Minister.
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 *Exemption from the payment of inward tonnage or light dues.*
 
@@ -201,11 +221,9 @@ applied otherwise than for the purpose specified in the bond or in any manner co
 
 shall be liable to a penalty of eighty dollars.
 
-(2) Any person who impedes, obstructs or otherwise interferes with any officer of the Customs Department, the Commissioner of Police or any non-commissioned officer of the police force deputed by him while acting in the
-
 *5 of 1987, s. 2.*
 
-execution of any duty imposed by this Act shall be liable to a penalty of forty dollars.
+(2) Any person who impedes, obstructs or otherwise interferes with any officer of the Customs Department, the Commissioner of Police or any non-commissioned officer of the police force deputed by him while acting in the execution of any duty imposed by this Act shall be liable to a penalty of forty dollars.
 
 *Recovery of penalties.*
 
@@ -214,3 +232,7 @@ execution of any duty imposed by this Act shall be liable to a penalty of forty 
 *Derogation. 21 of 1999, s. 3. Ch. 329.*
 
 **13.** Nothing contained in this Act shall apply so as to derogate from the operation of the provisions of the Business Licence Act.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

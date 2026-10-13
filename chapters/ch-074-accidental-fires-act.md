@@ -25,11 +25,9 @@ retrieved: 2026-10-13
 
 **2.** Relief from liability for accidental fires.
 
-### ACCIDENTAL FIRES
-
 *20 of 1961*
 
-An Act to amend the law relating to accidental fires.
+ACCIDENTAL FIRES An Act to amend the law relating to accidental fires.
 
 [Commencement 31st July, 1961]
 
@@ -42,3 +40,7 @@ An Act to amend the law relating to accidental fires.
 **2.** Notwithstanding any law, usage or custom to the contrary, no action, suit, or process whatsoever shall lie, or be taken, maintained or prosecuted against any person by reason of any damage or injury resulting from any fire which shall begin accidentally:
 
 Provided that nothing herein contained shall affect the civil liability of any person for any negligent or wilful act or omission or the criminal or contractual liability of any person.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF

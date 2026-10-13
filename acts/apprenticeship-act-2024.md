@@ -13,11 +13,9 @@ retrieved: 2026-10-13
 
 # Apprenticeship Act, 2024
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-8 th May, 2024
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 8 th May, 2024
 
 ## Arrangement of Sections
 
@@ -113,7 +111,9 @@ Enacted by the Parliament of The Bahamas
 
 **2.** Interpretation.
 
-In this Act, unless the context otherwise requires —
+*In*
+
+this Act, unless the context otherwise requires —
 
 “apprentice” means a person who enters into, and is bound by, an apprenticeship agreement;
 
@@ -147,7 +147,9 @@ undertakes to employ the apprentice and to educate and train or to have him educ
 
 **3.** Objectives.
 
-The objectives of this Act are —
+*The*
+
+objectives of this Act are —
 
 (a) to establish and make available, programmes for training of apprentices through public or private partnerships;
 
@@ -211,11 +213,15 @@ The NAU established under subsection (1), shall be comprised of persons appointe
 
 **7.** Appointment of Sector Skill Council.
 
-There shall be established by the Minister by order, a Sector Skill Council for each sector within the labour market as in his opinion is necessary for carrying into effect, the objectives of this Act.
+*each into*
+
+There shall be established by the Minister by order, a Sector Skill Council for sector within the labour market as in his opinion is necessary for carrying effect, the objectives of this Act.
 
 **8.** Responsibilities of Sector Skill Council.
 
-A Sector Skill Council shall —
+*A*
+
+Sector Skill Council shall —
 
 (a) represent the group of employers competing, operating, and training in the same sector of the labour market;
 
@@ -251,7 +257,9 @@ There is hereby established an apprenticeship programme consisting of theoretica
 
 **11.** Accredited Public and Private Providers.
 
-There shall be such public and/or private institutions and professionals engaged by the Board as providers for the programme, to —
+*by*
+
+There shall be such public and/or private institutions and professionals engaged the Board as providers for the programme, to —
 
 (a) develop curricula and learning materials;
 
@@ -263,9 +271,13 @@ There shall be such public and/or private institutions and professionals engaged
 
 (e) coordinate the development and implementation of final assessments in the programme.
 
-Who may be an apprentice.
+*Who*
 
-A person who —
+may be an apprentice.
+
+*A*
+
+person who —
 
 (a) is sixteen years and older and is not engaged in full-time education;
 
@@ -277,9 +289,13 @@ A person who —
 
 **13.** Medical fitness for employment.
 
-Before entering in an apprenticeship agreement with an employer, the applicant shall provide the employer with a medical certificate from a medical practitioner certifying he is in good health and medically fit to be employed.
+*shall*
 
-**14.** Who may be an employer.
+Before entering in an apprenticeship agreement with an employer, the applicant provide the employer with a medical certificate from a medical practitioner certifying he is in good health and medically fit to be employed.
+
+*Who*
+
+**14.** may be an employer.
 
 (1) Any person, undertaking, corporation, company, public authority, or entity, who —
 
@@ -325,7 +341,9 @@ Subject to the provisions of this section, an employer shall not, after the comm
 
 **16.** Financial arrangements.
 
-Each employer approved by the Board to participate in the programme shall either enter into an apprenticeship funding agreement with the Board, or establish self-funding for its apprentices, which shall provide inter alia for the percentage of salaries and training expenses of apprentices to be disbursed by the employer.
+*Each*
+
+employer approved by the Board to participate in the programme shall either enter into an apprenticeship funding agreement with the Board, or establish self-funding for its apprentices, which shall provide inter alia for the percentage of salaries and training expenses of apprentices to be disbursed by employer.
 
 ### APPRENTICESHIP ORDERS
 
@@ -393,7 +411,9 @@ Persons referred in subsection (3) may in relation to an apprenticeship order, s
 
 **19.** Requirements for apprenticeship agreements.
 
-An apprenticeship agreement entered in after the commencement of this Act, shall be in writing, shall be signed by the employer and the apprentice, or where such apprentice is a minor, by his parent or guardian, or if he has no parent or
+*An shall such*
+
+apprenticeship agreement entered in after the commencement of this Act, be in writing, shall be signed by the employer and the apprentice, or where apprentice is a minor, by his parent or guardian, or if he has no parent or
 
 guardian, by the Board, and shall be subject to the provisions of the Employment Act (Ch. 321A).
 
@@ -481,13 +501,15 @@ Subject to the provisions of this section, an apprenticeship agreement is termin
 
 (4) An apprenticeship agreement is not terminated under subsection (1)(d) unless both parties to the agreement have been given an opportunity to be heard orally, or to make representations in writing, to the Board. (5) Where an apprenticeship agreement is terminated for fundamental breach under subsection (2), the grounds on which the agreement is terminated shall be set out in an evaluation report prepared by the employer which shall be forwarded to the Board forthwith, and the agreement shall not be considered terminated unless the Board is satisfied on a balance of probabilities that the apprentice committed the acts of which he is accused.
 
-Prohibited terms or conditions in apprenticeship agreement. Notwithstanding the provisions of any other law for the time being in force in The Bahamas, any term of an apprenticeship agreement or any condition of apprenticeship which —
+Prohibited terms or conditions in apprenticeship agreement. Notwithstanding the provisions of any other law for the time being in force in Bahamas, any term of an apprenticeship agreement or any condition of apprenticeship which —
 
 (a) provides that the whole or any part of the wages of an apprentice shall be based on the quantity of the work done; or
 
 (b) requires an apprentice under seventeen years of age to work overtime; or
 
-(c) except with the consent of the Board, provides for an apprentice to be employed outside The Bahamas, shall be null and void.
+*shall*
+
+(c) except with the consent of the Board, provides for an apprentice to be employed outside The Bahamas, be null and void.
 
 **28.** Transfer of rights and obligations to other employers.
 
@@ -547,15 +569,25 @@ An employer who fails to lodge an instrument of transfer in accordance with subs
 
 (3) Any employer who fails to keep the required records, or every employer who fails to retain any record made in accordance with the provisions of this section for the required period, or who fails to submit the same to the Board, may be subject to the sanctions imposed by section 33.
 
+*APPRENTICESHIP*
+
+### ACT, 2024
+
 ## PART IV – MISCELLANEOUS
 
 Appointment of inspectors.
 
-The Minister may designate any suitable and qualified public officer as an inspector for the purposes of this Act.
+*The inspector*
 
-**31.** Powers of inspectors.
+Minister may designate any suitable and qualified public officer as an for the purposes of this Act.
 
-(1) An inspector may without a warrant —
+*Powers of*
+
+**31.** inspectors.
+
+*An*
+
+(1) inspector may without a warrant —
 
 (a) at any reasonable time during working hours enter any premises in which he has reasonable cause to believe that an apprentice is, or has within the previous six months, been employed;
 
@@ -565,7 +597,9 @@ The Minister may designate any suitable and qualified public officer as an inspe
 
 (d) examine and make extracts from, and copies of, any such documents produced.
 
-(2) The inspector shall —
+*The*
+
+(2) inspector shall —
 
 (a) give reasonable notice to the employer prior to his arrival at the premises;
 
@@ -577,9 +611,13 @@ The Minister may designate any suitable and qualified public officer as an inspe
 
 (e) if required by the employer or representative of the employer, permit the employer or such representative to accompany him during the inspection or examination.
 
-(3) All information and records gathered by an inspector pursuant to his powers under this section shall be produced to the Board.
+*All*
 
-(4) A person commits an offence, who —
+(3) information and records gathered by an inspector pursuant to his powers under this section shall be produced to the Board.
+
+*A*
+
+(4) person commits an offence, who —
 
 (a) refuses or fails to comply with any reasonable requests made by an inspector during an inspection pursuant to the provisions of this section; or
 
@@ -587,7 +625,9 @@ The Minister may designate any suitable and qualified public officer as an inspe
 
 Enticement of apprentices.
 
-An employer who —
+*An*
+
+employer who —
 
 (a) induces or attempts to induce an apprentice to quit the service of his employer; or
 
@@ -597,9 +637,7 @@ An employer who —
 
 The Board may —
 
-(a) terminate the apprenticeship of any person who fails to comply with the provisions of this Act or Regulations made hereunder;
-
-(b) remove an employer from participating in the programme who — (i) employs a person under an apprenticeship agreement without first obtaining the permission of the Board;
+(a) terminate the apprenticeship of any person who fails to comply with the provisions of this Act or Regulations made hereunder; (b) remove an employer from participating in the programme who — (i) employs a person under an apprenticeship agreement without first obtaining the permission of the Board;
 
 (ii) fails to apply for registration of an apprenticeship agreement in accordance with section 20;
 
@@ -615,15 +653,19 @@ The Board may —
 
 **34.** Regulations.
 
-The Minister, after consultation with the Board and Sector Skill Councils, may make regulations generally for giving effect to the provisions of this Act and without prejudice to the generality of this section, shall prescribe the arrangements for the funding of the programme, the remuneration to be paid to apprentices, and the contributions to be made by the Government and employers.
+*The make*
+
+Minister, after consultation with the Board and Sector Skill Councils, may regulations generally for giving effect to the provisions of this Act and without prejudice to the generality of this section, shall prescribe the arrangements for the funding of the programme, the remuneration to be paid to apprentices, and the contributions to be made by the Government and employers.
 
 Repeal.
 
-The Apprenticeship Act (Ch. 320) is repealed.
+Apprenticeship Act (Ch. 320) is repealed.
 
 Transitional provision.
 
-Any person who at the commencement of this Act has an apprentice in his employment may, subject to section 15, continue to employ that apprentice.
+*Any*
+
+person who at the commencement of this Act has an apprentice in his employment may, subject to section 15, continue to employ that apprentice.
 
 ## SCHEDULE
 

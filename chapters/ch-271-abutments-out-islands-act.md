@@ -57,11 +57,9 @@ An Act to authorise the building of wharves or abutments in the ports and harbou
 
 **3.** It shall be lawful for the Minister to grant permission to any person or persons residing and being in any such district, to build a wharf or abutment, from the private land of such person or persons which may abut on to the port or harbour of the district in which such application is made, into such port or harbour:
 
-Provided that such permission shall only be granted by the Minister after a written application therefor has been made and a plan of the proposed wharf or abutment has been submitted to the Minister and approved by him,
-
 *E.L.A.O., 1974.*
 
-which application and plan shall be retained and kept by him as a record in the Department of the Minister responsible for Abutments:
+Provided that such permission shall only be granted by the Minister after a written application therefor has been made and a plan of the proposed wharf or abutment has been submitted to the Minister and approved by him, which application and plan shall be retained and kept by him as a record in the Department of the Minister responsible for Abutments:
 
 Provided also that if any wharf or abutment built under the provisions of this Act shall extend across any public highway the rights of the public to the user of such highway shall not be thereby abridged, but the same may be exercised over and across such wharf or abutment notwithstanding the provisions of this Act.
 
@@ -69,20 +67,24 @@ Provided also that if any wharf or abutment built under the provisions of this A
 
 **4.** It shall be the duty of every person or persons obtaining such permission, and building a wharf or abutment thereunder, to build the same in accordance with the plan submitted to the Minister, and to maintain and keep the said wharf or abutment in good order and repair and so that the same shall not impede or interfere in any way with the proper navigation of the port or harbour in which the same may be.
 
+*THE BAHAMAS*
+
+### STATUTE LAW OF
+
 *CH.271 – 4]*
 
 *Right of inspection.*
 
-**5.** Where any wharf or abutment shall have been built under the authority of this Act, the Minister shall have the right at all times to inspect and examine the said wharf
-
 *G.N. 7(20)/1964.*
 
-or abutment, to ascertain whether the same is in the state and condition required by section 4 of this Act, and for that purpose shall have the right to enter upon the private land of the person or persons to whom permission shall have been granted for the building of such wharf or abutment.
+**5.** Where any wharf or abutment shall have been built under the authority of this Act, the Minister shall have the right at all times to inspect and examine the said wharf or abutment, to ascertain whether the same is in the state and condition required by section 4 of this Act, and for that purpose shall have the right to enter upon the private land of the person or persons to whom permission shall have been granted for the building of such wharf or abutment.
 
 *Notice in writing to repair wharf; penalty*
 
-**6.** Whenever after any such inspection and examination it shall appear to the Minister that the said wharf or abutment is not in good repair and condition, and is likely to impede or interfere with the proper navigation of the port or harbour in which the same has been built, it shall be lawful for the Minister to serve a notice in writing on the person to whom permission for the building of such wharf or abutment has been granted, requiring him at once
-
 *50 of 1987, Sch.*
 
-to repair the same, and any person failing to obey such requisition shall be liable to a penalty of five dollars for each and every day the said wharf or abutment shall remain unrepaired after the said notice shall have been duly served, which said penalty shall be recovered in any court having jurisdiction to the amount claimed.
+**6.** Whenever after any such inspection and examination it shall appear to the Minister that the said wharf or abutment is not in good repair and condition, and is likely to impede or interfere with the proper navigation of the port or harbour in which the same has been built, it shall be lawful for the Minister to serve a notice in writing on the person to whom permission for the building of such wharf or abutment has been granted, requiring him at once to repair the same, and any person failing to obey such requisition shall be liable to a penalty of five dollars for each and every day the said wharf or abutment shall remain unrepaired after the said notice shall have been duly served, which said penalty shall be recovered in any court having jurisdiction to the amount claimed.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

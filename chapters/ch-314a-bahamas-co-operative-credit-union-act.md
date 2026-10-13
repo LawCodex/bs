@@ -15,6 +15,8 @@ retrieved: 2026-10-13
 
 # Bahamas Co-operative Credit Union Act
 
+*[CH.314A– 1*
+
 ### CHAPTER 314A
 
 ### LIST OF AUTHORISED PAGES
@@ -160,6 +162,8 @@ Withdrawal of membership.
 ## PART VIII INVESTMENTS AND BORROWINGS Investment of funds.
 
 Borrowing Limits.
+
+*[CH.314A– 3*
 
 DEPOSITS, STATUTORY REQUIREMENTS Deposits.
 
@@ -309,11 +313,9 @@ Power to amend bye-laws.
 
 ### CHAPTER 314A
 
-### BAHAMAS CO-OPERATIVE CREDIT UNIONS
-
 *9 of 2015*
 
-An Act to provide for the continuance, registration, supervision and management of Co-operative Credit Unions and for connected purposes.
+BAHAMAS CO-OPERATIVE CREDIT UNIONS An Act to provide for the continuance, registration, supervision and management of Co-operative Credit Unions and for connected purposes.
 
 [Assent 12th May, 2015]
 
@@ -339,11 +341,9 @@ An Act to provide for the continuance, registration, supervision and management 
 
 “capital” means the statutory reserves, retained earnings, qualifying shares and equity shares of a co-operative credit union;
 
-“Central Bank” means the Central Bank of The
-
 *Ch. 351.*
 
-Bahamas established under section 3 of the Central Bank of The Bahamas Act;
+“Central Bank” means the Central Bank of The Bahamas established under section 3 of the Central Bank of The Bahamas Act;
 
 “co-operative credit union” means a voluntary, co-operative, non-profit financial institution that may accept savings deposits and provide other financial services to members pursuant to the provisions of this Act, and “credit union” shall be construed accordingly;
 
@@ -359,17 +359,13 @@ Bahamas established under section 3 of the Central Bank of The Bahamas Act;
 
 “foreign regulatory authority” means an authority in a jurisdiction outside The Bahamas that regulates or supervises foreign financial institutions;
 
-“Governor” means the person appointed as Governor
-
 *Ch. 351.*
 
-under the Central Bank of The Bahamas Act;
-
-“Inspector” means the Office of Inspector of Banks
+“Governor” means the person appointed as Governor under the Central Bank of The Bahamas Act;
 
 *Ch. 316.*
 
-and Trust Companies established under section 13 of the Banks and Trust Companies Act;
+“Inspector” means the Office of Inspector of Banks and Trust Companies established under section 13 of the Banks and Trust Companies Act;
 
 “liquidity deposit” means funds maintained by a co-operative credit union to ensure that it can meet its commitments with respect to loans, withdrawals of deposits, and payment of accounts to fund its operations;
 
@@ -387,33 +383,37 @@ and Trust Companies established under section 13 of the Banks and Trust Companie
 
 “qualifying shares” mean the mandatory, non-withdrawable minimum shares to be purchased by an approved applicant to be admitted;
 
-“Registrar General” means the person appointed as
-
 *Ch. 186.*
 
-Registrar General under section 4 of the Registrar General Act;
+“Registrar General” means the person appointed as Registrar General under section 4 of the Registrar General Act;
 
 “stabilization fund” means a facility to provide technical assistance advice and limited financial assistance to co-operative credit unions that are insolvent or likely to become insolvent;
 
 “statutory reserve” means funds allocated from retained earnings solely for the purpose of increasing and enhancing capital until total statutory reserves equal ten percent of the total assets.
 
-(2) In this Act, a reference to the Registrar General shall also be construed as a reference to any other public officer who has the responsibility for the receipt and registration of documents relating to co-operative credit unions.
+*officer*
 
-*Application of Act and use of the words “co-operative credit unions”.*
+(2) In this Act, a reference to the Registrar General shall also be construed as a reference to any other public who has the responsibility for the receipt and registration of documents relating to co-operative credit unions.
 
-**3.** (1) This Act applies to co-operative credit unions registered under this Act or deemed, by virtue of section 126(1), to be registered under this Act.
+*Application of*
 
-(2) No person other than a registered co-operative credit union shall trade or carry on business under any name or title of which the words “co-operative credit union” or “co-operative credit unions” or any abbreviation thereof, is a part.
+*unions*
 
-*Co-operative principles.*
+*Act and use of the words “co-operative credit unions”.*
 
-**4.** (1) A co-operative credit union registered under this Act shall comply with the co-operative principles specified under subsection (2).
+**3.** (1) This Act applies to co-operative credit registered under this Act or deemed, by virtue of section 126(1), to be registered under this Act.
 
-(2) For the purpose of this Act, a co-operative credit union complies with the co-operative principles if —
+*credit*
 
-(a) no member or delegate has more than one vote;
+(2) No person other than a registered co-operative union shall trade or carry on business under any name or title of which the words “co-operative credit union” or “co-operative credit unions” or any abbreviation thereof, is a part.
 
-(b) no member or delegate is entitled to vote by proxy;
+*Co-operative principles. this Act specified*
+
+(1) A co-operative credit union registered under shall comply with the co-operative principles under subsection (2).
+
+*union*
+
+(2) For the purpose of this Act, a co-operative credit complies with the co-operative principles if — (a) no member or delegate has more than one vote; (b) no member or delegate is entitled to vote by proxy;
 
 (c) its business is carried on primarily for the benefit of its members;
 
@@ -437,7 +437,9 @@ Registrar General under section 4 of the Registrar General Act;
 
 (vii) to pursue co-operation with other co-operative credit unions.
 
-(3) Without prejudice to subsection (1), a co-operative credit union may, with the permission of the Central Bank, do all other acts and things as are incidental or conducive to or consequential to the attainment of its objectives.
+*operative Central or objectives.*
+
+(3) Without prejudice to subsection (1), a co-credit union may, with the permission of the Bank, do all other acts and things as are incidental conducive to or consequential to the attainment of its
 
 ### ADMINISTRATION OF CO-OPERATIVE CREDIT UNIONS
 
@@ -459,7 +461,9 @@ Registrar General under section 4 of the Registrar General Act;
 
 (g) monitoring the conformity by co-operative credit unions with the co-operative principles referred to under section 4.
 
-(2) In the discharge of its responsibilities under this Act, the Central Bank may —
+*Act,*
+
+(2) In the discharge of its responsibilities under this the Central Bank may —
 
 (a) process applications and issue certificates of registration to new co-operative credit unions;
 
@@ -509,11 +513,11 @@ Registrar General under section 4 of the Registrar General Act;
 
 **8.** (1) No co-operative credit union may commence business unless it is registered under this Act.
 
-(2) Subject to subsection (3), an application for registration under this Act shall be submitted to the Central Bank in such form as the Central Bank may determine.
+*Bank in*
 
-(3) An application for registration under subsection
+*(2) shall be the*
 
-(2) shall be signed by at least thirty persons who desire to be members of a co-operative credit union and who satisfy the requirements for membership under this Act.
+Subject to subsection (3), an application for registration under this Act shall be submitted to the Central such form as the Central Bank may determine. (3) An application for registration under subsection be signed by at least thirty persons who desire to members of a co-operative credit union and who satisfy requirements for membership under this Act.
 
 (4) An application for registration made pursuant to subsection (2) shall —
 
@@ -547,9 +551,9 @@ Registrar General under section 4 of the Registrar General Act;
 
 (viii) the defining bond of association shared by the members of the co-operative credit union at the time of registration.
 
-*Conditions for registration.*
+*Conditions for registered registration. registered Act —*
 
-**9.** (1) Subject to subsection (2), no group may be registered or no co-operative credit union having been registered may continue to be so registered under this Act —
+(1) Subject to subsection (2), no group may be or no co-operative credit union having been may continue to be so registered under this
 
 (a) unless its membership consists of individuals who are fifteen years and older;
 
@@ -561,19 +565,17 @@ Registrar General under section 4 of the Registrar General Act;
 
 (e) if the name of the co-operative credit union is identical with that of another co-operative credit union or which so nearly resembles that name as to be likely to mislead the members of the public as to its identity;
 
-(f) unless it has and maintains an address to which all notices and communications may be sent;
-
-(g) unless its bye-laws are in conformity with this Act;
+(f) unless it has and maintains an address to which all notices and communications may be sent; (g) unless its bye-laws are in conformity with this Act;
 
 (h) unless the registered name of the co-operative credit union is prominently displayed in a conspicuous position on the outside of every office or place in which the business of the co-operative credit union is carried on, from the date of commencement of the co-operative credit union’s operations;
 
 (i) unless its managers are deemed to be fit and proper persons.
 
-(2) The membership of a co-operative credit union registered under this Act shall comprise of at least one hundred members.
+*registered hundred Registration of a co-operative credit union. with this credit as the*
 
-*Registration of a co-operative credit union.*
+(2) The membership of a co-operative credit union under this Act shall comprise of at least one members.
 
-**10.** (1) Where the Central Bank is satisfied that an application for registration has been made in accordance with this Act, the Central Bank shall register a co-operative credit union, subject to such terms and conditions, if any, as the Central Bank may determine, approve its bye-laws
+**10.** (1) Where the Central Bank is satisfied that an application for registration has been made in accordance Act, the Central Bank shall register a co-operative union, subject to such terms and conditions, if any, Central Bank may determine, approve its bye-laws
 
 and issue that co-operative credit union with a certificate of registration.
 
@@ -675,7 +677,9 @@ and issue that co-operative credit union with a certificate of registration.
 
 (e) seven hundred and fifty thousand dollars or more but less than one million dollars, nine percent of the co-operative credit union’s total assets.
 
-(3) Notwithstanding any other provisions of this Act, a co-operative credit union referred to under subsection (1) shall —
+*Act,*
+
+(3) Notwithstanding any other provisions of this a co-operative credit union referred to under subsection (1) shall —
 
 (a) substitute the submission of annual unaudited financial statements for the submission of annual audited financial statements required pursuant to sections 86(7) and 87(1);
 
@@ -699,7 +703,9 @@ and issue that co-operative credit union with a certificate of registration.
 
 *Annual general meetings.*
 
-**18.** (1) Subject to its bye-laws, a co-operative credit union shall hold an annual general meeting each year, not later than six months after the end of the financial year of the co-operative credit union and within thirty days after the acceptance by the Board of the annual audited financial statements.
+*union the the*
+
+(1) Subject to its bye-laws, a co-operative credit shall hold an annual general meeting each year, not later than six months after the end of the financial year of co-operative credit union and within thirty days after acceptance by the Board of the annual audited financial statements.
 
 (2) A co-operative credit union shall —
 
@@ -709,7 +715,9 @@ and issue that co-operative credit union with a certificate of registration.
 
 *Special general meetings.*
 
-**19.** (1) Subject to the bye-laws, a special general meeting may be called —
+*meeting*
+
+**19.** (1) Subject to the bye-laws, a special general may be called —
 
 (a) by the directors; or
 
@@ -721,9 +729,13 @@ and issue that co-operative credit union with a certificate of registration.
 
 (iii) one hundred members for co-operative credit unions with three thousand members or more.
 
-(2) The special general meeting referred to under subsection (1), may be called only to address the subject matter specified in the request.
+*matter*
 
-(3) Notwithstanding subsection (1), the Central Bank may call a special meeting of a co-operative credit union —
+(2) The special general meeting referred to under subsection (1), may be called only to address the subject specified in the request.
+
+*Bank union —*
+
+(3) Notwithstanding subsection (1), the Central may call a special meeting of a co-operative credit
 
 (a) for the purpose of reporting to the members the results of any audit, examination or other investigation of the co-operative credit union's affairs ordered by the Central Bank; or
 
@@ -801,11 +813,9 @@ and issue that co-operative credit union with a certificate of registration.
 
 (3) A non-profit company may become a member of a co-operative credit union provided that the majority of the officers of the non-profit company are members of the co-operative credit union.
 
-(4) A company incorporated in The Bahamas under
-
 *Ch.308.*
 
-the Companies Act is eligible for membership of a co-operative credit union provided that the majority ownership of the company is held by members of the co-operative credit union.
+(4) A company incorporated in The Bahamas under the Companies Act is eligible for membership of a co-operative credit union provided that the majority ownership of the company is held by members of the co-operative credit union.
 
 (5) A purchaser under any execution or any other person succeeding by operation of law or otherwise to the share or interest of another member in a co-operative credit union shall not be entitled to membership by virtue only of such purchase or transfer.
 
@@ -967,9 +977,11 @@ nomination was made, transfer to the nominee the share or interest of the deceas
 
 (2) The Registrar General shall register every charge transmitted to him by the co-operative credit union, and issue to the co-operative credit union a certified copy of the registration.
 
-(3) The registration of a charge under subsection (2) shall constitute a security in favour of the co-operative credit union and shall be deemed to affect with notice any person dealing with the property comprised in the charge.
+*shall credit person*
 
-(4) A charge shall, so long as it continues in force, confer on the co-operative credit union the following obligations —
+*confer*
+
+The registration of a charge under subsection (2) constitute a security in favour of the co-operative union and shall be deemed to affect with notice any dealing with the property comprised in the charge. (4) A charge shall, so long as it continues in force, on the co-operative credit union the following obligations —
 
 (a) the right upon the happening of any event specified in the charge as being an event authorising the chargee to seize the property subject to the charge to take possession of any property so subject;
 
@@ -977,13 +989,15 @@ nomination was made, transfer to the nominee the share or interest of the deceas
 
 (c) to apply the proceeds of sale in or towards discharge of the debt secured by the charge and the costs of seizure and sale and to pay any surplus of such proceeds to the member whose property was sold.
 
-(5) A charge shall, so long as it continues in force, impose on the member the obligation to pay to the co-operative credit union towards the discharge of his indebtedness the proceeds of sale of any property comprised in the charge or any money received under a policy of insurance or by way of compensation in respect of any such property, except insofar as the charge otherwise allows.
+*impose*
 
-(6) For the avoidance of doubt, a charge under this
+*of any*
+
+(5) A charge shall, so long as it continues in force, on the member the obligation to pay to the co-operative credit union towards the discharge of his indebtedness the proceeds of sale of any property comprised in the charge or any money received under a policy of insurance or by way of compensation in respect such property, except insofar as the charge otherwise allows.
 
 *Ch. 337.*
 
-section is not a bill of sale within the meaning of the Sale of Goods Act.
+(6) For the avoidance of doubt, a charge under this section is not a bill of sale within the meaning of the Sale of Goods Act.
 
 *Enforcement of a charge.*
 
@@ -1005,11 +1019,9 @@ issue a warrant of distress and may order the sale of the property by public auc
 
 (4) Where any charge is assigned to a co-operative credit union established with the object of facilitating the operations of other co-operative credit unions, that co-operative credit union may borrow from any bank approved by the Central Bank and for this purpose may reassign any such charge to such bank and subsections (2) and (3) shall apply mutatis mutandis to such re-assignment.
 
-(5) For the purposes of this section “financial institution” has the same meaning under section 3(1 )(a),
-
 *Ch. 368.*
 
-(b), (c), (f) or (j)(i) of the Financial Transactions Reporting Act.
+(5) For the purposes of this section “financial institution” has the same meaning under section 3(1 )(a), (b), (c), (f) or (j)(i) of the Financial Transactions Reporting Act.
 
 *Bond as additional security for loan.*
 
@@ -1027,9 +1039,7 @@ of five years, the Board shall serve notice on that member —
 
 (b) that a maintenance fee may be imposed.
 
-(2) The five year period referred to under subsection
-
-(1) shall be calculated —
+(2) The five year period referred to under subsection (1) shall be calculated —
 
 (a) in the case of a deposit made for a fixed period, from the day on which the fixed period terminated;
 
@@ -1081,7 +1091,9 @@ of five years, the Board shall serve notice on that member —
 
 **46.** (1) This section shall not apply to a co-operative credit union that is continued pursuant to this Act.
 
-(2) On registration of a co-operative credit union, the individuals whose names appear in the application for registration as having been appointed and having consented to act as provisional directors shall —
+*the to*
+
+(2) On registration of a co-operative credit union, individuals whose names appear in the application for registration as having been appointed and having consented act as provisional directors shall —
 
 (a) be deemed to have all the powers and duties of directors; and
 
@@ -1103,17 +1115,17 @@ of five years, the Board shall serve notice on that member —
 
 (g) transact any business as required.
 
-*Board of Directors.*
+*Board of Directors. by an*
 
-**47.** (1) A co-operative credit union shall be directed by an elected Board which shall be constituted in accordance with this Act, and the bye-laws.
+(1) A co-operative credit union shall be directed elected Board which shall be constituted in accordance with this Act, and the bye-laws.
 
-(2) The Board, in addition to the duties prescribed in the bye-laws, shall —
+*in the*
+
+(2) The Board, in addition to the duties prescribed bye-laws, shall —
 
 (a) be responsible for the oversight of the business affairs of the co-operative credit union;
 
-(b) approve such policies as are required for all major activities of the co-operative credit union, in particular, the lending, investment, liquidity and asset liability management, accounting policies and audit and internal control systems;
-
-(c) subject to section 61, have charge of the investment of funds;
+(b) approve such policies as are required for all major activities of the co-operative credit union, in particular, the lending, investment, liquidity and asset liability management, accounting policies and audit and internal control systems; (c) subject to section 61, have charge of the investment of funds;
 
 (d) approve an annual operating budget for each calender year;
 
@@ -1123,33 +1135,29 @@ of five years, the Board shall serve notice on that member —
 
 (ii) all the sums of money received and expensed; and
 
-(iii) other transactions affecting the financial position of the co-operative credit union;
-
-(f) perform any other duty that is necessary to carry out the purposes of the co-operative credit union in accordance with this Act;
+(iii) other transactions affecting the financial position of the co-operative credit union; (f) perform any other duty that is necessary to carry out the purposes of the co-operative credit union in accordance with this Act;
 
 (g) give the Central Bank full access to all books, papers, records and other sources of information under its control within such time as may be specified by the Central Bank; and
 
 (h) within seven days of any changes in the membership of the Board, the supervisory committee or the credit committee of the co-operative credit union, notify the Central Bank, in writing, of such changes.
 
-(3) All directors shall be citizens or residents of The Bahamas.
+*Bahamas. Establishment time — and appointment of committees.*
 
-*Establishment and appointment of committees.*
+(3) All directors shall be citizens or residents of The
 
-**48.** (1) The Board shall establish, from time to time —
-
-(a) a supervisory committee;
+**48.** (1) The Board shall establish, from time to (a) a supervisory committee;
 
 (b) a credit committee.
 
-(2) The members of a co-operative credit union shall, annually elect members to fill any vacancies on the supervisory committee.
+*shall,*
+
+The members of a co-operative credit union annually elect members to fill any vacancies on the supervisory committee.
 
 (3) The Board may —
 
 (a) annually appoint all of the members of the credit committee; or
 
-(b) where the bye-laws provide that the credit committee is to be elected annually by the membership of the co-operative credit union, appoint a director to the credit committee.
-
-(4) The Board —
+(b) where the bye-laws provide that the credit committee is to be elected annually by the membership of the co-operative credit union, appoint a director to the credit committee. (4) The Board —
 
 (a) may appoint such committees, other than those referred to under subsection (1) —
 
@@ -1171,9 +1179,7 @@ of five years, the Board shall serve notice on that member —
 
 (5) Every committee shall —
 
-(a) fix its quorum at a majority of its members;
-
-(b) keep minutes of its proceedings;
+(a) fix its quorum at a majority of its members; (b) keep minutes of its proceedings;
 
 (c) submit to the Board at each meeting of the Board, the minutes of the committee’s proceedings.
 
@@ -1197,11 +1203,9 @@ of five years, the Board shall serve notice on that member —
 
 (b) is not a member of the co-operative credit union or a duly appointed representative of a member of the co-operative credit union;
 
-(c) has been found by a court to be of unsound mind or is certified to be suffering from a mental
-
 *Ch. 230.*
 
-disorder within the meaning of the Mental Health Act;
+(c) has been found by a court to be of unsound mind or is certified to be suffering from a mental disorder within the meaning of the Mental Health Act;
 
 (d) is an employee of the co-operative credit union, the Apex Body or the Central Bank;
 
@@ -1223,9 +1227,13 @@ disorder within the meaning of the Mental Health Act;
 
 (k) does not meet the requirements prescribed in the bye-laws.
 
-*Meetings of directors.*
+*Meetings of*
 
-**51.** (1) Subject to the bye-laws, the directors may meet at any place and on any notice that they consider appropriate.
+*meet*
+
+*directors.*
+
+**51.** (1) Subject to the bye-laws, the directors may at any place and on any notice that they consider appropriate.
 
 (2) The chairman —
 
@@ -1235,13 +1243,19 @@ disorder within the meaning of the Mental Health Act;
 
 (c) on the request of the Central Bank shall call a meeting, within fourteen days of receipt of that request.
 
-(3) A majority of the directors constitute a quorum at any meeting of directors.
+*at*
+
+(3) A majority of the directors constitute a quorum any meeting of directors.
 
 (4) A director may in any manner waive a notice of meeting of directors.
 
-(5) For the purpose of subsection (4), attendance of a director at a meeting of directors is not deemed to be a waiver of notice of the meeting, unless the director attends the meeting for the express purpose of objecting to the transaction of any business on the ground that the meeting is not lawfully called.
+*a the is*
 
-(6) Subject to the bye-laws, where all the directors consent, a meeting of directors or a committee of directors may be held by means of —
+(5) For the purpose of subsection (4), attendance of director at a meeting of directors is not deemed to be a waiver of notice of the meeting, unless the director attends meeting for the express purpose of objecting to the transaction of any business on the ground that the meeting not lawfully called.
+
+*may*
+
+(6) Subject to the bye-laws, where all the directors consent, a meeting of directors or a committee of directors be held by means of —
 
 (a) a telephone system; or
 
@@ -1351,9 +1365,13 @@ performance of their duties and functions as directors or members of committees.
 
 (4) The directors shall fix the salaries of any employees appointed by them.
 
-*Ceasing to hold office.*
+*Ceasing to hold*
 
-**59.** A director of a co-operative credit union ceases to hold office when —
+*to*
+
+*office.*
+
+**59.** A director of a co-operative credit union ceases hold office when —
 
 (a) he dies or resigns;
 
@@ -1367,9 +1385,13 @@ performance of their duties and functions as directors or members of committees.
 
 (f) his term of office expires.
 
-*Removal of directors.*
+*Removal of*
 
-**60.** (1) Subject to the regulations or the bye-laws, the members of a co-operative credit union may call a special general meeting for the purpose of removing any director from office.
+*the*
+
+*directors.*
+
+**60.** (1) Subject to the regulations or the bye-laws, members of a co-operative credit union may call a special general meeting for the purpose of removing any director from office.
 
 (2) The Central Bank may remove a director if—
 
@@ -1377,7 +1399,9 @@ performance of their duties and functions as directors or members of committees.
 
 (b) the director is no longer a fit and proper person pursuant to section 50.
 
-(3) A vacancy created by the removal of a director may be filled at the meeting of the members at which the director is removed or, where not so filled, may be filled pursuant to section 49(4).
+*may*
+
+(3) A vacancy created by the removal of a director be filled at the meeting of the members at which the director is removed or, where not so filled, may be filled pursuant to section 49(4).
 
 ## PART VIII INVESTMENTS AND BORROWINGS
 
@@ -1393,9 +1417,9 @@ performance of their duties and functions as directors or members of committees.
 
 (d) in any other manner as determined by the Central Bank.
 
-*Borrowing Limits.*
+*Borrowing Limits. funds in*
 
-**62.** A co-operative credit union shall not borrow funds in excess of ten percent of its total assets.
+**62.** A co-operative credit union shall not borrow excess of ten percent of its total assets.
 
 ## PART IX DEPOSITS, STATUTORY REQUIREMENTS
 
@@ -1405,23 +1429,23 @@ performance of their duties and functions as directors or members of committees.
 
 (a) receive deposits from its members; and
 
-(b) pay any or all of the deposit and any or all of the interest on the deposit to, or to the order of, that member unless, before payment, the money so deposited is claimed by some other person —
-
-(i) in any action or proceeding to which the co-operative credit union is a party and in respect of which service of a writ or other process originating such action or proceeding has been made on the co-operative credit union; or
+(b) pay any or all of the deposit and any or all of the interest on the deposit to, or to the order of, that member unless, before payment, the money so deposited is claimed by some other person — (i) in any action or proceeding to which the co-operative credit union is a party and in respect of which service of a writ or other process originating such action or proceeding has been made on the co-operative credit union; or
 
 (ii) in any other action or proceeding pursuant to which an injunction or order made by the court requiring the co-operative credit union not to make payment of the money or to make payment of it to a person other than the depositor has been served on the co-operative credit union, and in that case the money so deposited may be paid to the depositor with the consent of the claimant or to the claimant with the consent of the depositor.
 
-*Credit facilities.*
+*Credit facilities. union may purpose of any of its*
 
-**64.** (1) Subject to the bye-laws, a co-operative credit union may receive deposits and loans from persons who are not members of the co-operative credit union for the purpose of meeting any of its obligations or discharging any of its functions under this Act.
+**64.** (1) Subject to the bye-laws, a co-operative credit receive deposits and loans from persons who are not members of the co-operative credit union for the meeting any of its obligations or discharging functions under this Act.
 
 (2) A co-operative credit union may by mortgage or in any other manner it deems appropriate guarantee the repayment of any sums received by it pursuant to subsection (1).
 
-*Statutory reserve, liquidity deposit and stabilisation funds, and disposal thereof.*
+*Statutory reserve, annual liquidity deposit and stabilisation funds, and disposal thereof.*
 
-**65.** (1) Where a co-operative credit union realizes an annual surplus from its transactions, that co-operative credit union shall establish and maintain a statutory reserve fund as may be prescribed by regulations.
+**65.** (1) Where a co-operative credit union realizes an surplus from its transactions, that co-operative credit union shall establish and maintain a statutory reserve fund as may be prescribed by regulations.
 
-(2) Every co-operative credit union shall ensure that —
+*that —*
+
+Every co-operative credit union shall ensure
 
 (a) not less than ten percent of its members’ deposits are kept in a liquidity deposit fund;
 
@@ -1745,7 +1769,9 @@ co-operative credit union, and the results of its operations for the period unde
 
 (d) on the recommendation of the Apex Body.
 
-(2) For the purposes of this Act, the duties of the Inspector are —
+*Inspector*
+
+For the purposes of this Act, the duties of the are —
 
 (a) to examine and make recommendations to the Governor with respect to applications for registration;
 
@@ -1763,17 +1789,15 @@ co-operative credit union, and the results of its operations for the period unde
 
 (e) to examine, by way of receipt of regular returns, reports or in such other manner as the Inspector considers necessary, the affairs or business of any co-operative credit union carrying on business within The Bahamas.
 
-(3) In the performance of his duties under this Act and subject to the confidentiality requirements as may be
+*and provided Ch. 351. Inspector*
 
-*Ch. 351.*
-
-provided for in the Central Bank of The Bahamas Act, the Inspector may at all reasonable times —
+(3) In the performance of his duties under this Act subject to the confidentiality requirements as may be for in the Central Bank of The Bahamas Act, the may at all reasonable times —
 
 (a) have access to the books, accounts vouchers, and documents of the co-operative credit union or any document relating to any cash or securities belonging to the credit union and affiliated companies including documents stored in electronic form;
 
 (b) call upon any director, manager or any officer designated by the Board for such information or explanation;
 
-(c) call upon the current or any former auditor of a co-operative credit union for the auditor’s reports, working papers, information or explanation.
+call upon the current or any former auditor of a co-operative credit union for the auditor’s reports, working papers, information or explanation.
 
 (4) No duty of confidentiality to which an auditor or former auditor of a cooperative credit union may be subject shall be regarded as having been breached by reason of his communicating in good faith to the Inspector, any information which is relevant to the duties of the Inspector under this Act.
 
@@ -2013,17 +2037,21 @@ the Central Bank may make an order directing it to be wound up and may appoint a
 
 (b) the claim of any creditors;
 
-(c) the number of members of the co-operative credit union; and
+the number of members of the co-operative credit union; and
 
 (d) the nature and extent of the members’ interests in the co-operative credit union.
 
-(6) Where a co-operative credit union is wound-up under this section, any surplus assets remaining after all claimants have been paid shall be utilized in the manner specified in section 106.
+*under*
+
+(6) Where a co-operative credit union is wound-up this section, any surplus assets remaining after all claimants have been paid shall be utilized in the manner specified in section 106.
 
 *Power of Central Bank pursuant to a winding up order.*
 
-**102.** (1) Where the Central Bank cancels the registration of a co-operative credit union pursuant to section 14, the assets and liabilities of the co-operative credit union shall immediately vest with the Central Bank and the Central Bank shall have in respect of those assets and liabilities the powers of a liquidator under section 103.
+*credit and*
 
-(2) The Central Bank may delegate its power as a liquidator to a suitably qualified person; but any such delegation shall be revocable at will and shall not preclude the Central Bank from exercising the power.
+*the*
+
+**102.** (1) Where the Central Bank cancels the registration of a co-operative credit union pursuant to section 14, the assets and liabilities of the co-operative union shall immediately vest with the Central Bank and the Central Bank shall have in respect of those assets liabilities the powers of a liquidator under section 103. (2) The Central Bank may delegate its power as a liquidator to a suitably qualified person; but any such delegation shall be revocable at will and shall not preclude Central Bank from exercising the power.
 
 (3) The Central Bank may publish in the Gazette, notice of the delegation of its power as liquidator.
 
@@ -2169,7 +2197,9 @@ construed to preclude or otherwise affect the institution or maintenance of a pr
 
 *Management.*
 
-**113.** (1) A co-operative credit union shall appoint one of its directors to hold office at the first meeting, and subsequent annual meetings of the Apex Body for a period of either one, two or three years in accordance with the bye-laws of the Apex Body.
+*of of*
+
+**113.** (1) A co-operative credit union shall appoint one its directors to hold office at the first meeting, and subsequent annual meetings of the Apex Body for a period either one, two or three years in accordance with the bye-laws of the Apex Body.
 
 (2) No director of an Apex Body may hold office —
 
@@ -2231,13 +2261,11 @@ construed to preclude or otherwise affect the institution or maintenance of a pr
 
 (b) in the case of a body corporate, to a fine of twenty thousand dollars.
 
-(3) Where the person referred to under subsection
+*five year*
 
-(1) is a body corporate and whether or not the body corporate has been prosecuted or convicted, any director or officer of the body corporate who knowingly authorises, permits or acquiesces in the offence also commits an offence and is liable on summary conviction to a fine of five thousand dollars or to a term of imprisonment of one year or to both.
+(3) Where the person referred to under subsection (1) is a body corporate and whether or not the body corporate has been prosecuted or convicted, any director or officer of the body corporate who knowingly authorises, permits or acquiesces in the offence also commits an offence and is liable on summary conviction to a fine of thousand dollars or to a term of imprisonment of one or to both.
 
-(4) No person commits an offence under subsection
-
-(1) or (3) where the untrue statement or omission —
+(4) No person commits an offence under subsection (1) or (3) where the untrue statement or omission —
 
 (a) was unknown to him; and
 
@@ -2287,11 +2315,9 @@ by any person under the provisions of this Act, as the case may be, except —
 
 **122.** (1) Every co-operative credit union registered under this Act is exempt from any stamp duty with which, under any law for the time being in force, instruments executed by or on behalf of such co-operative credit union or by an officer or member relating to the business of such co-operative credit union, any class of such instruments, are respectively chargeable.
 
-(2) The instruments or transactions relating to any loan granted under this Act shall be exempt from the
-
 *Ch. 370. Non-application of certain Acts. Ch. 314. Ch. 308. Ch. 313. Ch. 6. Ch. 316. Ch. 69. Ch. 370A. Ch. 369A. Regulations.*
 
-payment of stamp duty under the Stamp Act.
+(2) The instruments or transactions relating to any loan granted under this Act shall be exempt from the payment of stamp duty under the Stamp Act.
 
 **123.** Save as expressly provided in this Act, the Co-operative Societies Act, the Companies Act, the Friendly Societies Act, the Minors Act, the Banks and Trust Companies Regulation Act, the Bankruptcy Act, the Value Added Tax Act and the Investment Funds Act do not apply to co-operative credit unions registered under this Act.
 
@@ -2323,19 +2349,15 @@ Societies Act shall be deemed to be registered under this Act.
 
 (3) The commencement of this Act shall not operate to terminate the tenure of any person then serving as a director, officer, manager or committee member of a credit union.
 
-(4) Where a credit union is being dissolved or
-
 *Ch. 314.*
 
-liquidated and dissolved pursuant to the Co-operative Societies Act, that Act continues to apply to that credit union.
+(4) Where a credit union is being dissolved or liquidated and dissolved pursuant to the Co-operative Societies Act, that Act continues to apply to that credit union.
 
 (5) Legal or other proceedings pending before the commencement of this Act to which the Director of Societies was a party may be continued as if the Central Bank was a party to those proceedings.
 
-(6) Any orders, directions, appointments and other
-
 *Ch. 314.*
 
-acts lawfully made under a provision of the Co-operative Societies Act, relating to credit unions, and in force immediately before the commencement of this Act, shall be taken to have been made or done under the corresponding provision of this Act and continue to have effect accordingly.
+(6) Any orders, directions, appointments and other acts lawfully made under a provision of the Co-operative Societies Act, relating to credit unions, and in force immediately before the commencement of this Act, shall be taken to have been made or done under the corresponding provision of this Act and continue to have effect accordingly.
 
 *Power to amend bye-laws.*
 

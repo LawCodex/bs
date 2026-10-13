@@ -42,3 +42,7 @@ An Act to abolish Mandatory Minimum Sentences.
 *Abolition of mandatory minimum sentences.*
 
 **2.** Where a provision in any law has the effect of requiring a court to impose a minimum term of imprisonment that provision, to the extent of that requirement, shall be of no effect.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF

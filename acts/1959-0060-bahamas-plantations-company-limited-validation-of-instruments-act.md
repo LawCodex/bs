@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 VALIDATION OF INSTRUMENTS Act No. 60 of 1959
 
-### BAHAMAS PLANTATIONS COMPANY, LIMITED, VALIDATION OF INSTRUMENTS
-
 *60 of 1959*
 
-An Act to validate certain instruments relating to land situate in the Island of New Providence and known as “Old Fort”, “The Wilderness” and “Charlotteville” respectively.
+BAHAMAS PLANTATIONS COMPANY, LIMITED, VALIDATION OF INSTRUMENTS An Act to validate certain instruments relating to land situate in the Island of New Providence and known as “Old Fort”, “The Wilderness” and “Charlotteville” respectively.
 
 [Commencement 3rd September, 1959] WHEREAS by an indenture dated the 5th April A.D. 1913 and made between Francis Manuel Menendez of the first part and others of the second, third, fourth and fifth parts and The Bahamas Plantations Company, Limited (hereinafter called “the Company”) of the sixth part and now of record in the Registry of Records in the City of Nassau in the Island of New Providence in Book Z. 10 at pages 177 to 181 the parties of the first five parts granted, conveyed, released and confirmed unto the Company in fee simple All the hereditaments (hereinafter referred to as
 
@@ -59,6 +57,10 @@ tion of the Company.
 ## SCHEDULE
 
 **1.** All That lot of land situate in the Western District of the Island of New Providence and containing by admeasurement Seven hundred and ninety-five and one-half acres or thereabouts bounded on the Northwest by the Sea on the Southwest by a swamp and the Waterloo Estate on the Southeast by land belonging to William Joseph Menendez and on the Northeast by Crown Land the Love Estate and the Bradford Estate which said premises were formerly
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 part and parcel of a lot of land originally granted to a certain Micklethwaite and of lands known respectively as Charlotte Ville Estate and Wilderness Estate or however otherwise the same way may be abutted bounded known or described.
 

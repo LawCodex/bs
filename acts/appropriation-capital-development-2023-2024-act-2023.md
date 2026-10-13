@@ -38,7 +38,9 @@ PUBLIC FINANCE MANAGEMENT (AMENDMENT) ACT, 2023 c
 
 c No. 11 of 2023 APPROPRIATION (CAPITAL DEVELOPMENT) (2023/2024) ACT, 2023
 
-AN PUBLIC ACT FOR FINANCE THE APPROPRIATION MANAGEMENT OF THE (AMENDMENT) SUM OF THREE ACT, HUNDRED SIXTY FOUR MILLION SIX HUNDRED THOUSAND 2023 DOLLARS FOR AND TOWARDS DEFRAYING THE EXPENSES OF THE GOVERNMENT OF THE COMMONWEALTH OF THE BAHAMAS AN ACT FOR CAPITAL THE DEVELOPMENT FOR TO AMEND PUBLIC FINANCE THE FINANCIAL YEAR ENDING 30TH JUNE, 2024 MANAGEMENT ACT, 2023
+*AN*
+
+PUBLIC ACT FOR FINANCE THE APPROPRIATION MANAGEMENT OF THE (AMENDMENT) SUM OF THREE ACT, HUNDRED SIXTY FOUR MILLION SIX HUNDRED THOUSAND 2023 DOLLARS FOR AND TOWARDS DEFRAYING THE EXPENSES OF THE GOVERNMENT OF THE COMMONWEALTH OF THE BAHAMAS AN ACT FOR CAPITAL THE DEVELOPMENT FOR TO AMEND PUBLIC FINANCE THE FINANCIAL YEAR ENDING 30TH JUNE, 2024 MANAGEMENT ACT, 2023
 
 [Date of Assent - 30 th June, 2023]
 
@@ -46,21 +48,23 @@ Enacted by Parliament the Parliament of The Bahamas Enacted by the of The Bahama
 
 **1.** Short title.
 
+*This Bill,*
+
 **1.** Short title and commencement. .
 
-This Act may be cited as the Appropriation (Capital Development)(2023/2024) Bill, (1) 2023. This Act, which amends the Public Finance Management Act (No. 4 of 2023), may be cited as the Public Finance Management (Amendment)
+Act may be cited as the Appropriation (Capital Development)(2023/2024) (1) 2023. This Act, which amends the Public Finance Management Act (No. 4 of 2023), may be cited as the Public Finance Management (Amendment)
 
 **2.** Interpretation. Act, 2023.
 
-In (2) This Act shall come into force on the 1st day of July, for 2023. the capital this Act, “development expenditure” means expenditure development of The Bahamas.
+*In*
+
+(2) This Act shall come into force on the 1st day of July, for 2023. the capital this Act, “development expenditure” means expenditure development of The Bahamas.
 
 **2.** Amendment of section 81 of the principal Act.
 
 **3.** Authority for payment.
 
-Section 81 of the principal Act is amended in subsection (2) by the deletion of
-
-(1) paragraph There may (a) be paid out of the of – Treasury upon the authority of a warrant and the substitution
+Section 81 of the principal Act is amended in subsection (2) by the deletion of (1) There may (a) be paid out of the of – Treasury upon the authority of a warrant paragraph and the substitution
 
 under the hand of the Minister of Finance during the financial year
 
@@ -68,7 +72,9 @@ under the hand of the Minister of Finance during the financial year
 
 the Schedule.
 
-**3.** (2) In the financial of year referred to in the subsection principal (1), Act. not more than three Amendment section 129 of
+*\3. (2)*
+
+In the financial of year referred to in the subsection principal (1), Act. not more than three Amendment section 129 of
 
 hundred sixty four million, six hundred thousand dollars may be paid in Section total under 129 of the the provisions principal of Act this is amended section. —
 
@@ -76,11 +82,9 @@ hundred sixty four million, six hundred thousand dollars may be paid in Section 
 
 “(d) registering the ownership of or changing the ownership in any registrable goods on which the tax is required to be paid;
 
-## SCHEDULE (section 3)
-
 *SUM GRANTED $ 5,740,000 117,356,700 11,730,000 11,130,125 115,242,165*
 
-### HEAD OF EXPENDITURE
+## SCHEDULE (section 3) HEAD OF EXPENDITURE
 
 **13.** Ministry of Foreign Affairs and The Public Service
 

@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 VALIDATION OF CONVEYANCES Act No. 29 of 1959
 
-### BAHAMAS FIBRE AND PRODUCE COMPANY, LIMITED, VALIDATION OF CONVEYANCES
-
 *29 of 1959*
 
-An Act to validate certain conveyances of land situate in the Island of New Providence made on behalf of The Bahamas Fibre and Produce Company, Limited.
+BAHAMAS FIBRE AND PRODUCE COMPANY, LIMITED, VALIDATION OF CONVEYANCES An Act to validate certain conveyances of land situate in the Island of New Providence made on behalf of The Bahamas Fibre and Produce Company, Limited.
 
 [Commencement 13th July, 1959]
 
@@ -37,6 +35,10 @@ An Act to validate certain conveyances of land situate in the Island of New Prov
 *Commencement.*
 
 **3.** So far as this Act relates to each of the said indentures it shall be deemed to have come into operation on the date of each such indenture.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF
 
 IV – 202]
 

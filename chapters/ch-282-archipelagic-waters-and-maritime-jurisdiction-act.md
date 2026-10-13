@@ -57,11 +57,11 @@ retrieved: 2026-10-13
 
 **17.** Savings.
 
-### ARCHIPELAGIC WATERS AND MARITIME JURISDICTION
-
 *37 of 1993*
 
-An Act respecting the territorial sea, archipelagic waters, internal waters and the exclusive economic zone of The Bahamas.
+*The*
+
+ARCHIPELAGIC WATERS AND MARITIME JURISDICTION An Act respecting the territorial sea, archipelagic waters, internal waters and the exclusive economic zone of Bahamas.
 
 [Assent 31st December, 1993]
 
@@ -115,7 +115,9 @@ An Act respecting the territorial sea, archipelagic waters, internal waters and 
 
 (5) For the purposes of this section, a low-tide elevation is a naturally formed area of land which is surrounded by and is above water at mean low-water but is submerged at mean high-water.
 
-**5.** (1) Subject to subsections (2) and (3) and section Right of innocent 13 and without prejudice to sections 7 or 11, a foreign ship passage. shall be entitled to enjoy the right of innocent passage through the archipelagic waters and territorial sea of The Bahamas.
+*Right of innocent passage.*
+
+**5.** (1) Subject to subsections (2) and (3) and section 13 and without prejudice to sections 7 or 11, a foreign ship shall be entitled to enjoy the right of innocent passage through the archipelagic waters and territorial sea of The Bahamas.
 
 (2) The passage of a foreign ship shall be deemed to be prejudicial to the peace, good order or security of The Bahamas if, the ship while in the archipelagic waters or territorial sea of The Bahamas, engages in any of the following activities —
 
@@ -131,7 +133,9 @@ An Act respecting the territorial sea, archipelagic waters, internal waters and 
 
 (f) any act of pollution calculated or likely to cause damage or harm to The Bahamas, its resources or its marine environment;
 
-(g) any fishing activities other than in accordance with the Fisheries Resources (Jurisdiction and Ch. 244. Conservation) Act;
+*Ch. 244.*
+
+(g) any fishing activities other than in accordance with the Fisheries Resources (Jurisdiction and Conservation) Act;
 
 (h) any act aimed at the interfering with systems of communication or telecommunication of The Bahamas;
 
@@ -233,7 +237,9 @@ An Act respecting the territorial sea, archipelagic waters, internal waters and 
 
 **14.** The Governor-General may, whenever he con-siders it necessary or expedient so to do having regard to international law, by Order alter the seaward limit of the territorial sea of The Bahamas.
 
-*Territorial sea of The Bahamas meets with territorial sea, etc., of another state.*
+*Territorial sea of*
+
+*meets with territorial sea, etc., of another state.*
 
 **15.** Where the territorial sea of The Bahamas meets with the territorial sea of another state to the extent only to which such limits are recognised by The Bahamas to be validly established pursuant to international law, the
 

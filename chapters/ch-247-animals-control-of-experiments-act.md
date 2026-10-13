@@ -53,11 +53,9 @@ retrieved: 2026-10-13
 
 **16.** Restriction on prosecution of licensee.
 
-### ANIMALS (CONTROL OF EXPERIMENTS)
-
 *42 of 1957 G.N. 172 of 1964 E.L.A.O., 1974 5 of 1987 Short title.*
 
-An Act to control experiments on living animals.
+ANIMALS (CONTROL OF EXPERIMENTS) An Act to control experiments on living animals.
 
 [Commencement 15th July, 1957]
 
@@ -81,7 +79,9 @@ An Act to control experiments on living animals.
 
 **3.** (1) No person except a licensee shall perform any experiment.
 
-(2) No licensee shall perform any experiment except in accordance with the terms of his licence and subject to the restrictions imposed by this Act.
+*in*
+
+(2) No licensee shall perform any experiment except accordance with the terms of his licence and subject to the restrictions imposed by this Act.
 
 *No experiments to attain manual skill. Prohibition of experiments for illustration of lectures subject to certain conditions.*
 
@@ -101,23 +101,31 @@ prolonging life, or alleviating suffering, or for combating any disease whether 
 
 (c) by the order in writing of any judge of the Supreme Court in any case where such judge is satisfied that it is essential for the purpose of justice in a criminal case to make such experiment.
 
-(2) Except as otherwise provided in subsection (3) of this section, no licensee shall perform any experiment unless —
+*of this*
+
+(2) Except as otherwise provided in subsection (3) section, no licensee shall perform any experiment unless —
 
 (a) throughout the whole of the experiment the animal is under the influence of some anaesthetic of sufficient power to prevent the animal feeling pain; and
 
 (b) if the pain is likely to continue after the effect of the anaesthetic has ceased, or if any serious injury has been inflicted on the animal, the animal is killed before it recovers from the influence of the anaesthetic which has been administered.
 
-(3) The provisions of subsection (2) of this section shall not apply to any licensee who is the holder of a special permit granted under section 9 of this Act in relation to any experiment specified in such special permit.
+*special relation Grant of licence. E.L.A.O., 1974. person such this Act*
 
-*Grant of licence. E.L.A.O., 1974.*
+(3) The provisions of subsection (2) of this section shall not apply to any licensee who is the holder of a permit granted under section 9 of this Act in to any experiment specified in such special permit.
 
-**7.** (1) The Minister may grant a licence to any person to perform any experiment for any purpose specified in such licence during such period and subject to such conditions in addition to the conditions specified in this Act as he may think fit.
+**7.** (1) The Minister may grant a licence to any to perform any experiment for any purpose specified in such licence during such period and subject to conditions in addition to the conditions specified in as he may think fit.
 
-(2) It shall be a condition of any licence granted under subsection (1) of this section, that any experiment performed pursuant to such licence shall be performed at such place as may be specified in such licence.
+*under such*
 
-*Permits. E.L.A.O., 1974.*
+(2) It shall be a condition of any licence granted subsection (1) of this section, that any experiment performed pursuant to such licence shall be performed at place as may be specified in such licence.
 
-**8.** (1) Where the Minister is satisfied that it is necessary for the due instruction of persons attending any course of lectures for the purpose of acquiring
+*Permits. E.L.A.O., 1974. course*
+
+**8.** (1) Where the Minister is satisfied that it is necessary for the due instruction of persons attending any of lectures for the purpose of acquiring
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 physiological knowledge or any knowledge which will be used for saving or prolonging life, or alleviating suffering, or for combating any disease whether of human beings, animals or plants, for any such lecture to be illustrated by the performance of any experiment, the Minister may grant to a licensee under this Act a teaching permit to perform any experiment specified in such licence for the purpose of illustrating such lecture.
 
@@ -139,11 +147,9 @@ he may grant a special permit authorising the licensee to perform such experimen
 
 **10.** (1) Every licensee under this Act shall keep, in such form as may be prescribed, records of all painful experiments performed by him.
 
-(2) Every licensee under this Act shall permit any
-
 *G.N. 172 of 1964.*
 
-person authorised in writing by the Minister to inspect any records kept by him at any time between 8 a.m. and 6 p.m. on any day other than a Sunday or public holiday.
+(2) Every licensee under this Act shall permit any person authorised in writing by the Minister to inspect any records kept by him at any time between 8 a.m. and 6 p.m. on any day other than a Sunday or public holiday.
 
 (3) Every licensee under this Act shall permit any person authorised in writing as aforesaid to enter and inspect, for the purpose of securing compliance with the provisions of this Act, any place specified in such licensee’s licence for the performance of experiments.
 
@@ -163,20 +169,20 @@ person authorised in writing by the Minister to inspect any records kept by him 
 
 *Entry on warrant by justice.*
 
-**14.** A justice of the peace, on information on oath that there is reasonable ground to believe that experiments in contravention of this Act are being performed by an unlicensed person in any place not registered under this Act may issue his warrant authorising any officer or constable of police to enter and search such place, and to take the names and addresses of the persons found therein. Any person who refuses admission on demand to a police officer or constable so authorised, or obstructs such officer or constable in the execution of his duty under this
-
 *5 of 1987, Sch.*
 
-section, or who refuses on demand to disclose his name or address, or gives a false name or address, shall be liable to a penalty not exceeding twenty-five dollars.
+**14.** A justice of the peace, on information on oath that there is reasonable ground to believe that experiments in contravention of this Act are being performed by an unlicensed person in any place not registered under this Act may issue his warrant authorising any officer or constable of police to enter and search such place, and to take the names and addresses of the persons found therein. Any person who refuses admission on demand to a police officer or constable so authorised, or obstructs such officer or constable in the execution of his duty under this section, or who refuses on demand to disclose his name or address, or gives a false name or address, shall be liable to a penalty not exceeding twenty-five dollars.
 
 *Penalty.*
 
-**15.** Every person who acts in contravention of any of the provisions of this Act or of any condition of any licence or permit granted under this Act shall be guilty of
-
 *5 of 1987, s. 2.*
 
-an offence against this Act and unless otherwise provided shall be liable upon summary conviction to a fine of two hundred dollars or to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
+**15.** Every person who acts in contravention of any of the provisions of this Act or of any condition of any licence or permit granted under this Act shall be guilty of an offence against this Act and unless otherwise provided shall be liable upon summary conviction to a fine of two hundred dollars or to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
 
 *Restriction on prosecution of licensee.*
 
 **16.** A prosecution under this Act against a licensee shall not be instituted except by or with the consent of the Attorney-General.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

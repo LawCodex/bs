@@ -100,11 +100,9 @@ epartment may offer for sale to the general pu lic the plants listed in art he A
 
 epartment may at offer sale sho to n the rein. the plants listed in art Schedule the rates
 
-he epartment may offer for sale to the general
-
 *A*
 
-pu lic dog the licence plants listed shall in be art
+he epartment may offer for sale to the general pu lic dog the licence plants listed shall in be art
 
 (4) Schedule The at the application rates and sho fee n for a microchip in A of the therein.
 

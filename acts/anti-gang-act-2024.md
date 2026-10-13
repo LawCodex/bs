@@ -91,9 +91,11 @@ PART V - FORFEIT RE OF PROPERTY Forfeiture of property of gang..................
 
 c No. 8 of 2024 ANTI-GANG ACT, 2024 ANTI-GANG ACT, 2024
 
-*AN*
+*AN ACT AN ACT*
 
-AN ACT TO MA E PROVISIONS FOR MAINTAINING P BLIC ACT TO MA E PROVISIONS DISCO FOR MAINTAINING P BLIC SAFETY AND ORDER, BY RAGING MEMBERSHIP IN SAFETY GANGS, S PPRESSING AND P NISHING GANG-RELATED IN AND ORDER, BY DISCO RAGING MEMBERSHIP GANGS, S PPRESSING AND FOR AND P NISHING GANG-RELATED ACTIVITIES OTHER CONNECTED MATTERS ACTIVITIES AND FOR OTHER th CONNECTED MATTERS
+TO MA E PROVISIONS FOR MAINTAINING P BLIC TO MA E PROVISIONS DISCO FOR MAINTAINING P BLIC SAFETY AND ORDER, BY RAGING MEMBERSHIP IN SAFETY AND S PPRESSING AND P NISHING GANG-RELATED IN ORDER, BY DISCO RAGING MEMBERSHIP GANGS,
+
+GANGS, S PPRESSING AND FOR AND P NISHING GANG-RELATED ACTIVITIES OTHER CONNECTED MATTERS ACTIVITIES AND FOR OTHER th CONNECTED MATTERS
 
 [Date of Assent - 29 May, 2024] Enacte t e Par iament of T e Ba amas Enacte t e Par iament of T e Ba amas
 
@@ -109,9 +111,9 @@ AN ACT TO MA E PROVISIONS FOR MAINTAINING P BLIC ACT TO MA E PROVISIONS DISCO FO
 
 *1 2*
 
-his his Act Act may shall be come cited as the operation Anti-Gang on Act, 2024.
+his Act Act may shall be come cited as the operation Anti-Gang on Act, 2024.
 
-into such date as the inister may appoint by notice published in the Gazette. 2 his Act shall come into operation on such date as the inister may appoint by notice published in the Gazette.
+his into such date as the inister may appoint by notice published in the Gazette. 2 his Act shall come into operation on such date as the inister may appoint by notice published in the Gazette.
 
 **2.** Interpretation.
 
@@ -139,141 +141,217 @@ a an attempt to commit a serious offence b the aiding, abetting, counselling, or
 
 c conspiracy to commit a serious offence a enforcement officer means
 
-a a member of the Royal ahamas Police Force b a member of the Royal ahamas Defence Force c a member of the Department of Customs and
-
 *d*
 
-a member of the Department of Immigration ro i ite ea on has the meaning ascribed to it in the Firearms Act Ch. 213
+a a member of the Royal ahamas Police Force b a member of the Royal ahamas Defence Force c a member of the Department of Customs and a member of the Department of Immigration ro i ite ea on has the meaning ascribed to it in the Firearms Act Ch. 213
 
 recr it means to procure, solicit, incite, induce, coerce, encourage, entice, aid, abet, or to enlist or enrol reta iator action means any act of violence or other act by which a person attempts to get even with, or to punish, another person serio s offence means an offence specified in the he e sc oo means an establishment for the conduct of educational, technical or vocational training, sporting or social programmes, and includes a playing field or other premises established or maintained for the benefit of the pupils of a school, whether or not such building, playing field or other premises, are within the curtilage of the school, any community residence, recreation ground, or par .
 
 ## PART II E I EN E MEM ERS IP IN AN
 
-*.*
+*. In any*
 
 E idence in relation to a an .
 
-In any action or proceedings brought under this Act, the following shall be admissible to prove a person s membership in a gang evidence of the admission by that person, of membership in a gang
+action or proceedings brought under this Act, the following shall be admissible to prove a person s membership in a gang evidence of the admission by that person, of membership in a gang
 
-evidence of any symbols, signs or codes in possession of a person, or on his clothing, or any mar ings whether in the form of tattoos on his body or on his clothing or any other item , or other body mar ings, clothing, signs and codes in possession of, or on the person, that identifies or is associated with a gang and indicates a lin or involvement with that gang c evidence of criminal activity by the person that indicates a lin or involvement with a gang
+*c*
 
-d evidence that the person is or has associated with a gang or any of its participants with intent to facilitate the commission of gang-related activity or assist in gang-related activity e evidence that the person nowingly assisted in, or in any way facilitated, the concealment, transportation or disposal of evidence of gang-related activity
+evidence of any symbols, signs or codes in possession of a person, or on his clothing, or any mar ings whether in the form of tattoos on his body or on his clothing or any other item , or other body mar ings, clothing, signs and codes in possession of, or on the person, that identifies or is associated with a gang and indicates a lin or involvement with that gang evidence of criminal activity by the person that indicates a lin or involvement with a gang
 
-f evidence that the person nowingly concealed or shared in the proceeds of gang-related activity g any statement made, or information given, distributed, or communicated by that person on behalf of, or in the name of a gang
+*d*
 
-h any statement made by a person whether orally or in writing, and published or otherwise distributed by him indicating his involvement in gang-related activity or i any other evidence, which reasonably shows or demonstrates membership in a gang.
+*e*
+
+evidence that the person is or has associated with a gang or any of its participants with intent to facilitate the commission of gang-related activity or assist in gang-related activity evidence that the person nowingly assisted in, or in any way facilitated, the concealment, transportation or disposal of evidence of gang-related activity
+
+*f*
+
+*g*
+
+evidence that the person nowingly concealed or shared in the proceeds of gang-related activity any statement made, or information given, distributed, or communicated by that person on behalf of, or in the name of a gang
+
+*h*
+
+*i*
+
+any statement made by a person whether orally or in writing, and published or otherwise distributed by him indicating his involvement in gang-related activity or any other evidence, which reasonably shows or demonstrates membership in a gang.
 
 *.*
 
 eclaration o a an .
 
-1 here the inister has reasonable grounds to believe that a group of persons is involved in any gang-related activity as defined in section 2, he may ma e application to the Supreme Court for a declaration that the group of persons is a gang for the purposes of this Act.
+*may*
 
-2 Any person aggrieved by any decision of the Court under subsection 1 may appeal that decision to the Court of Appeal within twenty-one days of the decision.
+1 here the inister has reasonable grounds to believe that a group of persons is involved in any gang-related activity as defined in section 2, he ma e application to the Supreme Court for a declaration that the group of persons is a gang for the purposes of this Act.
+
+*Any may the*
+
+2 person aggrieved by any decision of the Court under subsection 1 appeal that decision to the Court of Appeal within twenty-one days of decision.
 
 ### EN ES
 
-an mem er hip.
+*an mem er A person a b c d*
 
-1 A person who
+hip.
 
-a is a gang leader
+1 who
 
-b is a gang member
+is a gang leader
 
-c performs an act as a condition for membership in a gang or d professes to be a gang member in order to i obtain a benefit for himself or another person ii intimidate another person into joining a gang or iii promote a gang,
+is a gang member
+
+performs an act as a condition for membership in a gang or professes to be a gang member in order to i obtain a benefit for himself or another person ii intimidate another person into joining a gang or iii promote a gang,
 
 commits an offence.
 
-2 A person who commits an offence under subsection 1 a or b is liable on conviction on information for a term not e ceeding twenty-five years. 3 A person who commits an offence under subsection 1 c or d is liable on summary conviction to imprisonment for a term not e ceeding seven years.
+*A person on A person on years.*
 
-*.*
+2 who commits an offence under subsection 1 a or b is liable conviction on information for a term not e ceeding twenty-five years. 3 who commits an offence under subsection 1 c or d is liable summary conviction to imprisonment for a term not e ceeding seven
 
-an -related acti it
+*. an -related A gang*
 
-1 A gang leader or gang member engages in gang-related activity where he
+acti it
 
-a nowingly advises, causes, encourages or recruits another person to become a member of a gang b acts alone or in concert with other persons in the commission of a serious offence for the purpose of obtaining material or financial benefit for a gang or for promotion of a gang c directly or indirectly instructs, instigates, commands, counsels, procures, organises, solicits or in any manner purposely aids, facilitates, encourages or promotes any member of a gang to commit a serious offence d threatens any person with retaliatory action in response to any act or alleged act of violence against a gang leader or gang member
+1 leader or gang member engages in gang-related activity where he
 
-e ta es any action for the purpose of retaliation, intimidation, or coercion, against another person on behalf of the gang or any member of the gang
+*a*
 
-f idnaps or attempts to idnap any person, or threatens any person with injury or detriment of any ind with intent to
+*b*
+
+*c*
+
+*d*
+
+nowingly advises, causes, encourages or recruits another person to become a member of a gang acts alone or in concert with other persons in the commission of a serious offence for the purpose of obtaining material or financial benefit for a gang or for promotion of a gang directly or indirectly instructs, instigates, commands, counsels, procures, organises, solicits or in any manner purposely aids, facilitates, encourages or promotes any member of a gang to commit a serious offence threatens any person with retaliatory action in response to any act or alleged act of violence against a gang leader or gang member
+
+*e*
+
+ta es any action for the purpose of retaliation, intimidation, or coercion, against another person on behalf of the gang or any member of the gang
+
+*f*
+
+idnaps or attempts to idnap any person, or threatens any person with injury or detriment of any ind with intent to
 
 e tort or gain anything from any person for or on behalf of a gang
 
-g provides instructions or training to a person recruited for the purposes of or in connection with participation in a gang h possesses an article for the purpose of the preparation, instigation or commission of a serious offence on behalf of a gang
+*g*
 
-i possesses, collects, ma es or transmits a document or records for use by a person committing or preparing to commit a serious offence on behalf of a gang j provides, receives or invites another to provide property for the purposes of a gang
+*h*
+
+provides instructions or training to a person recruited for the purposes of or in connection with participation in a gang possesses an article for the purpose of the preparation, instigation or commission of a serious offence on behalf of a gang
+
+*i*
+
+*j*
+
+possesses, collects, ma es or transmits a document or records for use by a person committing or preparing to commit a serious offence on behalf of a gang provides, receives or invites another to provide property for the purposes of a gang
 
 uses, causes or permits any person to use property belonging to a gang for the purposes of the activities of a gang
 
-l nowingly enters into an arrangement with another person to facilitate the retention or control of gang funds m intentionally and unlawfully wounds or causes grievous harm to a law enforcement officer during the investigation of a gang leader or gang member n endangers the life of any person or causes serious damage to the property of any person on behalf of a gang or o organi es, attends or addresses a meeting for the purpose of encouraging support of a gang or furthering the activities of a gang.
+*l*
 
-2 A person who engages in any gang-related activity specified in subsection 1 , commits an offence and shall on conviction on information be liable to a fine of one hundred thousand dollars and to imprisonment for twenty-five years.
+*m*
 
-3 If as a result of any gang-related activity against any person, that person dies, any gang leader, gang member and any other person responsible for the act which causes death, commits an offence and on conviction on information shall be liable to imprisonment for life.
+*n*
 
-*.*
+*o*
 
-Retaliator action.
+nowingly enters into an arrangement with another person to facilitate the retention or control of gang funds intentionally and unlawfully wounds or causes grievous harm to a law enforcement officer during the investigation of a gang leader or gang member endangers the life of any person or causes serious damage to the property of any person on behalf of a gang or organi es, attends or addresses a meeting for the purpose of encouraging support of a gang or furthering the activities of a gang.
 
-1 A person shall not ta e any retaliatory action against another person or any of that other person s relatives, friends, associates or property on account of that other person
+*A person 1 ,*
+
+2 who engages in any gang-related activity specified in subsection commits an offence and shall on conviction on information be liable to a fine of one hundred thousand dollars and to imprisonment for twenty-
+
+*five years. If as a dies, any the act*
+
+3 result of any gang-related activity against any person, that person gang leader, gang member and any other person responsible for which causes death, commits an offence and on conviction on information shall be liable to imprisonment for life.
+
+*. Retaliator A person*
+
+action.
+
+*account of*
+
+1 shall not ta e any retaliatory action against another person or any of that other person s relatives, friends, associates or property on that other person
 
 refusing to become a gang leader or gang member ceasing to be a gang leader or gang member
 
-giving information to a law enforcement officer in relation to a gang, or gang related activity d assisting in an investigation of a gang, or gang related activity
+*d*
 
-e giving evidence in the prosecution of a gang leader or gang member
+giving information to a law enforcement officer in relation to a gang, or gang related activity assisting in an investigation of a gang, or gang related activity
 
-f refusing to comply with an order of a gang leader or gang member
+*e*
 
-g refusing to participate in retaliatory action ordered by the gang against another person or any of that other person s relatives, friends, associates or property or h refusing to provide funding or resources to a gang. 2 A person who contravenes subsection 1 , commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty years.
+giving evidence in the prosecution of a gang leader or gang member
 
-3 For the purposes of this section, re ati es means, in relation to a person
+*f*
 
-a his parent, step-parent or guardian b his spouse, fianc e or any person having an intimate relationship with that person
+refusing to comply with an order of a gang leader or gang member
 
-c his child, step-child, or other dependant d his brother, sister, sister, step-brother or step-sister e any of his grandparents
+*g*
 
-f uncle, aunt, or cousin
+*h A person liable on*
 
-g his father-in-law, mother-in-law, brother-in-law or sister-in-law or h any person responsible for that person s care and support.
+refusing to participate in retaliatory action ordered by the gang against another person or any of that other person s relatives, friends, associates or property or refusing to provide funding or resources to a gang. 2 who contravenes subsection 1 , commits an offence and is conviction on information to imprisonment for a term not e ceeding twenty years.
 
-*.*
+*For the*
 
-o n ellin etcetera a an .
+3 purposes of this section, re ati es means, in relation to a person
 
-1 A person who nowingly
+*a his b his*
 
-a counsels
+parent, step-parent or guardian spouse, fianc e or any person having an intimate relationship with that person
 
-b gives instructions to
+*c his d his e f g his h*
 
-c finances or
+child, step-child, or other dependant brother, sister, sister, step-brother or step-sister any of his grandparents
 
-d provides support to,
+uncle, aunt, or cousin
 
-a gang leader, gang member or gang in furtherance of the gang s participation or involvement in gang-related activity, or in the commission of a serious offence, commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
+father-in-law, mother-in-law, brother-in-law or sister-in-law or any person responsible for that person s care and support.
+
+*. o n ellin A person a b c d a gang*
+
+etcetera a an .
+
+1 who nowingly
+
+counsels
+
+gives instructions to
+
+finances or
+
+provides support to,
+
+leader, gang member or gang in furtherance of the gang s participation or involvement in gang-related activity, or in the commission of a serious offence, commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
 Subsection 1 shall not apply to a person who counsels or gives instructions with the sole objective of encouraging participants in a gang to desist from so participating.
 
-*.*
+*. Pre A*
 
-Pre entin an leader or an mem er rom lea in an . A person who prevents, hinders or impedes a gang leader or gang member from leaving a gang commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
+entin an leader or an mem er rom lea in an . person who prevents, hinders or impedes a gang leader or gang member from leaving a gang commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
-*1 .*
+*1 . ar*
 
-ar o rin a an leader or an mem er.
+o rin a an leader or an mem er.
 
 1 A person who nowingly shelters, or otherwise harbours a gang leader or a gang member commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty years. 2 For the purposes of subsection 1 , where a the gang leader or gang member is a child and b the person convicted is the parent or is acting a e t to the child,
 
-the Court in sentencing the person convicted, shall ta e into consideration mitigating factors such as efforts made by the person convicted to reform or rehabilitate the child.
+*the*
 
-**11.** oncealin a an leader an mem er or an -related acti it . A person who nowingly conceals
+Court in sentencing the person convicted, shall ta e into consideration mitigating factors such as efforts made by the person convicted to reform or rehabilitate the child.
+
+*A*
+
+**11.** oncealin a an leader an mem er or an -related acti it . person who nowingly conceals
 
 a the identity of a gang leader or gang member or b the occurrence of a gang related activity, commits an offence and liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
-**12.** i po in o or harin in proceed o an -related acti it . A person who nowingly disposes of, or shares in, the proceeds of any gang-related activity, commits an offence and liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
+*i*
+
+**12.** po in o or harin in proceed o an -related acti it . A person who nowingly disposes of, or shares in, the proceeds of any gang-related activity, commits an offence and liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
 *1 .*
 
@@ -285,9 +363,9 @@ Subject to subsection 3 , a person who recruits a child to join a gang commits a
 
 A person who recruits a child to join a gang on the premises of a school or a place of worship or within five hundred yards of a school or a place of worship, commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
-*1 .*
+*1 . Pro*
 
-Pro idin a ene it to a an or o tainin a ene it rom a an .
+idin a ene it to a an or o tainin a ene it rom a an .
 
 1 A person shall not nowingly provide a benefit or support to a gang or any gang-related activity.
 
@@ -319,25 +397,27 @@ a commit a serious offence or b engage in an act of violence or any act intended
 
 3 A person who contravenes subsection 1 or 2 commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty years.
 
-*1 .*
+*1 . an*
 
-inderin or pre entin in e ti ation or pro ec tion o a an or an related acti it .
+inderin or pre entin in e ti ation or pro ec tion o a an or related acti it .
 
 1 A person shall not hinder or prevent an investigation or prosecution of a gang, or gang-related activity, incite or induce another person to engage in an act of violence against any person involved in the investigation or prosecution, or to engage in any other act intended to intimidate any person involved in the investigation or prosecution.
 
 2 A person who contravenes subsection 1 , commits an offence and is liable on conviction on information to imprisonment for a term not e ceeding twenty years.
 
-*1 .*
+*1 . Po an A*
 
-Po e ion o llet proo e t irearm or prohi ited eapon or an -related acti it .
+e ion o llet proo e t irearm or prohi ited eapon or -related acti it .
 
-A person who
+person who
 
-a has in his possession a bullet-proof vest, firearm or prohibited weapon which he nows or ought reasonably to now may be used in the commission of a gang-related activity or b uses a bullet-proof vest, firearm or prohibited weapon in the commission of a gang-related activity, commits an offence and is liable on conviction on information to a fine of one hundred thousand dollars and to imprisonment for a term not e ceeding twenty-five years.
+*five*
 
-*1 .*
+a has in his possession a bullet-proof vest, firearm or prohibited weapon which he nows or ought reasonably to now may be used in the commission of a gang-related activity or b uses a bullet-proof vest, firearm or prohibited weapon in the commission of a gang-related activity, commits an offence and is liable on conviction on information to a fine of one hundred thousand dollars and to imprisonment for a term not e ceeding twenty-years.
 
-i clo re o in ormation-tippin o .
+*1 . i*
+
+clo re o in ormation-tippin o .
 
 1 Any person who, nowing or having reasonable grounds to believe that an investigation is being conducted or about to be conducted in respect of an offence under this Act
 
@@ -355,9 +435,9 @@ i in connection with potential or ongoing legal proceedings and ii for the purpo
 
 4 It is a defence for a person charged with an offence under subsection 1 if he proves that he did not now that the disclosure was li ely to be prejudicial to, or to interfere with, the investigation, or that he had a lawful e cuse for the disclosure or interference.
 
-*2 .*
+*2 . al i doc*
 
-al i in concealin de tro in or other i e di po in o doc ment rele ant to an in e ti ation.
+in concealin de tro in or other i e di po in o ment rele ant to an in e ti ation.
 
 1 A person who falsifies, conceals, destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of documents or items relevant to an investigation or prosecution of a gang or gang-related activity, commits an offence.
 
@@ -367,37 +447,53 @@ al i in concealin de tro in or other i e di po in o doc ment rele ant to an in e
 
 A person who wilfully obstructs, perverts, or defeats the course of justice, or wilfully attempts to obstruct, pervert or defeat the course of justice under this Act, commits an offence.
 
-A person commits an offence under subsection 1 who, in any proceedings to which this Act applies intimidates, interferes with, threatens or uses physical force, against a judge, magistrate, counsel and attorney, witness or juror
+*A person*
 
-b offers a bribe to any judge or magistrate c dissuades or attempts to dissuade a person from giving evidence
+commits an offence under subsection 1 who, in any proceedings to which this Act applies intimidates, interferes with, threatens or uses physical force, against a judge, magistrate, counsel and attorney, witness or juror
 
-d induces a witness to give false evidence or to refrain from giving evidence by promising or offering a benefit to the witness
+*b c*
 
-e fabricates or disposes of relevant evidence f conspires with another to obstruct, pervert or defeat the course of justice
+offers a bribe to any judge or magistrate dissuades or attempts to dissuade a person from giving evidence
 
-g interferes with the production of evidence for the purpose of interfering with the judicial process.
+*d*
 
-3 A person who commits an offence under this section is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
+induces a witness to give false evidence or to refrain from giving evidence by promising or offering a benefit to the witness
 
-**22.** tr ctin a p lic o icer.
+*e f*
 
-A person who resists or wilfully obstructs a public officer in the e ecution of his duties under this Act, or a person lawfully acting in aid of the public officer, commits an offence.
+fabricates or disposes of relevant evidence conspires with another to obstruct, pervert or defeat the course of justice
 
-*2 .*
+*g*
 
-al e Statement.
+interferes with the production of evidence for the purpose of interfering with the judicial process.
 
-A person who, with intent to mislead, ma es a false statement under this Act nowing that the statement is false, commits an offence.
+*A person*
 
-*2 .*
+3 who commits an offence under this section is liable on conviction on information to imprisonment for a term not e ceeding twenty-five years.
 
-Intimidation.
+*tr ctin a A person who*
 
-A person who, intimidates and causes another person to reasonably fear for his safety for the purposes of compelling that other person a to abstain from doing anything that the person has a lawful right to do under this Act or
+**22.** p lic o icer.
 
-b to do anything that the person has a lawful right to abstain from doing under this Act,
+*commits an*
 
-commits an offence.
+resists or wilfully obstructs a public officer in the e ecution of his duties under this Act, or a person lawfully acting in aid of the public officer, offence.
+
+*2 . al e A person who,*
+
+Statement.
+
+with intent to mislead, ma es a false statement under this Act nowing that the statement is false, commits an offence.
+
+*2 . Intimidation. A person who, safety for the a to do b*
+
+intimidates and causes another person to reasonably fear for his purposes of compelling that other person abstain from doing anything that the person has a lawful right to under this Act or
+
+to do anything that the person has a lawful right to abstain from doing under this Act,
+
+*commits an*
+
+offence.
 
 ### P ERS P LI E I ERS
 
@@ -415,83 +511,113 @@ Police po er o entr earch and arre t.
 
 ### PART - R EIT RE PR PERTY
 
-*2 .*
+*2 . or*
 
-or eit re o propert o an .
+eit re o propert o an .
 
 he court by or before which a person is convicted of an offence under this Act may ma e a forfeiture order in accordance with the provisions of this section.
 
-here a person is convicted of an offence under this Act the court may order the forfeiture of any property in his possession or under his control at the time of the offence, and which
+*here a order the*
+
+person is convicted of an offence under this Act the court may forfeiture of any property in his possession or under his control at the time of the offence, and which
 
 he intended should be used for the purposes of gang-related activity
 
-b he new would or might be used for the purposes of gang-related activity or
+*b*
 
-c he new was the property of a gang or would be used for the purposes of gang-related activity.
+he new would or might be used for the purposes of gang-related activity or
 
-3 here a person is convicted of an offence under this Act, the court may order the forfeiture of any property which is wholly or partly and whether directly or indirectly received by any person as a payment or other reward from the person convicted, in connection with the commission of the offence.
+*c*
+
+he new was the property of a gang or would be used for the purposes of gang-related activity.
+
+*here a order the*
+
+*from the offence.*
+
+3 person is convicted of an offence under this Act, the court may forfeiture of any property which is wholly or partly and whether directly or indirectly received by any person as a payment or other reward person convicted, in connection with the commission of the
 
 4 efore ma ing an order under this section, a court shall afford any person
 
-a who is not a party to the proceedings and b who claims to be the owner of, or otherwise interested in, any property which may be forfeited under this section,
+*a b*
 
-an opportunity to be heard.
+who is not a party to the proceedings and who claims to be the owner of, or otherwise interested in, any property which may be forfeited under this section,
 
-5 For the purposes of this section ro ert means all property wherever situated and includes
+*an For the*
 
-a money
+opportunity to be heard.
 
-b all forms of property, real or personal, heritable or moveable or
+5 purposes of this section ro ert means all property wherever situated and includes
 
-c things in action and other intangible or incorporeal property.
+*a b*
+
+money
+
+all forms of property, real or personal, heritable or moveable or
+
+*c*
+
+things in action and other intangible or incorporeal property.
 
 ## PART I MIS ELLANE S
 
-*2 .*
+*2 . Any person summary*
 
 eneral penalt .
 
-Any person convicted of an offence under sections 21, 22 and 23 is liable on summary conviction to a fine not e ceeding fifteen thousand dollars or to a term of imprisonment not e ceeding seven years.
+convicted of an offence under sections 21, 22 and 23 is liable on conviction to a fine not e ceeding fifteen thousand dollars or to a term of imprisonment not e ceeding seven years.
 
-*2 .*
+*2 . Re lation .*
 
-Re lation .
+he inister may ma e regulations for the better carrying out of the provisions
 
-he inister may ma e regulations for the better carrying out of the provisions of this Act
+*of this Act*
 
 ### SCHED LE
 
 sections 2, and 6
 
-SERIO S OFFENCES REFERRED TO IN SECTION 6 1 , c , , an i
+*SERIO S Offences a b c d e f g h i*
 
-**1.** Offences under the Penal Code Ch.
+OFFENCES REFERRED TO IN SECTION 6 1 , c , , an i
 
-a assault and similar offences b idnapping
+**1.** under the Penal Code Ch.
 
-c homicide and similar offences d arson and mischief to property e robbery, fraud, e tortion and stealing f burglary and house-brea ing g forgery and false coin
+assault and similar offences idnapping
 
-h threats of death
+homicide and similar offences arson and mischief to property robbery, fraud, e tortion and stealing burglary and house-brea ing forgery and false coin
 
-i possession of an article for the purpose of the preparation, instigation or commission of an offence in this Schedule.
+threats of death
 
-**2.** Offences under the Firearms Act Ch. 213 a possession and use of a firearm or prohibited weapon with intent to injure
+possession of an article for the purpose of the preparation, instigation or commission of an offence in this Schedule.
 
-b possession of a firearm or prohibited weapon c possession of a firearm without a licence, certificate or permit
+*Offences a*
 
-d use or possession of, an imitation firearm in certain cases.
+**2.** under the Firearms Act Ch. 213 possession and use of a firearm or prohibited weapon with intent to injure
 
-**3.** Offences under the Dangerous Drugs Act Ch. 22 a possession of dangerous drugs with intent to supply b possession of dangerous drugs c importation of dangerous drugs without an import authori ation or the e port of dangerous drugs without an e port authori ation
+*b c*
 
-d smuggling of dangerous drugs.
+possession of a firearm or prohibited weapon possession of a firearm without a licence, certificate or permit
 
-**4.** Offences of money laundering and other offences under the Proceeds of Crime Act 2018 . 2 1 .
+*d Offences a b c*
 
-**5.** Offences under the raffic ing in Persons Prevention and Suppression Act Ch. 1 .
+use or possession of, an imitation firearm in certain cases.
 
-**6.** Offences under the Prevention of ribery Act Ch. .
+**3.** under the Dangerous Drugs Act Ch. 22 possession of dangerous drugs with intent to supply possession of dangerous drugs importation of dangerous drugs without an import authori ation or the e port of dangerous drugs without an e port authori ation
 
-Offences under the Anti- errorism Act, 2018 . 2 2 1 . Offences under the Gaming Act Ch. 3
+*d*
+
+smuggling of dangerous drugs.
+
+*Crime Act Offences Act Ch. 1 Offences Offences Offences*
+
+**4.** Offences of money laundering and other offences under the Proceeds of 2018 . 2 1 .
+
+**5.** under the raffic ing in Persons Prevention and Suppression .
+
+**6.** under the Prevention of ribery Act Ch. .
+
+under the Anti- errorism Act, 2018 . 2 2 1 . under the Gaming Act Ch. 3
 
 Rape, indecent assault and procuration for the purposes of prostitution under the Se ual Offences Act Ch.
 

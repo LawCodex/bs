@@ -58,9 +58,11 @@ This Act may be cited as the Appropriation (Revenue Account Expenses) (20 14/20 
 
 **2.** Authority for payment.
 
-There may be paid out of the Treasury upon the authority of a warrant under the hand of the Minister of Finance dur-ing the financial year beginning on the I 51 . day of July, 2014 and ending on the 30 1 h day of June, 2015 the several sums of money for defraying the recurrent expenses on revenue account for the public services of The Bahamas set forth in the Schedule.
+There may be paid out of the Treasury upon the authority of a warrant under the hand of the Minister of Finance dur-ing the financial year beginning on the I 51 .
 
-Page· 2
+day of July, 2014 and ending on the 30 1 h day of June, 2015 the several sums of money for defraying the recurrent expenses on revenue account for the public services of The Bahamas set forth in the Schedule.
+
+Page·
 
 ## SCHEDULE (Section 2)
 

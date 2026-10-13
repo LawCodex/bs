@@ -25,7 +25,9 @@ retrieved: 2026-10-13
 
 ### LIST OF AUTHORISED PAGES
 
-1 - 25
+*1 -*
+
+25
 
 ## ARRANGEMENT OF SECTIONS
 
@@ -111,7 +113,9 @@ An Act to establish The Bahamas National Geographic Information Systems Centre a
 
 *Interpretation.*
 
-**2.** In this Act, unless the context otherwise requires —
+**2.** In this Act, unless the context otherwise requires
+
+—
 
 “Bahamas Spatial Data Infrastructure” means the collection of assets and components, described in section 6(3), necessary to create and maintain the Bahamas Spatial Data Infrastructure System;
 
@@ -119,11 +123,9 @@ An Act to establish The Bahamas National Geographic Information Systems Centre a
 
 “BSDI Library” means a centralized database containing all non-confidential location based or spatial information for The Bahamas including GIS vector data and associated tabular data, databases, serial aerial photographs, topographic maps, plans and imagery;
 
-“BSDI Geo Portal” means the Centre’s internet site, or equivalent, providing access to services and
-
 *Second Schedule.*
 
-geospatial data referred to section 4 and the Second Schedule;
+“BSDI Geo Portal” means the Centre’s internet site, or equivalent, providing access to services and geospatial data referred to section 4 and the Second Schedule;
 
 “BSDI Program” means the Bahamas Spatial Data Infrastructure Program established under Part III;
 
@@ -163,21 +165,25 @@ geospatial data referred to section 4 and the Second Schedule;
 
 “spatial data set” means an identifiable collection of spatial data;
 
-“spatial data themes” means spatial data themes that form the foundation of authoritative geographic layers of The Bahamas spatial data framework
-
 *First Schedule.*
 
-as listed in the First Schedule.
+“spatial data themes” means spatial data themes that form the foundation of authoritative geographic layers of The Bahamas spatial data framework as listed in the First Schedule.
 
 *Application.*
 
-**3.** This Act applies to all data held by the Centre as a repository and clearing house.
+*a*
+
+**3.** This Act applies to all data held by the Centre as repository and clearing house.
 
 ## PART II - ESTABLISHMENT OF BAHAMAS NATIONAL GEOGRAPHIC INFORMATION SYSTEMS CENTRE
 
-*Establishment of the Centre as a department for special purposes.*
+*Establishment of the Centre as a department for*
 
-**4.** (1) The Bahamas National Geographic Information Systems Centre is established in accordance with Article 127(c) of the Constitution as a department of Government for special purposes.
+*with*
+
+*special purposes.*
+
+**4.** (1) The Bahamas National Geographic Information Systems Centre is established in accordance Article 127(c) of the Constitution as a department of Government for special purposes.
 
 (2) The special purposes for which the Centre is established are to —
 
@@ -189,9 +195,7 @@ as listed in the First Schedule.
 
 (d) provide GIS training and technical support and to promote GIS awareness;
 
-(e) provide GIS services to Government agencies that either do not have sufficient in-house GIS expertise or have one time GIS projects that are beyond their current capacity to perform;
-
-(f) coordinate cross agency projects and data collection activities that benefit multiple Government agencies;
+(e) provide GIS services to Government agencies that either do not have sufficient in-house GIS expertise or have one time GIS projects that are beyond their current capacity to perform; (f) coordinate cross agency projects and data collection activities that benefit multiple Government agencies;
 
 (g) act as a cataloguing centre, clearing house and non-exclusive distribution channel for nonsensitive geographic data;
 
@@ -203,9 +207,7 @@ as listed in the First Schedule.
 
 (k) to ensure access, use, exchange, sharing and dissemination of interoperable non-confidential spatial information for The Bahamas and spatial data services across different sectors;
 
-(l) ensure that the BSDI assist policy making in relation to policies and activities that may have a direct or indirect impact on the environment;
-
-(m) coordinate and provide advisory and technical assistance on initiatives or projects that utilize spatial technologies so that information and knowledge from different sectors can be combined or integrated in accordance with the standards, procedures and protocols provided for in this Act;
+(l) ensure that the BSDI assist policy making in relation to policies and activities that may have a direct or indirect impact on the environment; (m) coordinate and provide advisory and technical assistance on initiatives or projects that utilize spatial technologies so that information and knowledge from different sectors can be combined or integrated in accordance with the standards, procedures and protocols provided for in this Act;
 
 (n) ensure that the BSDI is based on created spatial information made compatible in accordance
 
@@ -223,25 +225,31 @@ with common implementing rules, procedures, protocols and standards;
 
 (t) in collaboration with the Council, identify data with associated security or privacy issues such as data which is legally restricted or has been officially declared to be sensitive data.
 
-(3) The offices in the Centre shall be public offices for the purposes of the Constitution.
+*for the*
 
-(4) The Centre shall be subject to the general direction and control of the Minister.
+(3) The offices in the Centre shall be public offices purposes of the Constitution.
 
-(5) The Minister may enter into agreements with any person or body within or outside The Bahamas in respect of any matter relating to the management and utilization of spatial information.
+*direction*
+
+(4) The Centre shall be subject to the general and control of the Minister.
+
+*any respect*
+
+(5) The Minister may enter into agreements with person or body within or outside The Bahamas in of any matter relating to the management and utilization of spatial information.
 
 *Functions of the Centre.*
 
-**5.** The functions of the Centre are to —
+The functions of the Centre are to —
+
+5.
 
 (a) liaise with and consider policy proposals of the Council;
 
 (b) execute and administer policy developed by the Council and adopted by the Minister for the effective implementation and operation of the BSDI Program and the BSDI System;
 
-(c) acquire, develop, maintain and coordinate the Government assets and components comprising the BSDI;
+acquire, develop, maintain and coordinate the Government assets and components comprising the BSDI;
 
-(d) facilitate and assist general users who are participants in the BSDI Program in the acquisition, development and maintenance of GIS infrastructure compatible with the BSDI;
-
-(e) ensure the efficient and effective operation of the BSDI System, the BSDI Library, and the BSDI Program;
+facilitate and assist general users who are participants in the BSDI Program in the acquisition, development and maintenance of GIS infrastructure compatible with the BSDI; (e) ensure the efficient and effective operation of the BSDI System, the BSDI Library, and the BSDI Program;
 
 (f) improve and extend information technology and GIS literacy throughout The Bahamas;
 
@@ -265,35 +273,35 @@ with common implementing rules, procedures, protocols and standards;
 
 (p) update and maintain current all GIS and other software required for the efficient effective performance of the BSDI;
 
-(q) provide descriptions of available spatial datasets and services in the form of metadata and ensure that metadata are created and searchable for
-
 *First Schedule.*
 
-spatial data sets corresponding to the spatial data themes listed in the First Schedule;
+(q) provide descriptions of available spatial datasets and services in the form of metadata and ensure that metadata are created and searchable for spatial data sets corresponding to the spatial data themes listed in the First Schedule;
 
 (r) implement and administer all policies, rules and standards recommended by the Council and adopted by the Minister and provide all training necessary for the efficient and effective operation, usage, and maintenance of the BSDI System;
 
 (s) implement rules and relevant standards to ensure interoperability or harmonization of spatial data sets and services;
 
-(t) deposit in the public archives a copy of the historic record or metadata of the BSDI Library;
-
-(u) act as the Government’s representative or interface with regional, international and global organisations and entities concerned with spatial data infrastructure development and GIS; and
-
-(v) be current with spatial innovations and trends through participation in regional and international forums, workshops, seminars and conferences.
+(t) deposit in the public archives a copy of the historic record or metadata of the BSDI Library; (u) act as the Government’s representative or interface with regional, international and global organisations and entities concerned with spatial data infrastructure development and GIS; and (v) be current with spatial innovations and trends through participation in regional and international forums, workshops, seminars and conferences.
 
 *Scope and operation of the BSDI System.*
 
-**6.** (1) The BSDI System comprises the assets and components of the BSDI and their utilization in order to carry out the special purposes referred to in subsection (2) of section 4.
+*carry out of section*
 
-(2) The utilization of the BSDI consists of the coordinated and systematic management, monitoring and delivery of operation in respect of non-confidential location based information and associated tabular information for The Bahamas, including but not limited to the following activities relating to such information —
+**6.** (1) The BSDI System comprises the assets and components of the BSDI and their utilization in order to the special purposes referred to in subsection (2)
 
-(a) creation;
+4.
+
+*delivery location*
+
+*the*
+
+(2) The utilization of the BSDI consists of the coordinated and systematic management, monitoring and of operation in respect of non-confidential based information and associated tabular information for The Bahamas, including but not limited to following activities relating to such information — (a) creation;
 
 (b) gathering/capturing;
 
-(c) publication;
+publication;
 
-(d) storage;
+storage;
 
 (e) research;
 
@@ -309,7 +317,9 @@ spatial data sets corresponding to the spatial data themes listed in the First S
 
 (k) distribution.
 
-(3) The assets and components comprising the BSDI consists of, but are not limited to, the resources of the Centre including —
+(3) The assets and components comprising the BSDI consists of, but are not limited to, the resources of Centre including —
+
+the
 
 (a) information technology assets (hardware), including networks, servers and operating systems;
 
@@ -347,15 +357,7 @@ spatial data sets corresponding to the spatial data themes listed in the First S
 
 (3) Subject to this section, the Director has responsibility for the administration and operation of the Centre and to ensure that the Centre fulfils its functions under this Act.
 
-(4) The powers and duties of the Director are to —
-
-(a) ensure the efficient operation of the Centre in accordance with the provisions of this Act;
-
-(b) prepare a national framework for GIS implementation including administrative procedures, GIS standards and protocols;
-
-(c) set fees for the Centre’s provision of value added services, data and maps or map products;
-
-(d) process applications for the use of spatial data housed by the Centre;
+The powers and duties of the Director are to — (a) ensure the efficient operation of the Centre in accordance with the provisions of this Act; (b) prepare a national framework for GIS implementation including administrative procedures, GIS standards and protocols; (c) set fees for the Centre’s provision of value added services, data and maps or map products; (d) process applications for the use of spatial data housed by the Centre;
 
 (e) coordinate, supervise and give advice on matters related to projects that comprise components related to GIS or spatial technologies;
 
@@ -367,11 +369,15 @@ spatial data sets corresponding to the spatial data themes listed in the First S
 
 (i) perform such other functions relating to the BSDI and the Centre as the Minister may request.
 
-(5) There shall be appointed such other public officers as may be required in order to ensure the efficient and effective execution of the functions and duties of the Centre and the Director under this Act.
+*officers and Centre*
+
+(5) There shall be appointed such other public as may be required in order to ensure the efficient effective execution of the functions and duties of the and the Director under this Act.
 
 *Ministerial powers.*
 
-**8.** (1) The Minister may —
+(1) The Minister may —
+
+8.
 
 (a) give the Director general or specific directions as to the policy to be followed by the Centre in the performance of any of the Centre’s functions under this Act; and
 
@@ -383,7 +389,9 @@ spatial data sets corresponding to the spatial data themes listed in the First S
 
 *Establishment of the BSDI Program.*
 
-**9.** (1) There is established for the purpose of this Act a program called the “Bahamas Spatial Data Infrastructure Program” (“BSDI Program”) which shall comprise the national technical, institutional and policy framework for access, exchange and use of spatial information for the purposes of —
+**9.** (1) There is established for the purpose of this a program called the “Bahamas Spatial Data Act
+
+Infrastructure Program” (“BSDI Program”) which shall comprise the national technical, institutional and policy framework for access, exchange and use of spatial information for the purposes of —
 
 (a) community environmental policies; and
 
@@ -413,31 +421,51 @@ spatial data sets corresponding to the spatial data themes listed in the First S
 
 (h) promote universal access to non-confidential spatial information; and
 
-(i) facilitate and promote the protection by participants in the BSDI Program of owners of copyright in works relating to shared spatial information.
+facilitate and promote the protection by participants in the BSDI Program of owners of copyright in works relating to shared spatial information.
 
-*Government entities must participate in the BSDI Program.*
+*Government entities must participate in the*
 
-**11.** All ministries, agencies and departments of Government, including local government, shall upon the coming into force of this Act become members of and participants in the BSDI Program.
+*coming*
 
-*General users may apply to participate in the BSDI Program.*
+*BSDI Program.*
 
-**12.** (1) A general user may apply to the Council as prescribed by the regulations for participation in the BSDI Program and the Council may approve or refuse an application.
+**11.** All ministries, agencies and departments of Government, including local government, shall upon the into force of this Act become members of and participants in the BSDI Program.
 
-(2) An applicant whose application has been approved by the Council shall enter into a binding “BSDI Memorandum of Agreement” with the Centre in the form and subject to the terms and conditions prescribed by the regulations.
+*General users may apply to participate in the*
 
-(3) An applicant shall, upon execution of the “BSDI Memorandum of Agreement”, become a participant in the BSDI Program.
+*Program*
 
-*Duties of Government participants.*
+*BSDI Program.*
 
-**13.** (1) Each Government entity shall provide the Director with —
+**12.** (1) A general user may apply to the Council as prescribed by the regulations for participation in the BSDI and the Council may approve or refuse an application.
 
-(a) at agreed intervals, a document entitled “Spatial Information used by (insert name of ministry, agency or department)” which lists by the prescribed spatial data themes, and categorizes as either confidential or non-confidential, all current location based information and associated tabular information created, collected, obtained or used by the entity;
+*approved*
+
+*and*
+
+(2) An applicant whose application has been by the Council shall enter into a binding “BSDI Memorandum of Agreement” with the Centre in the form subject to the terms and conditions prescribed by the regulations.
+
+An applicant shall, upon execution of the “BSDI (3)
+
+*BSDI*
+
+Memorandum of Agreement”, become a participant in the Program.
+
+*Duties of Government*
+
+*Director*
+
+*participants.*
+
+**13.** (1) Each Government entity shall provide the with —
+
+at agreed intervals, a document entitled “Spatial (a)
+
+Information used by (insert name of ministry, agency or department)” which lists by the prescribed spatial data themes, and categorizes as either confidential or non-confidential, all current location based information and associated tabular information created, collected, obtained or used by the entity;
 
 (b) a project plan describing the methods and time-line for the inclusion of the entity’s nonconfidential location based information and associated tabular information into the BSDI Library;
 
-(c) a document in the prescribed form describing the entity’s methods for ensuring its nonconfidential location based information will be maintained current and will be the best available, accurate and reliable information;
-
-(d) a document in the prescribed form describing the entity’s mandated services and location based applications that will, when implemented,
+(c) a document in the prescribed form describing the entity’s methods for ensuring its nonconfidential location based information will be maintained current and will be the best available, accurate and reliable information; a document in the prescribed form describing the entity’s mandated services and location based applications that will, when implemented,
 
 result in a costs saving or enhancement to the provision of mandated services or both;
 
@@ -469,21 +497,27 @@ result in a costs saving or enhancement to the provision of mandated services or
 
 *Establishment of the Council.*
 
-**14.** (1) There is established for the purpose of this Act a committee called the Geospatial Advisory Council whose members shall be appointed by the Minister in
+*Act*
 
 *Second Schedule.*
 
-accordance with the provisions of the Second Schedule.
+**14.** (1) There is established for the purpose of this a committee called the Geospatial Advisory Council whose members shall be appointed by the Minister in accordance with the provisions of the Second Schedule.
 
 *Second Schedule.*
 
-(2) The provisions of the Second Schedule shall have effect with respect to the constitution and proceedings of the Council.
+*of*
+
+(2) The provisions of the Second Schedule shall have effect with respect to the constitution and proceedings the Council.
 
 *Council subject to the directions of the Minister.*
 
-**15.** (1) The Minister may give to the Council such general directions as the Minister thinks fit with respect to the exercise of its functions under this Act.
+*the*
 
-(2) In the exercise of its functions under this Act, the Council shall comply with any directions given by the Minister pursuant to subsection (1).
+**15.** (1) The Minister may give to the Council such general directions as the Minister thinks fit with respect to exercise of its functions under this Act.
+
+*the*
+
+(2) In the exercise of its functions under this Act, Council shall comply with any directions given by the Minister pursuant to subsection (1).
 
 *Functions and powers of the Council.*
 
@@ -543,33 +577,43 @@ accordance with the provisions of the Second Schedule.
 
 subcommittee on such terms as the Council considers appropriate;
 
-(l) consult as necessary with persons who have specialized knowledge of one or more aspects of BSDI Systems, their creation, development, maintenance, operation and functioning; and
-
-(m) issue through the Director, as the Council considers appropriate, a warning letter, stating the reason for the warning and actions to be taken, to any Government entity or general user who fails to comply with the procedures and policies prescribed by this Act and the regulations.
+consult as necessary with persons who have specialized knowledge of one or more aspects of BSDI Systems, their creation, development, maintenance, operation and functioning; and (m) issue through the Director, as the Council considers appropriate, a warning letter, stating the reason for the warning and actions to be taken, to any Government entity or general user who fails to comply with the procedures and policies prescribed by this Act and the regulations.
 
 ## PART V - FINANCIAL PROVISIONS
 
-*Funds and resources of the Centre.*
+*Funds and resources of the*
 
-**17.** The funds, revenues and resources of the Centre shall consist of—
+*shall*
 
-(a) such sums as may be provided from time to time by Parliament for the purposes of the Centre;
+*Centre.*
 
-(b) all monies collected from fees charged for products and services provided by the Centre;
+**17.** The funds, revenues and resources of the Centre consist of—
 
-(c) such gifts, donations, grants and other receipts given for use in the performance of the functions of the Centre by foreign states, international organisations, corporations, foundations, or private individuals —
+(a) such sums as may be provided from time to time by Parliament for the purposes of the Centre; (b) all monies collected from fees charged for products and services provided by the Centre; (c) such gifts, donations, grants and other receipts given for use in the performance of the functions of the Centre by foreign states, international organisations, corporations, foundations, or private individuals —
 
 (i) directly to the Centre; or
 
 (ii) to the Government of The Bahamas for allocation to the Centre.
 
-*Establishment of GIS Spatial Data Acquisition Account.*
+*Establishment of*
 
-**18.** (1) There shall be established for the purposes of this Act an account to be called the “GIS Spatial Data Acquisition Account” which shall be maintained by the Centre as a Treasury deposit.
+*this Act*
 
-(2) All monies received from fees charged for products and services provided by the Centre shall be deposited into the GIS Spatial Data Acquisition Account.
+*GIS Spatial Data Acquisition Account.*
 
-(3) The GIS Spatial Data Acquisition Account shall be used solely to fund the maintenance of the BSDI System and its associated components including training, data acquisition, data collection, public awareness, workshops, seminars and conferences, consultancy services, and any related activities approved by the Minister.
+*Centre as*
+
+**18.** (1) There shall be established for the purposes of an account to be called the “GIS Spatial Data Acquisition Account” which shall be maintained by the a Treasury deposit.
+
+*products deposited*
+
+(2) All monies received from fees charged for and services provided by the Centre shall be into the GIS Spatial Data Acquisition Account.
+
+*be used and its*
+
+*seminars related*
+
+(3) The GIS Spatial Data Acquisition Account shall solely to fund the maintenance of the BSDI System associated components including training, data acquisition, data collection, public awareness, workshops, and conferences, consultancy services, and any activities approved by the Minister.
 
 *Control of gifts and grants.*
 
@@ -603,11 +647,19 @@ subcommittee on such terms as the Council considers appropriate;
 
 (b) exempt a government entity, or a general user, that is a data custodian from any provision in this Act or the regulations relating to the capture or maintenance of spatial information.
 
-(2) An exemption granted pursuant to subsection (1) may be made in respect of a specific data custodian and may be a temporary or a permanent exemption.
+*STATUTE LAW*
+
+### OF THE BAHAMAS
+
+*may may*
+
+(2) An exemption granted pursuant to subsection (1) be made in respect of a specific data custodian and be a temporary or a permanent exemption.
 
 *Regulations.*
 
-**23.** The Minister may make regulations for all or any of the following purposes —
+*any*
+
+**23.** The Minister may make regulations for all or of the following purposes —
 
 (a) prescribing fees or charges in respect of services and products provided by the Centre under this Act;
 
@@ -625,11 +677,9 @@ subcommittee on such terms as the Council considers appropriate;
 
 ## FIRST SCHEDULE (Section 5(q))
 
-### SPATIAL DATA THEMES
-
 *Ref #*
 
-Spatial Data Theme 1 Utility Infrastructure & Government services 2 Buildings and Facilities
+SPATIAL DATA THEMES Spatial Data Theme 1 Utility Infrastructure & Government services 2 Buildings and Facilities
 
 3
 
@@ -791,7 +841,7 @@ Any other themes as may be required 45
 
 (t) a Director of the Water & Sewerage Corporation, ex officio;
 
-(u) a representative of the Bahamas Telecommunications Company;
+(u) a representative of the Telecommunications Company;
 
 (v) a representative of Cable Bahamas Ltd.;
 

@@ -27,11 +27,9 @@ retrieved: 2026-10-13
 
 **3.** Pension benefits of persons transferred from one authority to another.
 
-### APPROVED AUTHORITIES TRANSFER
-
 *29 of 1996*
 
-An Act to facilitate the transfer of persons from one approved authority to another and to preserve the pension benefits of those persons transferred.
+APPROVED AUTHORITIES TRANSFER An Act to facilitate the transfer of persons from one approved authority to another and to preserve the pension benefits of those persons transferred.
 
 [Assent 24th December, 1996]
 
@@ -57,6 +55,14 @@ An Act to facilitate the transfer of persons from one approved authority to anot
 
 (2) The receiving authority shall not consent to the transfer of that person to pensionable service under that approved authority unless and until the transferring authority has made satisfactory arrangements for the payment to the pension fund of the receiving authority of such proportion of the cost of any pension or other benefit to be granted to that person as the length of his service with the transferring authority shall bear to the total length of his continuous service with both the receiving authority and the transferring authority taken together.
 
+*THE BAHAMAS*
+
+### STATUTE LAW OF
+
 *CH.38 – 4]*
 
 (3) Any pension payable to any such person as is mentioned in subsection (1) by the receiving authority shall be calculated and granted to him in respect of his total service under the transferring authority and under the receiving authority taken together and such total service shall be reckoned as continuous service for pension purposes.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

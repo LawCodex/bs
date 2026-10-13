@@ -15,11 +15,9 @@ retrieved: 2026-10-13
 
 # Airport Authority Act
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-13 th March, 2026
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 13 th March, 2026
 
 ### AIRPORT AUTHORITY ACT
 
@@ -139,11 +137,15 @@ Dated this 13 th day of March, 2026 Dated this day of , 2026 Signed RYAN PINDER 
 
 **1.** Short title.
 
-This Act may be cited as the Airport Authority Act.
+*This*
+
+Act may be cited as the Airport Authority Act.
 
 **2.** Interpretation.
 
-In this Act —
+*In*
+
+this Act —
 
 “airport” means a defined area of land or water intended or designated to be used wholly or partly for landing, departure, movement and servicing of aircrafts and any buildings, installations and equipment (excluding air traffic control installations and equipment) on or adjacent to the area of land or water and used for such or related purposes and specified in the First Schedule or Third Schedule 1 ;
 
@@ -235,11 +237,15 @@ collection of aeronautical and non-aeronautical fees and charges;
 
 **9.** Directions.
 
-Except in connection with the imposition by the Authority of charges and fees pursuant to paragraph (d) of subsection (2) of section 7, the Minister may give to the Authority directions of a general or of a specific nature as to the policy to be followed by the Authority in the performance of its functions as appear to the Minister to be requisite in the public interest and the Authority shall give effect to these directions.
+*to*
+
+Except in connection with the imposition by the Authority of charges and fees pursuant to paragraph (d) of subsection (2) of section 7, the Minister may give to the Authority directions of a general or of a specific nature as to the policy to be followed by the Authority in the performance of its functions as appear to the Minister to be requisite in the public interest and the Authority shall give effect these directions.
 
 Funds and resources of the Authority.
 
-The funds and resources of the Authority shall consist of —
+*The*
+
+funds and resources of the Authority shall consist of —
 
 (a) any moneys as from time to time accrue to the Authority from its operations, including advertising fees, airbridge fees, aircraft ground handling service fees, aircraft parking fees, car-park fees, catering fees, concessions fees, landing fees, refuelling royalty fees, rent, or other prescribed payments;
 
@@ -341,7 +347,9 @@ The Authority shall, as soon as possible after the expiration of each financial 
 
 **22.** Power of Arrest.
 
-A security officer appointed under section 21 may, within any area of the airport to which he is assigned, have the same powers of arrest as a peace officer under the Penal Code 7 .
+*A to the*
+
+security officer appointed under section 21 may, within any area of the airport which he is assigned, have the same powers of arrest as a peace officer under Penal Code 7 .
 
 Penalty.
 
@@ -517,7 +525,9 @@ Where immediately before the coming into force of this Act, any legal proceeding
 
 ## FIRST SCHEDULE (Section 3(1))
 
-Lynden Pindling International New Providence Airport
+Lynden Pindling International New Providence
+
+*Airport*
 
 ## SECOND SCHEDULE (Section 3(2))
 
@@ -527,11 +537,11 @@ A Body Corporate
 
 (1) The Authority shall be a body corporate with perpetual succession and a common seal and with power as such to enter into contracts, to sue and be sued by law in its corporate name and may for all purposes be described by such name, to acquire, hold, mortgage, assign, lease and dispose of all movable and immovable property and to do and perform such acts and things as bodies corporate may by law do and perform subject to the provisions of this Act. Service upon The Authority of any document of whatsoever kind must be made by delivering the document to or sending it by prepaid registered post addressed to the Secretary of The Authority at the office of The Authority.
 
-(2) The Authority may not dispose of or acquire any land without the approval of the House of Assembly signified by resolution thereof: Provided that such disposal referred to in subparagraph (1) shall not include the power to lease, sublease or assign such lease for the purpose of the operation and management of any airport or for the use of any land or building within a prescribed airport.
+(2) The Authority may not dispose of or acquire any land without the approval of the House of Assembly signified by resolution thereof: Provided that such disposal referred to in subparagraph (1) shall not include the power to lease, sublease or assign such lease for the purpose of the operation and management of any airport or for the use of any land or building within a prescribed airport. (3) All property which is acquired or which becomes vested in The Authority shall be held by The Authority in trust for Her Majesty in right of Her Government of The Bahamas.
 
-(3) All property which is acquired or which becomes vested in The Authority shall be held by The Authority in trust for Her Majesty in right of Her Government of The Bahamas.
+*Seal*
 
-**2.** Seal of the Authority.
+**2.** of the Authority.
 
 (1) The seal of the Authority must be kept in the custody of an officer of the Authority as the Authority may approve, and may be affixed to instruments pursuant to a resolution of the Authority and in the presence of the chairman or the deputy chairman and one other member of the Authority.
 
@@ -589,9 +599,7 @@ Subject to this Schedule, the Authority has the power to regulate its proceeding
 
 **12.** Pensions and other benefits.
 
-(1) The Authority may, as regards any officers, servants or agents in whose cases it may be determined by the Authority with the approval of the Minister of Finance to make provision for the payment on their death, injury or retirement, pensions, gratuities or other like benefits, pay or provide for the payment of such pensions, gratuities or other like benefits to the officers, servants or agents or to others by reference to their service as may be determined.
-
-(2) Provisions for pensions, gratuities or other like benefits under this Schedule may be either by contributory or non-contributory arrangements or partly by the one or by the other.
+(1) The Authority may, as regards any officers, servants or agents in whose cases it may be determined by the Authority with the approval of the Minister of Finance to make provision for the payment on their death, injury or retirement, pensions, gratuities or other like benefits, pay or provide for the payment of such pensions, gratuities or other like benefits to the officers, servants or agents or to others by reference to their service as may be determined. (2) Provisions for pensions, gratuities or other like benefits under this Schedule may be either by contributory or non-contributory arrangements or partly by the one or by the other.
 
 ## THIRD SCHEDULE (Sections 3 and 29A)
 

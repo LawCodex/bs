@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 Act No. 38 of 1961
 
-### BAHAMAS ELECTRICITY CORPORATION LOAN
-
 *38 of 1961 46 of 1963*
 
-An Act to provide for the raising of a loan by The Bahamas Electricity Corporation by the issue of Debenture Stock, and to provide for payments of interest and principal secured by such stock to be guaranteed by the Government of The Bahama Islands, and to declare certain terms and conditions applicable to the issue of such stock.
+BAHAMAS ELECTRICITY CORPORATION LOAN An Act to provide for the raising of a loan by The Bahamas Electricity Corporation by the issue of Debenture Stock, and to provide for payments of interest and principal secured by such stock to be guaranteed by the Government of The Bahama Islands, and to declare certain terms and conditions applicable to the issue of such stock.
 
 [Commencement 31st July, 1961] WHEREAS by section 14 of the Electricity Act it is provided that the Bahamas Electricity Corporation may, with the consent of the Legislature, borrow money by the issue of debentures or debenture stock for certain purposes; and
 
@@ -33,6 +31,10 @@ WHEREAS by section 17 of the said Act it is provided that the revenue of the Bah
 WHEREAS it is now deemed expedient that the Bahamas Electricity Corporation should raise a loan in accordance with the provisions of the Electricity Act; and WHEREAS Corbin International Trading Company Limited, a company incorporated under the laws of the Bahama Islands, has agreed to purchase debenture stock of the Bahamas Electricity Corporation; and
 
 WHEREAS the agreement of Corbin International Trading Company Limited to purchase the said debenture stock of the Bahamas Electricity Corporation is conditional, inter alia, upon the Government guaranteeing the payment by the Bahamas Electricity Corporation of the interest and aggregate principal sum secured by the said debenture stock:
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 *Short title.*
 
@@ -46,11 +48,9 @@ WHEREAS the agreement of Corbin International Trading Company Limited to purchas
 
 “the Act” means the Electricity Act;
 
-“the Board” means the Public Board of Works for
-
 *15 of 1913.*
 
-New Providence, constituted under the Boards of Works Act;
+“the Board” means the Public Board of Works for New Providence, constituted under the Boards of Works Act;
 
 “the Company” means Corbin International Trading Company Limited;
 
@@ -92,11 +92,17 @@ Provided, however, that the same shall only become payable in the event of defau
 
 (k) The Corporation may make provision for a sinking fund for the retirement of the debenture stock and for optional redemption in accordance with the terms of the said mortgage and trust deed made under the provisions of section 4 of this Act.
 
-*Debenture stock to be secured by a mortgage and trust deed.*
+*Debenture stock thereby to be secured by a mortgage and shall be trust deed.*
 
-**4.** (1) The debenture stock (and the principal moneys thereby represented and the interest to become due thereon) shall be secured by a mortgage and trust deed to be dated the first day of June 1961 and to be made between the Corporation of the first part, one or more corporations or persons who by agreement between the Corporation and the Company shall be appointed trustee or trustees for the holders of the debenture stock of the second part, and the Government acting by the Treasurer of the third part.
+*first day of the*
 
-(2) The deed referred to in the immediately preceding subsection shall contain the terms, provisions and covenants hereinafter in this subsection mentioned, and in addition may contain such other terms, conditions, provisions, agreements and covenants as may be agreed between the Corporation and the Company and as shall not be inconsistent with anything contained in this Act, namely:
+*stock of*
+
+**4.** (1) The debenture stock (and the principal moneys represented and the interest to become due thereon) secured by a mortgage and trust deed to be dated the of June 1961 and to be made between the Corporation first part, one or more corporations or persons who by agreement between the Corporation and the Company shall be appointed trustee or trustees for the holders of the debenture the second part, and the Government acting by the Treasurer of the third part.
+
+*and and in between be namely:*
+
+(2) The deed referred to in the immediately preceding subsection shall contain the terms, provisions covenants hereinafter in this subsection mentioned, addition may contain such other terms, conditions, provisions, agreements and covenants as may be agreed the Corporation and the Company and as shall not inconsistent with anything contained in this Act,
 
 (a) a first legal mortgage upon and over all fixed assets of the Corporation existing at the date of the debenture stock and a floating or other
 
@@ -116,17 +122,31 @@ thereon shall be payable in dollars and shall be freely transmittable to every p
 
 (g) a covenant by the Government that so long as any debenture stock remains unredeemed the provisions of section 19 of the Act shall remain in full force and effect and that all payments made by the Corporation in respect of the principal moneys represented by the debenture stock and in respect of the interest to become due thereon shall be payments of outgoings by the Corporation properly chargeable to income in all respects within the meaning of section 19 of the Act;
 
-(h) a covenant by the Corporation not to create any charge whatsoever on its assets or revenue ranking prior to or pari passu with the charges to be created by the said deed hereinbefore referred to and the debenture stock excepting and reserving to the Corporation the right to create charges ranking prior to or pari passu with the said deed and the debenture stock on any real or personal property acquired by the Corporation after the issue of the debenture stock in favour of the vendor thereof but to the extent of one half of the purchase price thereof only.
+*anywise therein to property.*
 
-(3) Nothing shall be included in the said deed hereinbefore in this section referred to as to prevent or in anywise restrict the statutory right of the trustees named therein to appoint a receiver or receivers of the mortgaged property.
+(h) a covenant by the Corporation not to create any charge whatsoever on its assets or revenue ranking prior to or pari passu with the charges to be created by the said deed hereinbefore referred to and the debenture stock excepting and reserving to the Corporation the right to create charges ranking prior to or pari passu with the said deed and the debenture stock on any real or personal property acquired by the Corporation after the issue of the debenture stock in favour of the vendor thereof but to the extent of one half of the purchase price thereof only. (3) Nothing shall be included in the said deed hereinbefore in this section referred to as to prevent or in restrict the statutory right of the trustees named appoint a receiver or receivers of the mortgaged
 
-(4) The Treasurer on behalf of the Government shall execute and deliver the said deed hereinbefore in this section referred to and affix his seal of office thereto.
+*execute section*
 
-(5) The deed referred to in this section shall when executed and delivered be the validly existing and enforceable obligation of the Corporation.
+The Treasurer on behalf of the Government shall and deliver the said deed hereinbefore in this referred to and affix his seal of office thereto.
 
-*Public Board of Works for New Providence to purchase water.*
+*executed able*
 
-**5.** Upon the coming into operation of this Act the Board shall enter into an Agreement with the Corporation whereby the Board will undertake to purchase all fresh water produced from time to time by the Corporation and available for sale and to pay the Corporation for the same at a rate sufficient to defray all costs, present and future, connected with the distillation and delivery thereof, including capital and interest charges on any plant or equipment used by the Corporation for the production of such water.
+The deed referred to in this section shall when and delivered be the validly existing and enforce-obligation of the Corporation.
+
+*Public Board of*
+
+*Board*
+
+*Works for New Providence to*
+
+*whereby*
+
+*purchase water.*
+
+*water available at a rate including such*
+
+**5.** Upon the coming into operation of this Act the shall enter into an Agreement with the Corporation the Board will undertake to purchase all fresh produced from time to time by the Corporation and for sale and to pay the Corporation for the same sufficient to defray all costs, present and future, connected with the distillation and delivery thereof, capital and interest charges on any plant or equipment used by the Corporation for the production of water.
 
 *Payment of expenses.*
 
@@ -136,6 +156,4 @@ thereon shall be payable in dollars and shall be freely transmittable to every p
 
 (b) all legal fees and costs incurred or to be incurred by the Company in connection with the negotiation of the loan and the preparation and completion of the issue of the debenture stock and the preparation and execution of the said mortgage and trust deed, including all reasonable travelling expenses incurred by or on behalf of the Company provided always that the Corporation shall not be obligated to pay more than forty-two thousand five hundred dollars in respect of such legal fees incurred by the Company; and
 
-(c) a finder’s fee of the sterling equivalent of one hundred thousand dollars to E. D. Sassoon Banking Company, Limited, a Company also incorporated in The Bahamas, in connection with issue and sale of the debenture stock; and
-
-(d) all trustee’s, co-trustee’s and paying agent’s fees in connection with the issue and redemption of the debenture stock and the payment of the interest payable thereon.
+(c) a finder’s fee of the sterling equivalent of one hundred thousand dollars to E. D. Sassoon Banking Company, Limited, a Company also incorporated in The Bahamas, in connection with issue and sale of the debenture stock; and (d) all trustee’s, co-trustee’s and paying agent’s fees in connection with the issue and redemption of the debenture stock and the payment of the interest payable thereon.

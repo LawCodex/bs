@@ -42,3 +42,7 @@ An Act to authorise payment of certain expenses in connection with the due admin
 **2.** Whenever in the opinion of the Attorney-General it may be necessary in furtherance of the ends of justice to incur any expense in the employment of professional men, or in payment of rewards, or otherwise, it shall be lawful for the Governor-General by warrant in the usual manner to direct the payment out of the Consolidated Fund of all expenses incurred for any of the purposes aforesaid:
 
 Provided that a Stipendiary and Circuit Magistrate may when he considers the circumstances so require engage the services of an interpreter or interpreters without reference to the Attorney-General.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF

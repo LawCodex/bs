@@ -81,11 +81,11 @@ retrieved: 2026-10-13
 
 ## THIRD SCHEDULE — Oath of Allegiance.
 
-### BAHAMAS NATIONALITY
-
 *18 of 1973*
 
-An Act to provide for the acquisition, certification, renunciation and deprivation of citizenship of The Bahamas and for purposes incidental thereto or connected therewith.
+*and*
+
+BAHAMAS NATIONALITY An Act to provide for the acquisition, certification, renunciation and deprivation of citizenship of The Bahamas for purposes incidental thereto or connected therewith.
 
 [Assent 5th July, 1973]
 
@@ -145,11 +145,9 @@ An Act to provide for the acquisition, certification, renunciation and deprivati
 
 *Registration of Commonwealth citizens, and British protected persons.*
 
-**5.** (1) Subject to the provisions of this section, the Minister may at his discretion cause any person of full age and capacity who is a Commonwealth citizen or a British protected person to be registered as a citizen of The Bahamas if that person makes application for such registration to the Minister in the prescribed manner and satisfies the Minister that he is qualified to be so registered
-
 *Second Schedule*
 
-under the provisions of the Second Schedule.
+**5.** (1) Subject to the provisions of this section, the Minister may at his discretion cause any person of full age and capacity who is a Commonwealth citizen or a British protected person to be registered as a citizen of The Bahamas if that person makes application for such registration to the Minister in the prescribed manner and satisfies the Minister that he is qualified to be so registered under the provisions of the Second Schedule.
 
 (2) A person qualified to be registered under this section shall not be so registered unless he first renounces any other citizenship which he may possess and, if he is not a Commonwealth citizen, takes the oath of allegiance: Provided that where any such person cannot renounce his citizenship of some other country under the law of that country, he may instead make such declaration concerning that citizenship as may be prescribed.
 
@@ -179,15 +177,11 @@ under the provisions of the Second Schedule.
 
 *Naturalisation of aliens.*
 
-**9.** The Minister may at his discretion, if application is made to him for naturalisation in the prescribed manner by an alien of full age and capacity who satisfies him that he is
-
 *Second Schedule.*
-
-qualified under the provisions of the Second Schedule, grant to him a certificate of naturalisation; and a person to whom such a certificate is granted shall, on taking the oath
 
 *Third Schedule.*
 
-of allegiance in the form prescribed in the Third Schedule, be a citizen of The Bahamas by naturalisation as from the date on which the certificate was granted:
+**9.** The Minister may at his discretion, if application is made to him for naturalisation in the prescribed manner by an alien of full age and capacity who satisfies him that he is qualified under the provisions of the Second Schedule, grant to him a certificate of naturalisation; and a person to whom such a certificate is granted shall, on taking the oath of allegiance in the form prescribed in the Third Schedule, be a citizen of The Bahamas by naturalisation as from the date on which the certificate was granted:
 
 Provided that no certificate of naturalisation shall be granted under this section to any person unless he first renounces any other citizenship that he may possess or, in the case of a person who cannot renounce his citizenship of some other country under the laws of that country, he makes instead such declaration concerning that citizenship as may be prescribed.
 
@@ -291,9 +285,7 @@ of inquiry appointed under this section, and such rules may in particular provid
 
 (a) prescribing anything which by the provisions of Chapter II of the Constitution or of this Act are to be or may be prescribed;
 
-(b) for the registration of anything required or authorised to be registered under the provisions of Chapter II of the Constitution or of this Act;
-
-(c) for the administration and taking of oaths of allegiance under this Act, for the time within which such oaths shall be taken and for the registration of such oaths;
+(b) for the registration of anything required or authorised to be registered under the provisions of Chapter II of the Constitution or of this Act; (c) for the administration and taking of oaths of allegiance under this Act, for the time within which such oaths shall be taken and for the registration of such oaths;
 
 (d) for the giving of any notice required or authorised to be given to any person by or under this Act;
 
@@ -312,6 +304,10 @@ of inquiry appointed under this section, and such rules may in particular provid
 (ii) any registration, the making of any declaration, the grant of any certificate or the taking of any oath of allegiance under the provisions of Chapter II of the Constitution or of this Act; or
 
 (iii) supplying certified or other copies of any notice, certificate, order, declaration or entry given, granted or made under the said provisions.
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 *Offences.*
 
@@ -333,19 +329,27 @@ of inquiry appointed under this section, and such rules may in particular provid
 
 (c) by making such other variations to that Schedule as may be considered appropriate to the circum-stances of any Commonwealth country specified therein.
 
-## FIRST SCHEDULE (Sections 2, 10, 12, 21) COMMONWEALTH COUNTRIES The United Kingdom and Colonies (and West Indies Associated States)
+*The*
 
-Canada Uganda Australia Kenya New Zealand Malawi India Malta Pakistan Zambia Bangladesh Nauru Sri Lanka (Ceylon) The Gambia Ghana Guyana Malaysia Botswana Nigeria Lesotho Cyprus Singapore Sierra Leone Barbados Tanzania Mauritius Jamaica Swaziland Trinidad and Tobago Fiji Tonga Western Samoa
+## FIRST SCHEDULE (Sections 2, 10, 12, 21) COMMONWEALTH COUNTRIES United Kingdom and Colonies (and West Indies Associated States)
+
+*India*
+
+*Sri*
+
+Canada Uganda Australia Kenya New Zealand Malawi Malta Pakistan Zambia Bangladesh Nauru Lanka (Ceylon) The Gambia Ghana Guyana Malaysia Botswana Nigeria Lesotho Cyprus Singapore Sierra Leone Barbados Tanzania Mauritius Jamaica Swaziland Trinidad and Tobago Fiji Tonga Western Samoa
 
 ## SECOND SCHEDULE (Sections 5 and 9)
 
 ### QUALIFICATIONS FOR REGISTRATION OR NATURALISATION
 
-**1.** Subject to the provisions of paragraph 2, the qualifications for registration as a citizen of The Bahamas of a Commonwealth citizen, or British protected person or for naturalisation of an alien who applies therefor are —
+*for*
 
-(a) that he has either actually resided in The Bahamas or been in the service of the Government of The Bahamas, or partly the one and partly the other, throughout the period of twelve months immediately preceding the date of the application; and
+*who*
 
-(b) that during the nine years immediately preceding the said period of twelve months he has either actually resided in The Bahamas or been in the Government service as aforesaid for periods amounting in the aggregate to not less than six years; and
+**1.** Subject to the provisions of paragraph 2, the qualifications registration as a citizen of The Bahamas of a Commonwealth citizen, or British protected person or for naturalisation of an alien applies therefor are —
+
+(a) that he has either actually resided in The Bahamas or been in the service of the Government of The Bahamas, or partly the one and partly the other, throughout the period of twelve months immediately preceding the date of the application; and (b) that during the nine years immediately preceding the said period of twelve months he has either actually resided in The Bahamas or been in the Government service as aforesaid for periods amounting in the aggregate to not less than six years; and
 
 (c) that he is in the opinion of the Minister of good character; and
 

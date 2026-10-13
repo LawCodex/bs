@@ -51,25 +51,45 @@ retrieved: 2026-10-13
 
 **15.** Act not to apply to Crown.
 
-*16 of 1872 14 of 1885 13 of 1897 27 of 1898 15 of 1932 8 of 1980 5 of 1987 Short title.*
+*16 of 1872 14 of 1885 13 of 1897*
 
-AUCTION An Act relating to auctioneers.
+*An*
+
+*27 of 1898 15 of 1932 8 of 1980 5 of 1987 Short title.*
+
+AUCTION Act relating to auctioneers.
 
 [Commencement 23rd May, 1872]
 
 **1.** This Act may be cited as the Auction Act.
 
-*Illegal to act as auctioneer or vendue master without a licence and entering into bond.*
+*Illegal to act as auctioneer or vendue master without a licence*
 
-**2.** It shall not be lawful for any person to act as an auctioneer or vendue master within The Bahamas unless he shall have been first duly licensed as such by the Treasurer, or if resident in an Out Island by the commissioner, acting as collector of revenue for the district for which the licence shall be required; and shall have entered into bond to Her Majesty, Her Heirs and Successors, with two or more
+*or if*
+
+*and entering into*
+
+*as*
+
+*bond.*
+
+*shall be Majesty, sufficient*
 
 *5 of 1987, s. 2.*
 
-sufficient sureties in the penal sum of two thousand dollars with the following conditions thereunder written, that is to say —
+*with the say —*
+
+**2.** It shall not be lawful for any person to act as an auctioneer or vendue master within The Bahamas unless he shall have been first duly licensed as such by the Treasurer, resident in an Out Island by the commissioner, acting collector of revenue for the district for which the licence required; and shall have entered into bond to Her Her Heirs and Successors, with two or more sureties in the penal sum of two thousand dollars following conditions thereunder written, that is to
 
 *Bond and condition.*
 
-“The condition of this obligation is such that if the above bounden (here insert name of auctioneer) shall from time to time render true and faithful accounts of all property sold by him at public auction to the Treasurer, or other proper officer as required by law, and submit and deliver to the said Treasurer, or other officer, for inspection and examination his vendue books, as is also required by law, and shall well and faithfully pay to the said Treasurer or other proper officer all sums of money which may be or become payable by the said (here again insert name of auctioneer) as an auctioneer, in respect of duties or taxes, which he is or may be liable by law to pay, then this obligation to be void, otherwise to remain in full force and effect”: Provided that nothing herein contained shall extend to the sale of property under judicial process or distraint for rent, by the proper officer or person duly authorised to make such sale.
+*rent, by*
+
+“The condition of this obligation is such that if the above bounden (here insert name of auctioneer) shall from time to time render true and faithful accounts of all property sold by him at public auction to the Treasurer, or other proper officer as required by law, and submit and deliver to the said Treasurer, or other officer, for inspection and examination his vendue books, as is also required by law, and shall well and faithfully pay to the said Treasurer or other proper officer all sums of money which may be or become payable by the said (here again insert name of auctioneer) as an auctioneer, in respect of duties or taxes, which he is or may be liable by law to pay, then this obligation to be void, otherwise to remain in full force and effect”: Provided that nothing herein contained shall extend to the sale of property under judicial process or distraint for the proper officer or person duly authorised to make such sale.
+
+*[Original*
+
+Service 2001]
 
 *Form, duration and nature of licence. 13 of 1897, s. 4*
 
@@ -101,11 +121,9 @@ Provided that it shall be lawful for the Treasurer or commissioner, as the case 
 
 **6.** To every statement, account or return rendered by an auctioneer under section 5 of this Act, there shall be appended a declaration in the following form —
 
-“I (here insert name and address) do solemnly declare that the foregoing (statement, account or return, describing the paper according to its nature) is in all respects correct and true, and I hereby declare that this declaration is made by me, subject to the provisions of the Acts for substituting declarations in lieu of oaths, and providing for the punishment of persons who shall make false declarations.”
-
 *Declaration to be subscribed in presence of Treasurer, cashier or commissioner.*
 
-All such declarations shall be subscribed with the name of the party making the same, written in his proper handwriting, in the presence of the Treasurer or cashier, or when made at an Out Island in the presence of the commissioner, and shall be attested by the officer so taking the same in the following words:
+“I (here insert name and address) do solemnly declare that the foregoing (statement, account or return, describing the paper according to its nature) is in all respects correct and true, and I hereby declare that this declaration is made by me, subject to the provisions of the Acts for substituting declarations in lieu of oaths, and providing for the punishment of persons who shall make false declarations.” All such declarations shall be subscribed with the name of the party making the same, written in his proper handwriting, in the presence of the Treasurer or cashier, or when made at an Out Island in the presence of the commissioner, and shall be attested by the officer so taking the same in the following words:
 
 “Subscribed and declared to in my presence, this day of A.D. 19 .
 
@@ -113,11 +131,9 @@ Signed, A.B., Treasurer, cashier or commissioner as the case may be.”
 
 *Penalty for acting as auctioneer without a licence.*
 
-**7.** Any person who shall act as an auctioneer without having been first duly licensed as heretofore provided or who shall so act after the expiration of any licence which may have been held by him, notice of such expiration having been given to him as hereinafter provided for, or who being so licensed shall act as an auctioneer
-
 *15 of 1987, s. 2.*
 
-without having first entered into bond, as hereinbefore provided for, shall for every offence forfeit and pay a sum of two hundred dollars.
+**7.** Any person who shall act as an auctioneer without having been first duly licensed as heretofore provided or who shall so act after the expiration of any licence which may have been held by him, notice of such expiration having been given to him as hereinafter provided for, or who being so licensed shall act as an auctioneer without having first entered into bond, as hereinbefore provided for, shall for every offence forfeit and pay a sum of two hundred dollars.
 
 *Penalty for neglecting to return necessary documents and pay taxes and dues required by this Act. 5 of 1987, s. 2.*
 
@@ -147,22 +163,16 @@ Provided that, where sponge is so sold, the person selling the same shall immedi
 
 *Written statement may be demanded. Penalty for neglect. 14 of 1885, s. 3*
 
-**13.** It shall be lawful for any person interested in the sale of any sponges by tender to demand from the person selling the same a written statement or memorandum showing the price for which such sponge has been sold by such person, and which has been announced by such person according to the proviso to section 11 of this Act, and any person selling any sponge, and from whom has been demanded a written statement as aforesaid, who shall neglect or refuse to furnish the same to the person entitled
-
 *5 of 1987, s. 2.*
 
-to make and making such demand, shall forfeit and pay the sum of forty dollars.
+**13.** It shall be lawful for any person interested in the sale of any sponges by tender to demand from the person selling the same a written statement or memorandum showing the price for which such sponge has been sold by such person, and which has been announced by such person according to the proviso to section 11 of this Act, and any person selling any sponge, and from whom has been demanded a written statement as aforesaid, who shall neglect or refuse to furnish the same to the person entitled to make and making such demand, shall forfeit and pay the sum of forty dollars.
 
 *Penalties, how recovered, and applied.*
 
-**14.** All penalties imposed by this Act shall be recovered with costs of suit, and one moiety of all such penalties when recovered shall be paid into the Consolidated Fund in aid of the general revenue, and the other moiety thereof shall go to the use of the informer who shall sue for the same, which suit or action may be
-
 *Act not to apply to Crown.*
 
-brought in the court having jurisdiction to the amount.
-
-**15.** This Act shall not be held or construed to apply
+**14.** All penalties imposed by this Act shall be recovered with costs of suit, and one moiety of all such penalties when recovered shall be paid into the Consolidated Fund in aid of the general revenue, and the other moiety thereof shall go to the use of the informer who shall sue for the same, which suit or action may be brought in the court having jurisdiction to the amount.
 
 *27 of 1898, s. 1.*
 
-in any manner to persons selling Crown lands by order or direction of the Governor-General.
+**15.** This Act shall not be held or construed to apply in any manner to persons selling Crown lands by order or direction of the Governor-General.

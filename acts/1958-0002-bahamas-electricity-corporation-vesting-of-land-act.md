@@ -48,8 +48,16 @@ An Act to vest in The Bahamas Electricity Corporation a tract of land situate on
 
 **4.** Notwithstanding the provisions of Section 3 of this Act, it shall be the duty of the Corporation, as soon as may be convenient, to convey to the Public Board of Works for New Providence in fees simple in trust for the public service of The Bahamas that strip of public road described in the second paragraph of the Schedule to this Act.
 
+*THE BAHAMAS*
+
+### STATUTE LAW OF
+
 *IV – 196]*
 
 SCHEDULE ALL THAT tract comprising two lots of land situate on the South side of the Island of New Providence and being a portion of Clifton Estate and containing in all five and fifty-seven one-hundredths acres, the said tract being separated by an existing public road thirty feet wide and being bounded Northeastwardly by the property of Nassoak Limited and running thereon four hundred feet Southeastwardly by Crown Land and running thereon a total of six hundred and forty-six feet Southwestwardly by the Sea and running thereon three hundred and ninety-six feet and Northwestwardly by land the property of Caves Company Limited and running thereon a total of six hundred and thirty feet.
 
 THAT strip of public road and road reservation together being thirty feet wide and four hundred and ten feet long which said strip passes through and separates the Northern and Southern portions of the tract of land described above.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

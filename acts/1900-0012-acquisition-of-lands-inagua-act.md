@@ -44,6 +44,10 @@ An Act to vest certain land in the Island of Inagua in the Commissioners of Publ
 
 **4.** In the event of such sum not being agreed on and accepted as aforesaid the said Board shall ascertain the value of any such acquired land by appraisement by two disinterested persons one to be named by the said Board and one to be named by the person or persons claiming a right or title in respect of the said land or any part thereof or in the absence of such person or persons or any legally authorised representative in his or their behalf by the Supreme Court of The Bahamas and the decision of such appraisers shall be deemed to be the value of such acquired land and such value being duly certified shall be paid out
 
+*THE BAHAMAS*
+
+### STATUTE LAW OF
+
 *IV – 22]*
 
 expenses connected with the same by warrant in the usual manner on the representation of the said Board of such agreement or valuation or of such incidental expenses as the case may be:
@@ -53,3 +57,7 @@ Provided that in case such appraisers shall disagree upon the value of the said 
 Provided, however, that the assessment of such acquired land or any part thereof shall be based solely on the present value of such land:
 
 Provided further that nothing contained in this and the preceding section of this Act shall be read or construed so as to prevent the absolute vesting of the said lands in the said Board as provided by section 2 of this Act.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

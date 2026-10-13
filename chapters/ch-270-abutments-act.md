@@ -43,11 +43,9 @@ retrieved: 2026-10-13
 
 **10.** Minister empowered to sanction the erection of staircases.
 
-### ABUTMENTS
-
 *5 of 1864 21 of 1869 14 of 1917 G.N. 7(19)/1964 E.L.A.O., 1974 5 of 1987*
 
-An Act to improve the Harbour of Nassau and to afford greater facilities for repairing vessels that have sustained damage and for other purposes.
+ABUTMENTS An Act to improve the Harbour of Nassau and to afford greater facilities for repairing vessels that have sustained damage and for other purposes.
 
 [Commencement 30th March, 1864]
 
@@ -81,11 +79,9 @@ situated; but the freehold right hereby granted shall be subject nevertheless to
 
 **6.** (1) The proprietor of any abutment lot who desires to erect a building on more than one half of the southern frontage thereof shall, before commencing to erect any such building —
 
-Notice of intended erection to be given to the
-
 *G.N. 7(19)/1964.*
 
-Minister.
+Notice of intended erection to be given to the Minister.
 
 (a) give notice in writing to the Minister of such intention and shall specify in such notice the proposed extent, style of architecture and size of such building and the materials of which it is intended to be constructed;
 
@@ -100,6 +96,10 @@ Minister.
 *The Minister to sanction material and size of building.*
 
 (3) Nothing herein contained shall be read or construed so as to allow any person to erect any building on any such abutment lot without having first obtained the sanction of the Minister as to the proposed extent, style of architecture and size of such building and the materials of
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 which it is intended to be constructed, or to erect a building of extent, style of architecture, size or materials different from that sanctioned by the Minister.
 

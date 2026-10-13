@@ -133,9 +133,17 @@ Original
 
 ### CHAPTER 51
 
-*5 of 1998 63 of 2011*
+*An Act*
 
-An Act to provide for the preservation, conservation, restoration, documentation, study and presentation of sites and objects of historical, anthropological, archaeological and palaeontological interest, to establish a National Museum, and for matters ancillary thereto or connected therewith.
+*5 of 1998*
+
+*restoration,*
+
+*63 of 2011*
+
+*and objects of*
+
+to provide for the preservation, conservation, documentation, study and presentation of sites historical, anthropological, archaeological and palaeontological interest, to establish a National Museum, and for matters ancillary thereto or connected therewith.
 
 [Assent 12th May, 1998]
 
@@ -145,11 +153,13 @@ An Act to provide for the preservation, conservation, restoration, documentation
 
 *Short title.*
 
-**1.** This Act may be cited as the Antiquities, Monuments and Museum Act, 1998.
+*Monuments 2. In*
+
+**1.** This Act may be cited as the Antiquities, and Museum Act, 1998.
 
 *Interpretation.*
 
-**2.** In this Act —
+this Act —
 
 “antiquity” means —
 
@@ -165,7 +175,9 @@ An Act to provide for the preservation, conservation, restoration, documentation
 
 (b) fossil remains or impressions;
 
-“Board” means the Antiquities, Monuments and Museum Board established by section 22;
+*“Board”*
+
+means the Antiquities, Monuments and Museum Board established by section 22;
 
 “Crown land” means land vested in Her Majesty or the Governor-General on behalf of Her Majesty as property of the Crown for the beneficial interests of The Bahamas;
 
@@ -213,21 +225,17 @@ of any antiquity or supposed antiquity, the presence of which was previously unk
 
 “private land” means land other than Government land or Crown land;
 
-“public officer” shall have the meaning assigned
-
 *Ch. 43.*
 
-thereto in the Pensions Act;
+“public officer” shall have the meaning assigned thereto in the Pensions Act;
 
 “Secretary” means the Secretary to the National Museum appointed by virtue of section 21;
 
 “supposed antiquity” means an object or site which may reasonably be supposed to be or to contain an antiquity.
 
-“underwater cultural heritage” means all traces of
-
 *63 of 2011, s. 2.*
 
-human existence having a cultural, historical or archaeological character which have been partially or totally under water, periodically or continuously, for at least fifty years and includes —
+“underwater cultural heritage” means all traces of human existence having a cultural, historical or archaeological character which have been partially or totally under water, periodically or continuously, for at least fifty years and includes —
 
 (i) sites, structures, buildings, artifacts and human remains together with their archaeological and natural context;
 
@@ -241,11 +249,9 @@ human existence having a cultural, historical or archaeological character which 
 
 **3.** (1) Subject to section 4, the Minister may, after consultation with the Board, by notice published in the Gazette, declare any place, building, site or structure including underwater cultural heritage, which the Minister considers to be of public interest by reason of its historical, anthropological, archaeological or palaeontological significance to be a monument.
 
-(2) A declaration under subsection (1) may include
-
 *63 of 2011, s. 2.*
 
-as part of a monument any land, sea or water adjoining the place, building, site or structure required for fencing, covering or protecting the monument or for providing or facilitating access thereto.
+(2) A declaration under subsection (1) may include as part of a monument any land, sea or water adjoining the place, building, site or structure required for fencing, covering or protecting the monument or for providing or facilitating access thereto.
 
 (3) A notice under subsection (1) shall include a reference to the appropriate plan deposited under subsection (4).
 
@@ -267,13 +273,17 @@ as part of a monument any land, sea or water adjoining the place, building, site
 
 (2) The Minister shall serve on the owner and any lawful occupier of the private land a notice in writing of his proposal to declare a monument therein together with a plan clearly showing the location of the proposed monument.
 
-(3) Within one month, or such longer period as may be allowed by the Supreme Court in any particular case, after the service of a notice under subsection (2), the owner or a lawful occupier may object to the proposed monument by application to the Supreme Court.
+*be*
+
+(3) Within one month, or such longer period as may allowed by the Supreme Court in any particular case, after the service of a notice under subsection (2), the owner or a lawful occupier may object to the proposed monument by application to the Supreme Court.
 
 (4) The Supreme Court, upon considering an application made under subsection (3), may direct that the proposed declaration shall or shall not be made or shall be made subject to such variations or conditions as it thinks fit.
 
 (5) A direction of the Supreme Court under subsection (4) shall be final.
 
-(6) A notice required to be served under this section may be served —
+(6) A notice required to be served under this section be served —
+
+may
 
 (a) by delivering it personally to the person to be served;
 
@@ -287,11 +297,17 @@ as part of a monument any land, sea or water adjoining the place, building, site
 
 The next page is 6B
 
+*LRO*
+
+1/2017
+
 ### CH.51 – 6 B]
 
 This page is intentionally left blank The next page is 7
 
-**5.** (1) Subject to this section, the Minister, or any Control of designated person authorized by him in writing, may, for monuments the purposes of this Act, at all reasonable times — generally.
+*Control of monuments generally.*
+
+**5.** (1) Subject to this section, the Minister, or any designated person authorized by him in writing, may, for the purposes of this Act, at all reasonable times —
 
 (a) enter and inspect any monument;
 
@@ -307,25 +323,27 @@ Provided that the Minister shall dispense with such notification where he consid
 
 (a) the owner or lawful occupier of the monument;
 
-(b) a person beneficially interested in the monument;
-
-or
+(b) a person beneficially interested in the monument; or
 
 (c) a person authorized by such owner, occupier or person beneficially interested in the monument.
 
+*Acts prohibited in relation to certain monu-ments under permit.*
+
 **6.** No person shall —
 
-Acts prohibited in relation to
-
-(a) excavate, carry on building or other work, plant certain monu-or fell trees or deposit earth or refuse on, in or ments under near a monument; or permit.
+(a) excavate, carry on building or other work, plant or fell trees or deposit earth or refuse on, in or near a monument; or
 
 (b) demolish, remove, obstruct, deface or interfere with a monument,
 
 except in accordance with a permit granted by the Minister.
 
-**7.** The Minister may grant to a person who Grant of sums proposes to carry out work for the maintenance, for preservation, etc. of monu-preservation, restoration, documentation, study or ments. presentation of a monument such sum as the Minister thinks fit for the purpose of assisting the person to carry out the work.
+*Grant of sums for preservation, etc. of monu-ments.*
 
-**8.** (1) Subject to this section, the Minister shall pay Compensation. to the owner or lawful occupier of a monument compensation in respect of financial loss suffered or likely to be suffered by him by reason of —
+**7.** The Minister may grant to a person who proposes to carry out work for the maintenance, preservation, restoration, documentation, study or presentation of a monument such sum as the Minister thinks fit for the purpose of assisting the person to carry out the work.
+
+*Compensation.*
+
+**8.** (1) Subject to this section, the Minister shall pay to the owner or lawful occupier of a monument compensation in respect of financial loss suffered or likely to be suffered by him by reason of —
 
 (a) the exercise by the Minister, or by a designated person authorized by him, of the powers specified in subsection (1) of section 5; or
 
@@ -343,7 +361,9 @@ except in accordance with a permit granted by the Minister.
 
 *Assessment of compensation by Supreme Court.*
 
-**9.** (1) In default of agreement under paragraph (a) of subsection (2) of section 8, the owner or lawful occupier may apply to the Supreme Court —
+**9.** (1) In default of agreement under paragraph (a) of subsection (2) of section 8, the owner or lawful occupier apply to the Supreme Court —
+
+may
 
 (a) for determination of his interest or right;
 
@@ -361,7 +381,9 @@ except in accordance with a permit granted by the Minister.
 
 **10.** (1) Subject to this Act, the ownership of every artifact discovered in The Bahamas after the commencement of this Act shall vest in the Government from the moment of discovery.
 
-(2) The Minister may, on behalf of the Government, disclaim the ownership of an artifact so discovered, and upon such disclaimer —
+(2) The Minister may, on behalf of the Government, disclaim the ownership of an artifact so discovered, and such disclaimer —
+
+upon
 
 (a) the ownership of the Government in the artifact shall be extinguished; and
 
@@ -391,39 +413,35 @@ except in accordance with a permit granted by the Minister.
 
 Provided that the Minister shall dispense with such notification where he considers it necessary to do so.
 
-*Reporting of underwater cultural heritage in the EEZ and the continental shelf. 63 of 2011, s. 4.*
+*Reporting of underwater cultural heritage in the EEZ and the continental shelf. 63 of 2011, s. 4. that*
 
-**11A.** (1) When a person, or a vessel flying the flag of The Bahamas, discovers or intends to engage in excavations and searches for or other activities directed at underwater cultural heritage located in the exclusive economic zone or on the continental shelf of The Bahamas, that person or the master of the vessel shall report such discovery or activity to the Minister, or to a designated person.
+**11A.** (1) When a person, or a vessel flying the flag of The Bahamas, discovers or intends to engage in excavations and searches for or other activities directed at underwater cultural heritage located in the exclusive economic zone or on the continental shelf of The Bahamas, person or the master of the vessel shall report such discovery or activity to the Minister, or to a designated person.
 
-(2) A designated person to whom a report is made under this section shall forthwith inform the Minister and the Board, in writing, of the report.
+*under the*
+
+(2) A designated person to whom a report is made this section shall forthwith inform the Minister and Board, in writing, of the report.
 
 *No excavation etc. of antiqui-ties, without licence.*
 
 **12.** No person, other than the Minister and a designated person authorised by him, shall —
 
-(a) excavate or search for antiquities except in accordance with a licence granted to him;
-
-(b) survey for or recover underwater cultural
-
 *63 of 2011, s. 5.*
 
-heritage except in accordance with a licence granted to him;
+(a) excavate or search for antiquities except in accordance with a licence granted to him; (b) survey for or recover underwater cultural heritage except in accordance with a licence granted to him;
 
 (c) remove any artifact hitherto undiscovered from a monument or collect or remove any object which he supposes to be an artifact from the site of its discovery, otherwise than for the purpose of protecting the same or in accordance with a licence granted to him.
 
-*Grant of licences. 63 of 2011, s. 6.*
+*Grant of licences. 63 of 2011, s. 6. any*
 
-**13.** (1) Subject to this Act, the Minister may grant to any person a licence to excavate and search for antiquities on land or survey for, or recover, underwater cultural heritage.
+**13.** (1) Subject to this Act, the Minister may grant to person a licence to excavate and search for antiquities on land or survey for, or recover, underwater cultural heritage.
 
-(2) A licence may not be granted to a person unless the Minister is satisfied that he —
+*the*
+
+(2) A licence may not be granted to a person unless Minister is satisfied that he —
 
 (a) has had sufficient scientific training or experience to enable him to carry out the excavation and search;
 
-(b) has at his disposal sufficient staff and financial or other resources to enable him to carry out the proposed excavation and search satisfactorily;
-
-(c) is able to conduct or arrange for a proper scientific study of any antiquities discovered as a result of the proposed excavation and search for their proper preservation, restoration, analysis, documentation and presentation; and
-
-(d) has deposited the prescribed performance bond.
+(b) has at his disposal sufficient staff and financial or other resources to enable him to carry out the proposed excavation and search satisfactorily; (c) is able to conduct or arrange for a proper scientific study of any antiquities discovered as a result of the proposed excavation and search for their proper preservation, restoration, analysis, documentation and presentation; and (d) has deposited the prescribed performance bond.
 
 (3) Subject to subsection (2), a licence may be granted or renewed for a period not exceeding twelve months.
 
@@ -485,6 +503,10 @@ heritage except in accordance with a licence granted to him;
 
 **16.** (1) The decision of the Minister to grant, renew or cancel a licence shall be final unless it can be shown to the satisfaction of the Supreme Court by the party aggrieved that the Minister was acting ultra vires.
 
+*STATUTE LAW*
+
+### OF THE BAHAMAS
+
 (2) The decision of the Supreme Court on the appeal shall be final.
 
 ## PART V ESTABLISHMENT, FUNCTIONS AND MANAGEMENT OF NATIONAL MUSEUM
@@ -517,9 +539,7 @@ heritage except in accordance with a licence granted to him;
 
 (b) to provide for the presentation and study of sites and objects of historical, anthropological, archaeological, palaeontological, and other scientific interest and matters ancillary thereto;
 
-(c) to assist other bodies or persons either financially or in any other way to carry on any undertaking which appears to the National Museum to be needed for the achievement of its purposes;
-
-(d) to carry on any activities incidental to any undertaking which appears to the National Museum to be necessary for the promotion of that undertaking;
+(c) to assist other bodies or persons either financially or in any other way to carry on any undertaking which appears to the National Museum to be needed for the achievement of its purposes; (d) to carry on any activities incidental to any undertaking which appears to the National Museum to be necessary for the promotion of that undertaking;
 
 (e) to be the major national and public repository of all artifacts of integral importance to the prehistory, history and cultural development of the Bahamian people and The Bahamas;
 
@@ -531,9 +551,11 @@ heritage except in accordance with a licence granted to him;
 
 (i) to establish, operate and administer an historical site unit of the National Museum as prescribed to be headed by a surveyor or architect or other appropriate person appointed by the Board, for the purpose of identifying, studying, demarcating and maintaining national, historical and cultural sites.
 
-*Director of the National Museum.*
+*Director of the National Museum Museum.*
 
-**20.** (1) There shall be a Director of the National Museum who shall be appointed by the Minister on such terms and conditions (including salaries, allowances and other remuneration) as the Minister may determine.
+*terms other*
+
+**20.** (1) There shall be a Director of the National who shall be appointed by the Minister on such and conditions (including salaries, allowances and remuneration) as the Minister may determine.
 
 *[CH.51 – 14 A*
 
@@ -581,19 +603,15 @@ The next page is 15
 
 *Pensions of per-sons transferred from the public service to the National Museum.*
 
-**23.** (1) Where any public officer holding a pensionable office under the Government ceases to be the holder of such office by reason of his transfer with his consent to the service of the National Museum and such person subsequently retires from the service of the National Museum in such circumstances that, had he remained a public officer, he would have been eligible for pension
-
 *Ch. 43.*
 
-under the provisions of the Pensions Act, then in any such case the provisions of subsections (2) and (3) shall have effect.
+**23.** (1) Where any public officer holding a pensionable office under the Government ceases to be the holder of such office by reason of his transfer with his consent to the service of the National Museum and such person subsequently retires from the service of the National Museum in such circumstances that, had he remained a public officer, he would have been eligible for pension under the provisions of the Pensions Act, then in any such case the provisions of subsections (2) and (3) shall have effect.
 
 (2) Any pension payable to any such person as is mentioned in subsection (1) by the National Museum to whose service he has been transferred shall be calculated and granted to him in respect of his total service under the Government and with the National Museum taken together and such service shall be reckoned as continuous for pension purposes.
 
-(3) There shall be payable out of the Consolidated Fund upon the warrant of the Minister of Finance to the National Museum as contribution to every pension paid in accordance with subsection (2), such amounts as would have been payable to the person concerned by way of
-
 *Ch. 43.*
 
-pension under the Pensions Act, if such person had retired from the public service and if he had been granted a pension under the Pensions Act upon the date of his ceasing to be a public officer.
+(3) There shall be payable out of the Consolidated Fund upon the warrant of the Minister of Finance to the National Museum as contribution to every pension paid in accordance with subsection (2), such amounts as would have been payable to the person concerned by way of pension under the Pensions Act, if such person had retired from the public service and if he had been granted a pension under the Pensions Act upon the date of his ceasing to be a public officer.
 
 *Board to be subject to directions of Minister.*
 
@@ -605,7 +623,9 @@ pension under the Pensions Act, if such person had retired from the public servi
 
 *Funds and resources of the National Museum.*
 
-**25.** The funds and resources of the National Museum shall consist of —
+**25.** The funds and resources of the National Museum shall
+
+consist of —
 
 (a) such sums as may be voted for the purposes of the National Museum by Parliament;
 
@@ -631,11 +651,9 @@ pension under the Pensions Act, if such person had retired from the public servi
 
 **28.** (1) Subject to subsection (2), the Minister of Finance may, at the request of the Board, make advances for the purpose of enabling the National Museum to defray expenditure properly chargeable to the capital account, including provision of working capital.
 
-(2) No advance shall be made under this section unless prior approval thereof has been signified by the
-
 *Ch. 359.*
 
-House of Assembly in accordance with the Financial Administration and Audit Act.
+(2) No advance shall be made under this section unless prior approval thereof has been signified by the House of Assembly in accordance with the Financial Administration and Audit Act.
 
 *Surplus moneys.*
 
@@ -677,6 +695,10 @@ House of Assembly in accordance with the Financial Administration and Audit Act.
 
 (c) without reasonable excuse, fails to comply with a request made to him by the Minister or a designated person under subsection (2) of section 11;
 
+*STATUTE LAW*
+
+### OF THE BAHAMAS
+
 (d) wilfully obstructs the Minister, or any designated person authorized by him, in the exercise of his powers under subsection (1) of section 5 or subsection (6) of section 11; or
 
 (e) fails to report a discovery within a reasonable time,
@@ -707,9 +729,11 @@ is guilty of an offence and shall be liable on summary conviction to a fine of t
 
 shall be paid from such moneys as may be provided from time to time by Parliament, and from funds of the National Museum.
 
-*Pensions and gratuities.*
+*Pensions and gratuities. of*
 
-**36.** As soon as practicable after the commencement of this Act, the National Museum shall, subject to the approval of the Minister, establish a scheme for the payment of pensions or gratuities for officers and servants of the National Museum who retire from the service of the National Museum or otherwise ceased to hold office by reason of age, or of infirmity of mind or of the abolition of office.
+*of*
+
+**36.** As soon as practicable after the commencement this Act, the National Museum shall, subject to the approval of the Minister, establish a scheme for the payment of pensions or gratuities for officers and servants the National Museum who retire from the service of the National Museum or otherwise ceased to hold office by reason of age, or of infirmity of mind or of the abolition of office.
 
 *Regulations.*
 
@@ -792,6 +816,10 @@ shall be paid from such moneys as may be provided from time to time by Parliamen
 **8.** All documents, other than those required to be under seal, made by, and all decisions of, the Board may be signified under the hands of the Chairman, or any other member authorized to act in that behalf, and the Secretary.
 
 **9.** (1) The Board shall meet at least once every three months and at such other times as may be necessary or expedient for transaction of its business and such meetings shall be held at such places and times and on such days as the Board may determine.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 (2) The Chairman shall preside at all meetings of the Board at which he is present and, in the case of the Chairman’s absence from any meeting, the members present and constituting a quorum shall elect a Chairman from among their number to preside at that meeting.
 

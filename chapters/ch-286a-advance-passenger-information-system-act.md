@@ -75,11 +75,9 @@ An Act to institute a system to facilitate the provision of advance information 
 
 **2.** In this Act —
 
-“advance passenger information” or “API” means the information or data concerning a crew member, passenger or any other person travelling in a commercial aircraft or
-
 *First Schedule.*
 
-commercial vessel as set out in the First Schedule;
+“advance passenger information” or “API” means the information or data concerning a crew member, passenger or any other person travelling in a commercial aircraft or commercial vessel as set out in the First Schedule;
 
 “advance passenger information system” or “APIS” means the system of automated electronic data interchange of API developed by the Caribbean Community for the benefit of Member States of the Community and the screening of API by IMPACS and JRCC against a watch list for an API hit;
 
@@ -163,7 +161,9 @@ commercial vessel as set out in the First Schedule;
 
 (b) forthwith at the request of the competent authority, produce any documents within such person’s possession or control relating to the vessel or aircraft and its crew, passengers, voyage or flight.
 
-(4) A person referred to in subsection (3) commits an offence who —
+*an*
+
+(4) A person referred to in subsection (3) commits offence who —
 
 (a) refuses to answer, or knowingly gives a false answer, to a question put to such person by the competent authority under subsection (3)(a); or
 
@@ -171,7 +171,9 @@ commercial vessel as set out in the First Schedule;
 
 *Technical or non-traffic stops.*
 
-**6.** (1) Section 4 does not apply to a commercial aircraft or commercial vessel which makes a technical stop or lands, berths, anchors, or otherwise arrives or stops for non-traffic purposes where such arrival or stop is —
+*or*
+
+**6.** (1) Section 4 does not apply to a commercial aircraft or commercial vessel which makes a technical stop lands, berths, anchors, or otherwise arrives or stops for non-traffic purposes where such arrival or stop is —
 
 (a) required by any statutory or other requirement relating to navigation;
 
@@ -179,7 +181,9 @@ commercial vessel as set out in the First Schedule;
 
 (c) authorised by the competent authority.
 
-(2) Where a commercial aircraft or commercial vessel arrives or stops for a reason referred to in subsection (1), the captain or master —
+*(1),*
+
+(2) Where a commercial aircraft or commercial vessel arrives or stops for a reason referred to in subsection the captain or master —
 
 (a) shall forthwith report to the competent authority;
 
@@ -242,6 +246,10 @@ Vol. VII, (Ch. 324A)
 (a) the offence was committed without his consent or connivance; or
 
 (b) he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 functions in that capacity and to all circumstances.
 
@@ -403,14 +411,14 @@ Reporting Electronic Mail Address:
 
 ## SECOND SCHEDULE (Section 4)
 
-### TIME FRAMES FOR PROVISION OF API
+*(1) In*
 
-(1) In case of—
+TIME FRAMES FOR PROVISION OF API case of—
 
-(a) a commercial aircraft, no later than 40 minutes prior to departure from the last port of call;
-
-(b) a commercial vessel arriving from outside the regional space, no later than 24 hours prior to arrival;
+(a) a commercial aircraft, no later than 40 minutes prior to departure from the last port of call; (b) a commercial vessel arriving from outside the regional space, no later than 24 hours prior to arrival;
 
 (c) a commercial vessel arriving from a destination within the regional space, no later than 1 hour prior to the arrival of the vessel from the last port of call.
 
-(2) In the event of any changes to the flight/vessel header data or data relating to an individual on board, an updated API file is required prior to departure of the aircraft or vessel.
+*data*
+
+(2) In the event of any changes to the flight/vessel header or data relating to an individual on board, an updated API file is required prior to departure of the aircraft or vessel.

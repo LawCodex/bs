@@ -19,19 +19,15 @@ retrieved: 2026-10-13
 
 ### CHAPTER 252
 
-### ACQUISITION OF LAND LIST OF AUTHORISED PAGES
+*LIST 1 - 2 3 - 18 19 - 20 21- 29*
 
-*1 - 2 3 - 18*
+### ACQUISITION OF LAND OF AUTHORISED PAGES
 
 Original
 
-19 - 20 LRO 1/2008
+Original
 
-21- 29 Original
-
-## ARRANGEMENT OF SECTIONS
-
-### SECTION
+## ARRANGEMENT OF SECTIONS SECTION
 
 **1.** Short title.
 
@@ -76,6 +72,10 @@ Application of Compensation
 Possession
 
 **18.** When possession obtainable.
+
+*LRO*
+
+1/2008
 
 **19.** Land held by Governor-General vests in Treasurer.Leaseholds
 
@@ -201,6 +201,8 @@ An Act to facilitate the acquisition of land for public purposes.
 
 “promoters” means a Minister or any statutory corporation by or on behalf of which selected land may be acquired under this Act;
 
+[Original Service 2001]
+
 *34 of 1964, s. 2.*
 
 “public purpose” includes, subject to the provisions of Article 27 of the Constitution —
@@ -209,15 +211,11 @@ An Act to facilitate the acquisition of land for public purposes.
 
 (b) any purpose for which any statutory corporation requires any land:
 
-Provided that in the case of any land required by a statutory corporation the value thereof or compensation payable therefor by
-
 *5 of 1987, s. 2.*
 
-agreement between the promoters and the persons interested therein does not exceed the sum of four thousand dollars or such value or compensation has been certified in writing by an assessor not to exceed the sum of four thousand dollars;
+Provided that in the case of any land required by a statutory corporation the value thereof or compensation payable therefor by agreement between the promoters and the persons interested therein does not exceed the sum of four thousand dollars or such value or compensation has been certified in writing by an assessor not to exceed the sum of four thousand dollars;
 
-(c) any public undertaking the execution of which is vested in the Governor-General or a Minister;
-
-(d) any purpose for which land is, in the opinion of the Governor-General, required for providing hotel accommodation, or promoting the tourist traffic of The Bahamas, or providing increased harbour and dock facilities, or the agricultural development of The Bahamas, or any other public undertaking;
+(c) any public undertaking the execution of which is vested in the Governor-General or a Minister; (d) any purpose for which land is, in the opinion of the Governor-General, required for providing hotel accommodation, or promoting the tourist traffic of The Bahamas, or providing increased harbour and dock facilities, or the agricultural development of The Bahamas, or any other public undertaking;
 
 *1 of 1952, s. 2.; 34 of 1964, s. 2.; 21 of 1957.*
 
@@ -235,6 +233,10 @@ agreement between the promoters and the persons interested therein does not exce
 
 “summons for assessment” means a summons issued by the Registrar of the court to initiate proceed-ings for an assessment by the court with or without assessors.
 
+*STATUTE LAW OF THE*
+
+### BAHAMAS
+
 *Appointment of assessors.*
 
 **3.** (1) It shall be lawful for the Governor-General —
@@ -251,11 +253,9 @@ agreement between the promoters and the persons interested therein does not exce
 
 *Assessor compellable to serve on an assessment.*
 
-(3) An assessor shall be compellable to serve on an assessment when required so to do by the Governor-General, the court, or a magistrate unless he shall satisfy the Governor-General, the court or the magistrate, as the case may be, that he is for good cause unable to serve or ought for good cause to be excused from service, and in case of neglect or default to serve as required after having
-
 *5 of 1987, s. 2.*
 
-been duly required by notice from the Governor-General, the court or a magistrate so to do shall be liable to a penalty of forty dollars.
+(3) An assessor shall be compellable to serve on an assessment when required so to do by the Governor-General, the court, or a magistrate unless he shall satisfy the Governor-General, the court or the magistrate, as the case may be, that he is for good cause unable to serve or ought for good cause to be excused from service, and in case of neglect or default to serve as required after having been duly required by notice from the Governor-General, the court or a magistrate so to do shall be liable to a penalty of forty dollars.
 
 *Declaration to be signed by assessors.*
 
@@ -401,11 +401,9 @@ the value of the selected land and the compensation payable for all or any inter
 
 (4) On the return of the summons for assessment the court shall also direct the promoters and the persons alleged to be interested, or such of them as the court shall think fit, to appoint on or before a day to be fixed by the court two assessors, one to be nominated by the promoters and the other by the persons interested, for the purpose of aiding the court in determining the amount of compensation in manner herein directed:
 
-Provided that assessors shall not be appointed unless the court otherwise directs in cases where it is of opinion on satisfactory evidence that the amount of compensation
-
 *5 of 1987, s. 2.*
 
-will not exceed two thousand dollars, but in every such case the amount of such compensation unless otherwise expressly directed by the court, shall be determined by a judge without assessors:
+Provided that assessors shall not be appointed unless the court otherwise directs in cases where it is of opinion on satisfactory evidence that the amount of compensation will not exceed two thousand dollars, but in every such case the amount of such compensation unless otherwise expressly directed by the court, shall be determined by a judge without assessors:
 
 Provided also that, if the persons interested in any case elect that the amount of compensation shall be determined and assessed by a judge alone without assessors, it shall be lawful for a judge, irrespective of the amount claimed, to make his award alone.
 
@@ -421,11 +419,9 @@ Provided also that, if the persons interested in any case elect that the amount 
 
 *Powers of the court.*
 
-(6) For the purpose of hearing and disposing of the summons for assessment and for the purpose of the assessment and generally for all purposes of dealing with applications incidental thereto or connected therewith, the
-
 *Ch. 53.*
 
-judge shall exercise all such powers as by the Supreme Court Act may be exercised by him in respect of any action or proceeding at law applicable to the trial of an action for damages.
+(6) For the purpose of hearing and disposing of the summons for assessment and for the purpose of the assessment and generally for all purposes of dealing with applications incidental thereto or connected therewith, the judge shall exercise all such powers as by the Supreme Court Act may be exercised by him in respect of any action or proceeding at law applicable to the trial of an action for damages.
 
 *Enquiry to be held.*
 
@@ -465,11 +461,19 @@ Application of Compensation
 
 *When parties refuse to convey or do not show title or cannot be found purchase money may be paid to Treasurer.*
 
-(b) if the persons interested or any of them in any selected land on tender of the purchase money or compensation either agreed or awarded to be paid in respect of their respective interests refuse to accept the same, or neglect or fail to make out a title to the selected land or to the interest therein claimed by them to the satisfaction of the promoters, or if they or any of them refuse to convey or release such land as directed by the promoters, or if any person interested be absent from The Bahamas, or cannot after diligent enquiry be found, or fail to appear before the magistrate or the court as the case may be, the promoters shall pay the purchase money or compensation payable in respect of the selected land or any such interest therein to the Treasurer and the Treasurer shall carry it to the credit of the person interested in the land, estate or interest, but if the party is not known then to the credit of the promoters in a particular account to remain subject in all such cases to the order, control and disposition of the court.
+*the tion*
 
-*Purchase money under $200 to be paid and distributed on Attorney-General’s certificate. 5 of 1987, s. 2.*
+(b) if the persons interested or any of them in any selected land on tender of the purchase money or compensation either agreed or awarded to be paid in respect of their respective interests refuse to accept the same, or neglect or fail to make out a title to the selected land or to the interest therein claimed by them to the satisfaction of the promoters, or if they or any of them refuse to convey or release such land as directed by the promoters, or if any person interested be absent from The Bahamas, or cannot after diligent enquiry be found, or fail to appear before the magistrate or the court as the case may be, promoters shall pay the purchase money or compensa-payable in respect of the selected land or any such interest therein to the Treasurer and the Treasurer shall carry it to the credit of the person interested in the land, estate or interest, but if the party is not known then to the credit of the promoters in a particular account to remain subject in all such cases to the order, control and disposition of the court.
 
-(2) If any money payable under this Act shall not amount to or exceed the sum of two hundred dollars the same shall be paid to and among the persons interested in such shares and proportions as the Attorney-General shall certify in writing that the same shall be paid. Any payment made by the promoters under such certificate shall absolve the promoters from any further liability for the sum so paid but shall not prejudice the right of any party who shall prove his right or title thereto in a court of competent jurisdiction to recover the same from any person to whom such payment was made or from his legal representative:
+*Purchase money under $200 to be same paid and distributed on such Attorney-General’s certificate. 5 of 1987, s. 2. the*
+
+*such*
+
+(2) If any money payable under this Act shall not amount to or exceed the sum of two hundred dollars the shall be paid to and among the persons interested in shares and proportions as the Attorney-General shall certify in writing that the same shall be paid. Any payment made by the promoters under such certificate shall absolve promoters from any further liability for the sum so paid but shall not prejudice the right of any party who shall prove his right or title thereto in a court of competent jurisdiction to recover the same from any person to whom payment was made or from his legal representative:
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS
 
 Provided that, in the case of the coverture, infancy, idiocy, lunacy or other incapacity of any such party, then such money shall be paid for his or her use to the husband, guardian, committee or trustee of such party.
 
@@ -487,11 +491,9 @@ Provided that, in the case of the coverture, infancy, idiocy, lunacy or other in
 
 *Procedure before court.*
 
-(2) Such money may be so applied as aforesaid upon an order of the court made in a summary way of procedure on the petition of the party who would have been entitled to the rents and profits of the lands in respect of which such money shall have been paid to the Treasurer and until the money can be so applied it may upon the like order be
-
 *5 of 1987, s. 2.*
 
-invested by the Treasurer if it exceeds the sum of one thousand two hundred dollars, in such manner as the court may order, and the interest, dividends and annual proceeds thereof paid to the party who would for the time being have been entitled to the rents and profits of the lands:
+(2) Such money may be so applied as aforesaid upon an order of the court made in a summary way of procedure on the petition of the party who would have been entitled to the rents and profits of the lands in respect of which such money shall have been paid to the Treasurer and until the money can be so applied it may upon the like order be invested by the Treasurer if it exceeds the sum of one thousand two hundred dollars, in such manner as the court may order, and the interest, dividends and annual proceeds thereof paid to the party who would for the time being have been entitled to the rents and profits of the lands:
 
 Provided that, in the case of money paid to the Treasurer in respect of any lease for a life or lives or years or for a life or lives and years or any estate in lands less than the whole fee simple thereof, or of any reversion dependent on any such lease or estate, the court may on the petition of any party interested in such money in a
 
@@ -503,15 +505,11 @@ Possession
 
 *When possession obtainable.*
 
-**18.** (1) Upon payment or tender of all the purchase money or compensation agreed or awarded to be paid and of all costs payable to the persons interested in respect of any selected land purchased or taken by the promoters; or whenever any of the respective cases shall happen wherein the money is herein authorised or directed to be paid to the
-
 *E.L.A.O., 1974*
-
-Treasurer and such payment has been made to him, or, if in the opinion of the Minister it is necessary for a public purpose that possession of the selected land should be obtained by the promoters before such payment or tender, it shall be lawful for the Minister by notice in the Gazette
 
 *34 of 1969, s. 11.*
 
-to declare that the selected land has been appropriated for
+**18.** (1) Upon payment or tender of all the purchase money or compensation agreed or awarded to be paid and of all costs payable to the persons interested in respect of any selected land purchased or taken by the promoters; or whenever any of the respective cases shall happen wherein the money is herein authorised or directed to be paid to the Treasurer and such payment has been made to him, or, if in the opinion of the Minister it is necessary for a public purpose that possession of the selected land should be obtained by the promoters before such payment or tender, it shall be lawful for the Minister by notice in the Gazette to declare that the selected land has been appropriated for
 
 the public purpose mentioned in such notice and thereupon except as hereinafter in this section provided the selected land and the fee simple and inheritance thereof and all the estate, use, trust and interest of all parties therein shall thenceforth become vested in and become the property of the promoters for such public purpose, and the promoters may enter upon and take possession of the same, and in all cases in which delivery of possession shall be refused the magistrate may issue his warrant to any peace officer to enter upon the land the possession of which is refused or withheld and to take possession thereof and to deliver possession to such person as shall in the warrant be nominated to receive the same, being a person in that behalf appointed by the promoters, and such peace officer is hereby authorised and required to take and deliver possession accordingly:
 
@@ -523,11 +521,9 @@ Provided that, if possession of the selected land be taken before such payment o
 
 *10 of 1979, s. 3*
 
-(3) Where the Minister responsible for housing is the promoter for the purposes of paragraph (f) of the definition of the expression “public purposes”, the selected land shall be deemed to be acquired by him pursuant to the
-
 *Ch. 199.*
 
-carrying out by him of his functions under the Housing Act.
+(3) Where the Minister responsible for housing is the promoter for the purposes of paragraph (f) of the definition of the expression “public purposes”, the selected land shall be deemed to be acquired by him pursuant to the carrying out by him of his functions under the Housing Act.
 
 *Land held by Governor-General vests in Treasurer. 34 of 1964, s. 12.*
 
@@ -537,15 +533,11 @@ Leaseholds
 
 *Selected land comprised in lease.*
 
-**20.** (1) If any land shall be comprised in a lease for a term of years unexpired, part only of which land is selected land, the rent payable in respect of the land comprised in such lease shall be apportioned between the selected land
-
 *Apportionment.*
-
-and the unselected land; and such apportionment may be settled by agreement between the lessor and lessee of such land on the one part and the promoters on the other part, and, if such apportionment be not so settled, it shall be settled by the magistrate subject to a right of appeal to the Supreme Court; and after such apportionment the lessee of
 
 *34 of 1964, s. 13.*
 
-the unselected land shall, as to all future accruing rent, be liable only to so much of the rent as shall be so apportioned in respect of the unselected land; and as to the unselected land and as against the lessee, the lessor shall have the same rights and remedies for the recovery of such portion of rent, as previously to such apportionment he has for the recovery of the whole rent reserved by such lease; and all the covenants, conditions and agreements of such lease, except as to the amount of rent to be paid, shall remain in force with regard to the unselected land, in the same manner as they would have done in case such land had been included in the lease.
+**20.** (1) If any land shall be comprised in a lease for a term of years unexpired, part only of which land is selected land, the rent payable in respect of the land comprised in such lease shall be apportioned between the selected land and the unselected land; and such apportionment may be settled by agreement between the lessor and lessee of such land on the one part and the promoters on the other part, and, if such apportionment be not so settled, it shall be settled by the magistrate subject to a right of appeal to the Supreme Court; and after such apportionment the lessee of the unselected land shall, as to all future accruing rent, be liable only to so much of the rent as shall be so apportioned in respect of the unselected land; and as to the unselected land and as against the lessee, the lessor shall have the same rights and remedies for the recovery of such portion of rent, as previously to such apportionment he has for the recovery of the whole rent reserved by such lease; and all the covenants, conditions and agreements of such lease, except as to the amount of rent to be paid, shall remain in force with regard to the unselected land, in the same manner as they would have done in case such land had been included in the lease.
 
 *Lessee entitled to compensation.*
 
@@ -553,11 +545,9 @@ the unselected land shall, as to all future accruing rent, be liable only to so 
 
 *Tenant for a year.*
 
-**21.** If any such land shall be in the possession of any person having no greater interest therein than as a tenant for a year, or from year to year, and if such person be required to give up possession of any land so occupied by him before the expiration of his term or interest therein he shall be entitled to compensation for the value of his unexpired term or interest therein, and for any just allowance which ought to be made to him by the incoming tenant; or for any loss or injury he may sustain, or if a part only of such land be required, compensation for the
-
 *34 of 1964, s. 14.*
 
-damage done to him in his tenancy by severing the land held by him, or otherwise injuriously affecting the same; and the amount of such compensation shall subject to a right of appeal to the Supreme Court be determined by the magistrate in case the parties differ about the same; and
+**21.** If any such land shall be in the possession of any person having no greater interest therein than as a tenant for a year, or from year to year, and if such person be required to give up possession of any land so occupied by him before the expiration of his term or interest therein he shall be entitled to compensation for the value of his unexpired term or interest therein, and for any just allowance which ought to be made to him by the incoming tenant; or for any loss or injury he may sustain, or if a part only of such land be required, compensation for the damage done to him in his tenancy by severing the land held by him, or otherwise injuriously affecting the same; and the amount of such compensation shall subject to a right of appeal to the Supreme Court be determined by the magistrate in case the parties differ about the same; and
 
 upon payment or tender of the amount of such compensation all such persons shall respectively deliver up to the promoters, or the person appointed by them to take possession thereof, any such selected land in their possession.
 
@@ -567,11 +557,9 @@ upon payment or tender of the amount of such compensation all such persons shall
 
 *Wooden house.*
 
-**23.** In all cases in which there is a wooden house standing on but not affixed to the freehold of any selected land and not being the property of the person interested in such land the owner of such house shall be entitled to receive from the promoters by way of compensation a sum to defray the expense of removing such house to any other site, and of repairing any damage caused to such house by its being removed. Any person aggrieved by the amount of
-
 *34 of 1964, s. 15.*
 
-compensation offered under this section may appeal to the Supreme Court whose decision shall be final.
+**23.** In all cases in which there is a wooden house standing on but not affixed to the freehold of any selected land and not being the property of the person interested in such land the owner of such house shall be entitled to receive from the promoters by way of compensation a sum to defray the expense of removing such house to any other site, and of repairing any damage caused to such house by its being removed. Any person aggrieved by the amount of compensation offered under this section may appeal to the Supreme Court whose decision shall be final.
 
 Mortgages
 
@@ -601,11 +589,9 @@ Compensation
 
 *Amount of compensation.*
 
-**28.** In determining the amount of compensation to be awarded under this Act the magistrate or the court sitting with or without assessors, as the case may be, and
-
 *34 of 1964, s. 16.*
 
-any other assessor appointed under the provisions of this Act shall take into consideration the matters mentioned in paragraph (a) of this section and shall not take into consideration the matters mentioned in paragraph (b) of this section —
+**28.** In determining the amount of compensation to be awarded under this Act the magistrate or the court sitting with or without assessors, as the case may be, and any other assessor appointed under the provisions of this Act shall take into consideration the matters mentioned in paragraph (a) of this section and shall not take into consideration the matters mentioned in paragraph (b) of this section —
 
 (a) (i) the market value of the selected land at date of the declaration made under section 6 of this Act;
 
@@ -645,19 +631,15 @@ Provided that any costs under this section shall not include any costs incurred 
 
 (3) The costs (if any) may be recovered as if they were costs incurred in a suit in the court and as if the award were the decree therein.
 
-(4) Subject to the provisions of this Act, in all cases of money paid to the Treasurer under this Act, it shall be lawful for the magistrate or the judge, as the case may be, to order all costs attending the payment of such moneys and of all proceedings relating thereto except such as are
-
 *E.L.A.O., 1974.*
 
-occasioned by litigation between adverse claimants to be borne by the promoters, and all such costs shall be paid by warrant out of the Consolidated Fund in the usual manner.
+(4) Subject to the provisions of this Act, in all cases of money paid to the Treasurer under this Act, it shall be lawful for the magistrate or the judge, as the case may be, to order all costs attending the payment of such moneys and of all proceedings relating thereto except such as are occasioned by litigation between adverse claimants to be borne by the promoters, and all such costs shall be paid by warrant out of the Consolidated Fund in the usual manner.
 
 (5) All reasonable costs, charges and expenses incurred by the persons interested for all conveyances and assurances of any land purchased or acquired and of any outstanding terms or interest therein and of deducing, evidencing and producing title to such land, terms of
 
-interest and of making out such abstracts and attested copies as the promoters may require, and all other reasonable expenses incident to the investigation, deduc-
-
 *E.L.A.O., 1974.*
 
-tion and verification of titles shall be borne by the promoters, and shall be paid out of the Consolidated Fund by warrant in the usual manner.
+interest and of making out such abstracts and attested copies as the promoters may require, and all other reasonable expenses incident to the investigation, deduction and verification of titles shall be borne by the promoters, and shall be paid out of the Consolidated Fund by warrant in the usual manner.
 
 Award
 
@@ -703,11 +685,9 @@ Apportionment
 
 *Magistrate to decide proportions on disagreement.*
 
-**38.** Where the several persons interested are unable to agree on the apportionment of the compensation the magistrate or the court, as the case may be, shall decide the proportions in which the persons interested are entitled:
-
 *34 of 1964, s. 18.*
 
-Provided that in the case of a decision under this section by a magistrate, there shall be a right of appeal to the Supreme Court.
+**38.** Where the several persons interested are unable to agree on the apportionment of the compensation the magistrate or the court, as the case may be, shall decide the proportions in which the persons interested are entitled: Provided that in the case of a decision under this section by a magistrate, there shall be a right of appeal to the Supreme Court.
 
 *Costs of proceedings for apportionment.*
 
@@ -747,11 +727,9 @@ Miscellaneous
 
 **45.** The Governor-General may appoint a person other than a magistrate as defined by this Act to hold any particular inquiry or other proceeding under this Act, and such person shall for the purposes of such inquiry be deemed to be a magistrate as defined by this Act.
 
-**46.** The Governor-General, a Minister or a statutory corporation may appoint any person to execute and do any
-
 *34 of 1964, s.*
 
-act or thing on behalf of such Governor-General, Minister or statutory corporation, as the case may be, for the purposes of this Act.
+**46.** The Governor-General, a Minister or a statutory corporation may appoint any person to execute and do any act or thing on behalf of such Governor-General, Minister or statutory corporation, as the case may be, for the purposes of this Act.
 
 *Unclaimed money to go to Consolidated Fund after 20 years.*
 
@@ -769,16 +747,28 @@ act or thing on behalf of such Governor-General, Minister or statutory corporati
 
 (d) special cases;
 
-(e) court fees and attorneys’ and counsels’ costs 46 of 1964, Sch.; and fees;
+*46 of 1964, Sch.;*
+
+(e) court fees and attorneys’ and counsels’ costs and fees;
 
 (f) prescribing forms of agreements, conveyances and other documents for use under this Act.
 
-**49.** Subject to the provisions of section 48 of this Rules by Act, the Minister may make rules for generally carrying into Minister. effect the objects of this Act. 46 of 1964, Sch.; E.L.A.O., 1974.
+*Rules by Minister. 46 of 1964, Sch.; E.L.A.O., 1974. Claim for compensation when barred.*
 
-**50.** No claim for compensation in respect of any Claim for land which may be entered upon, surveyed, set out, compensation when barred. appropriated or taken under the authority of this Act, shall be admitted or entertained unless the same shall be made within twelve months after the day on which such land shall have been so entered upon, surveyed, set out, appropriated or taken, as the case may be.
+**49.** Subject to the provisions of section 48 of this Act, the Minister may make rules for generally carrying into effect the objects of this Act.
 
-**51.** Nothing in this Act contained shall be construed Act not to extend or deemed to confer upon any person any right to to Crown land resumed for compensation in respect of any land resumed in the name roads, etc. of Her Majesty as required for roads or other public works in pursuance of any condition, reservation or power of resumption contained in any grant of Crown land.
+**50.** No claim for compensation in respect of any land which may be entered upon, surveyed, set out, appropriated or taken under the authority of this Act, shall be admitted or entertained unless the same shall be made within twelve months after the day on which such land shall have been so entered upon, surveyed, set out, appropriated or taken, as the case may be.
 
-**52.** Any person who assaults or beats or obstructs or Offences. aids or abets any person to assault or beat, or obstruct an assessor or any other person acting in the execution of any duty under this Act, shall be liable to a penalty of one 5 of 1987, s. 2. hundred dollars.
+*Act not to extend to Crown land resumed for roads, etc.*
 
-**53.** All penalties imposed by this Act shall be Recovery of recovered in a summary manner before a stipendiary and penalties. circuit magistrate, or before any magistrate to whom the Attorney-General shall issue his fiat for the purpose.
+**51.** Nothing in this Act contained shall be construed or deemed to confer upon any person any right to compensation in respect of any land resumed in the name of Her Majesty as required for roads or other public works in pursuance of any condition, reservation or power of resumption contained in any grant of Crown land.
+
+*Offences.*
+
+*5 of 1987, s. 2.*
+
+**52.** Any person who assaults or beats or obstructs or aids or abets any person to assault or beat, or obstruct an assessor or any other person acting in the execution of any duty under this Act, shall be liable to a penalty of one hundred dollars.
+
+*Recovery of penalties.*
+
+**53.** All penalties imposed by this Act shall be recovered in a summary manner before a stipendiary and circuit magistrate, or before any magistrate to whom the Attorney-General shall issue his fiat for the purpose.

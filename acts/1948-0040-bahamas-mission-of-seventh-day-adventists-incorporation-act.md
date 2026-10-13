@@ -22,11 +22,9 @@ retrieved: 2026-10-13
 
 THE BAHAMAS MISSION OF SEVENTH-DAY ADVENTISTS INCORPORATION Act No. 40 of 1948
 
-### THE BAHAMAS MISSION OF SEVENTH-DAY ADVENTISTS INCORPORATION
-
 *40 of 1948*
 
-An Act to incorporate the president of The Bahamas Mission of Seventh-Day Adventists.
+THE BAHAMAS MISSION OF SEVENTH-DAY ADVENTISTS INCORPORATION An Act to incorporate the president of The Bahamas Mission of Seventh-Day Adventists.
 
 [Assent 17th August, 1948]
 
@@ -56,6 +54,10 @@ An Act to incorporate the president of The Bahamas Mission of Seventh-Day Advent
 
 **5.** No change of the person holding the office of President of the Bahamas Mission of Seventh-day Adven-tists shall affect any real or personal property of any estate or interest therein vested in the President of the Bahamas Mission of Seventh-day Adventists but such property and estate and interest therein shall vest in the succeeding
 
+*THE BAHAMAS*
+
+### STATUTE LAW OF
+
 *IV – 112]*
 
 ### THE BAHAMAS MISSION OF SEVENTH-DAY ADVENTISTS
@@ -77,3 +79,7 @@ President of the Bahamas Mission of Seventh-day Adven-tists in the same way and 
 *Rights of the King and others reserved.*
 
 **9.** Nothing in this Act shall prejudice or affect the rights of His Majesty the King, His Heirs and successors or of any other person or persons except such are mentioned in this Act and those claiming by, from, through or under them.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

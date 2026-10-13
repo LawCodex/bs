@@ -35,11 +35,9 @@ retrieved: 2026-10-13
 
 **7.** Nor where stipulation made to the contrary.
 
-### APPORTIONMENT
-
 *33 & 34 Vict., c. 35 extended by 10 of 1872*
 
-An Act for the better apportionment of rents and other periodical payments.
+APPORTIONMENT An Act for the better apportionment of rents and other periodical payments.
 
 [Commencement 1st August, 1870]
 
@@ -57,11 +55,13 @@ An Act for the better apportionment of rents and other periodical payments.
 
 *Persons shall have the same remedies for recovering apportioned parts as for entire portions.*
 
-**4.** All persons and their respective heirs, executors, administrators, and assigns, and also the executors, administrators, and assigns respectively of persons whose interests determine with their own death, shall have such or the same remedies at law and in equity for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering such entire portions as aforesaid if entitled thereto respectively:
-
 *Proviso as to tents reserved in certain cases.*
 
-Provided that persons liable to pay rents reserved out of or charged on lands or other hereditaments of any tenure, and the same lands or other hereditaments, shall not be resorted to for any such apportioned part forming part of entire or continuing rent as aforesaid specifically,
+**4.** All persons and their respective heirs, executors, administrators, and assigns, and also the executors, administrators, and assigns respectively of persons whose interests determine with their own death, shall have such or the same remedies at law and in equity for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering such entire portions as aforesaid if entitled thereto respectively: Provided that persons liable to pay rents reserved out of or charged on lands or other hereditaments of any tenure, and the same lands or other hereditaments, shall not be resorted to for any such apportioned part forming part of entire or continuing rent as aforesaid specifically,
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF
 
 *CH.168 – 4]*
 
@@ -82,3 +82,7 @@ The word “rents” includes rent service, rentcharge, and rent seck, and also 
 *Nor where stipulation made to the contrary.*
 
 **7.** The provisions of this Act shall not extend to any case in which it is or shall be expressly stipulated that no apportionment shall take place.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS

@@ -164,7 +164,9 @@ retrieved: 2026-10-13
 
 *19 of 2010 24 of 2011 S.I. 91/2011*
 
-An Act to repeal and replace the Dog Licence Act; to repeal certain provisions of the Penal Code in connection with the control and regulations of dogs, cattle and other animals, pounds, injuries and cruelty to animals and to provide for connected matters.
+*cattle to*
+
+An Act to repeal and replace the Dog Licence Act; to repeal certain provisions of the Penal Code in connection with the control and regulations of dogs, and other animals, pounds, injuries and cruelty animals and to provide for connected matters.
 
 [Assent 1st July, 2010]
 
@@ -176,11 +178,15 @@ An Act to repeal and replace the Dog Licence Act; to repeal certain provisions o
 
 *Short title .*
 
-**1.** This Act may be cited as the Animal Protection and Control Act.
+*and*
+
+**1.** This Act may be cited as the Animal Protection Control Act.
 
 *Interpretation.*
 
-**2.** In this Act —
+In this Act —
+
+2.
 
 “abandon” means to forsake an animal, whether permanently or not, or to neglect or refuse to provide adequate care or support of an animal by its owner or custodian;
 
@@ -198,7 +204,9 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 “assistance dog” means any dog that is individually trained to do work or perform tasks for the benefit of an individual with disabilities, including physical, sensory, psychiatric, intellectual, or other mental disabilities;
 
-“at large” refers to an animal not confined in the premises, vehicle or receptacle of the owner or keeper and not under the immediate, effective and continuous control of a responsible and competent person or, in the case of horses or dogs, not tethered by means of a leash, cord or chain;
+“at
+
+large” refers to an animal not confined in the premises, vehicle or receptacle of the owner or keeper and not under the immediate, effective and continuous control of a responsible and competent person or, in the case of horses or dogs, not tethered by means of a leash, cord or chain;
 
 “boarding kennel” means premises of any nature, including a dwelling, where any dogs, cats or other pet animals are boarded;
 
@@ -270,17 +278,25 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 “stables” means any premises where horses used for hire or reward, are kept; and
 
-“the Board” means the Animals Protection and Control Board established under section 3.
+“the
+
+Board” means the Animals Protection and Control Board established under section 3.
 
 ## PART II ESTABLISHMENT OF ANIMAL PROTECTION AND CONTROL BOARD AND COMPETENT AUTHORITY
 
-*Establishment of Animal Protection and Control Board.*
+*Establishment of Animal*
 
-**3.** (1) There is established for the purposes of this Act a board to be called the Animal Protection and Control Board.
+*Act*
+
+*Protection and Control Board.*
+
+**3.** (1) There is established for the purposes of this a board to be called the Animal Protection and Control Board.
 
 *First Schedule.*
 
-(2) The First Schedule shall have effect in relation to the constitution and proceedings of the Board.
+*to*
+
+(2) The First Schedule shall have effect in relation the constitution and proceedings of the Board.
 
 (3) The duties and functions of the Board are to —
 
@@ -308,7 +324,9 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 (5) The Board shall publish the code, and any revision of it, in such manner as it considers appropriate.
 
-(6) A person’s failure to comply with a provision of a code of practice issued under this section shall not of itself render him liable to proceedings of any kind.
+*a*
+
+(6) A person’s failure to comply with a provision of code of practice issued under this section shall not of itself render him liable to proceedings of any kind.
 
 (7) In any proceedings against a person for an offence tinder this Act —
 
@@ -346,7 +364,9 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 **5.** (1) The Minister may appoint such public officers and private persons as he thinks fit to be animal control wardens for the purpose of carrying out the provisions of this Act.
 
-(2) Subject to subsections (3) and (4), an animal control warden may, for the purpose of exercising any of his powers, enter any land, vehicle or vessel, or arty premises other than a dwelling house —
+*control his premises*
+
+(2) Subject to subsections (3) and (4), an animal warden may, for the purpose of exercising any of powers, enter any land, vehicle or vessel, or arty other than a dwelling house —
 
 (a) on or in which he has reasonable cause to believe a breach of this Act is about to be, is being, or has been, committed.
 
@@ -354,13 +374,15 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 (c) in the course of carrying out his duties.
 
-(3) Subject to subsection (4), an animal control warden shall, before entering any land, premises, vehicle or vessel produce, if so requested, to the occupier or person in charge his badge or document showing he is an animal control warden.
+*warden vessel charge control*
 
-(4) An animal control warden shall have the power to do all, or any, of the following things for the purpose of the execution of this Act —
+(3) Subject to subsection (4), an animal control shall, before entering any land, premises, vehicle or produce, if so requested, to the occupier or person in his badge or document showing he is an animal warden.
 
-(a) if he considers it necessary, take with him when entering any land, premises, vehicles or vessel, a police officer, veterinarian, public health officer or any member of a society or association special ising in animal welfare and control;
+*to do all, the*
 
-(b) require the production of, or seize, inspect and copy, registers, records or other documents kept for the purpose of, or required to be kept by, this Act;
+(4) An animal control warden shall have the power or any, of the following things for the purpose of execution of this Act —
+
+(a) if he considers it necessary, take with him when entering any land, premises, vehicles or vessel, a police officer, veterinarian, public health officer or any member of a society or association special ising in animal welfare and control; (b) require the production of, or seize, inspect and copy, registers, records or other documents kept for the purpose of, or required to be kept by, this Act;
 
 (c) make inspections, investigations and inquires as may be necessary to ascertain whether this Act is being complied with;
 
@@ -380,7 +402,9 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 *Ownership of dogs and dog licensing.*
 
-**6.** (1) Subject to this section, a person shall not own or keep a dog unless that person —
+**6.** (1) Subject to this section, a person shall not or keep a dog unless that person —
+
+own
 
 (a) is 18 years of age or older; and
 
@@ -396,7 +420,9 @@ For the Island of New Providence. NOTE: Different dates may be appointed for the
 
 (b) the dog is moved permanently overseas by the owner or by a new owner overseas.
 
-(5) A person who imports a dog into The Bahamas need not hold a licence for the dog if —
+(5) A person who imports a dog into The Bahamas not hold a licence for the dog if —
+
+need
 
 (a) before the dog is imported, the Director is satisfied that the dog will be exported from The Bahamas within the period of 28 days from the date of its importation; and
 
@@ -560,11 +586,9 @@ be recovered on account of its destruction and the owner shall pay for any medic
 
 **13.** (1) Where the Competent Authority refuses to grant a certificate of inspection, or to renew a certificate of inspection upon the expiry of a provisional certificate of inspection, it shall, within thirty days of its decision, notify the applicant in writing of it’s decision and state the reasons for it’s refusal.
 
-(2) An applicant for the grant or renewal of a certificate of inspection who is aggrieved by the decision of the Competent Authority may, within thirty days of the decision being communicated to him, appeal to the
-
 *Ch. 54.*
 
-Supreme Court against the decision and the Magistrates Act shall apply mutatis mutandis to such appeal as if the decision of the Competent Authority were that of a magistrate.
+(2) An applicant for the grant or renewal of a certificate of inspection who is aggrieved by the decision of the Competent Authority may, within thirty days of the decision being communicated to him, appeal to the Supreme Court against the decision and the Magistrates Act shall apply mutatis mutandis to such appeal as if the decision of the Competent Authority were that of a magistrate.
 
 *Register, duplicates and production of certificate of inspection.*
 
@@ -614,23 +638,19 @@ officer, or any other authorised person when requested to do so.
 
 (ii) any other person authorised by the Competent Authority who provides a written recommendation to the Competent Authority;
 
-(b) he has obtained a public liability insurance in the prescribed minimum amount purchased from an insurance office approved in The Bahamas and has deposited a copy of such certificate of insurance with the Competent Authority;
+(b) he has obtained a public liability insurance in the prescribed minimum amount purchased from an insurance office approved in The Bahamas and has deposited a copy of such certificate of insurance with the Competent Authority; (c) all dogs in his kennels are vaccinated and are on a health maintenance programme under the supervision of a veterinarian in accordance with the prescribed regulations;
 
-(c) all dogs in his kennels are vaccinated and are on a health maintenance programme under the supervision of a veterinarian in accordance with the prescribed regulations;
+(d) all dogs in his kennels and every dog owned, maintained and used by the guard dog facility is permanently identified by having a microchip implanted beneath its skin by a veterinarian; (e) all dog handlers employed by him are trained in accordance with the prescribed standards; and (f) the applicant has not been convicted of cruelty or abuse toward an animal.
 
-(d) all dogs in his kennels and every dog owned, maintained and used by the guard dog facility is permanently identified by having a microchip implanted beneath its skin by a veterinarian;
+*Warning signs. shall entrance*
 
-(e) all dog handlers employed by him are trained in accordance with the prescribed standards; and
-
-(f) the applicant has not been convicted of cruelty or abuse toward an animal.
-
-*Warning signs.*
-
-**20.** The owner or operator of a guard dog facility shall display a clear and legible warning sign at each entrance to any premises where his dogs are kept.
+**20.** The owner or operator of a guard dog facility display a clear and legible warning sign at each to any premises where his dogs are kept.
 
 *Records.*
 
-**21.** (1) A certificated person in respect of a guard dog facility shall keep accurate records of each dog relating to the following —
+*dog to the*
+
+**21.** (1) A certificated person in respect of a guard facility shall keep accurate records of each dog relating following —
 
 (a) birth;
 
@@ -786,7 +806,9 @@ confirming the implanting of the microchip and stating its number;
 
 (c) repeatedly soils, with urine or faeces, property of, or under the care of, another person without that other person’s consent.
 
-(2) The fact that frequent barking or howling occurs at the premises to the annoyance of one or more persons in the neighbourhood is evidence of an offence against subsection (1)(a).
+*at the*
+
+(2) The fact that frequent barking or howling occurs the premises to the annoyance of one or more persons in neighbourhood is evidence of an offence against subsection (1)(a).
 
 (3) No person shall permit a dog to be taken into a public place unless the dog is —
 
@@ -794,9 +816,13 @@ confirming the implanting of the microchip and stating its number;
 
 (b) in an area designated by the Director by way of an order published in the Gazette as an area where dogs are allowed to be off leash.
 
-(4) Any person who takes a dog into a public place in contravention of subsection (1) commits an offence.
+*in*
 
-(5) No owner or person for the time being in charge of a dog shall allow it to be dangerously out of control in a public place.
+(4) Any person who takes a dog into a public place contravention of subsection (1) commits an offence.
+
+*of a*
+
+(5) No owner or person for the time being in charge dog shall allow it to be dangerously out of control in a public place.
 
 (6) The owner or the person for the time being in charge of a dog that is dangerously out of control in a public place commits an offence.
 
@@ -868,7 +894,9 @@ procedure has been performed and specifying the —
 
 (b) to obtain a public liability insurance in the minimum amount prescribed and purchased from an insurance office approved in The Bahamas, and to deposit a copy of such certificate of insurance with the Competent Authority.
 
-(2) An order under this section may be conditional upon compliance with such requirements as are specified in the order.
+*in*
+
+(2) An order under this section may be conditional upon compliance with such requirements as are specified the order.
 
 (3) In determining whether to make an order under this section in relation to any dangerous dog or animal, the Director shall consult the Board.
 
@@ -944,7 +972,9 @@ procedure has been performed and specifying the —
 
 **34.** (1) A certificated person in respect of a breeding kennel shall ensure that every dog used for breeding and every dog bred or sold by the breeding kennel is permanently identified by having a microchip inserted beneath its skin by a veterinarian.
 
-(2) A person must not remove or otherwise interfere with a microchip that is implanted beneath the skin of an animal unless —
+*with*
+
+(2) A person must not remove or otherwise interfere a microchip that is implanted beneath the skin of an animal unless —
 
 (a) the person is a veterinarian; and
 
@@ -970,7 +1000,9 @@ procedure has been performed and specifying the —
 
 *Regulations.*
 
-**36.** The Minister may make regulations for the purpose of prescribing anything required or permitted by this Act to be prescribed and, without prejudice to the generality of the foregoing, shall make provision by regulation for the —
+*this*
+
+**36.** The Minister may make regulations for the purpose of prescribing anything required or permitted by Act to be prescribed and, without prejudice to the generality of the foregoing, shall make provision by regulation for the —
 
 (a) controlling the method of transportation of any animal in any road vehicle, water-craft or aircraft;
 
@@ -978,9 +1010,7 @@ procedure has been performed and specifying the —
 
 (c) establishing standards for housing and care of animals kept in any other place;
 
-(d) prescribing the procedure for the granting of certificates of inspection and setting of fees;
-
-(e) prescribing the form of certificate of inspection in respect of guard dog facilities and animal holding establishments;
+(d) prescribing the procedure for the granting of certificates of inspection and setting of fees; (e) prescribing the form of certificate of inspection in respect of guard dog facilities and animal holding establishments;
 
 (f) establishing standards and certificates for the training of animal trainers and handlers including dog handlers employed by a guard dog facility;
 
@@ -998,17 +1028,15 @@ procedure has been performed and specifying the —
 
 (m) for the creation and regulation of special areas for animals:
 
-(n) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its administration; and
-
-(o) prescribing the form of ticket for the purposes of this Act.
+(n) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its administration; and (o) prescribing the form of ticket for the purposes of this Act.
 
 *Authorisation of ticketing.*
 
-**37.** Without prejudice to the procedure set out in the Magistrates Act for the laying of information and for
+*issuing a*
 
 *Ch 54.*
 
-issuing a summons, an information may be laid and a
+**37.** Without prejudice to the procedure set out in the Magistrates Act for the laying of information and for summons, an information may be laid and a
 
 *Second Schedule.*
 
@@ -1018,11 +1046,9 @@ summons issued for offences specified in the Second Schedule by means of a ticke
 
 **38.** (1) A ticket shall, subject to this Act, be in the form prescribed in regulations made under section 36 and shall consist of three parts, an information, a summons and a record of conviction.
 
-(2) The use on a ticket of any word or expression in
-
 *Second Schedule.*
 
-the Second Schedule describing the offence, or any word or expression substantially to the same effect, in relation to an offence under this Act is sufficient for all purposes in connection with proceedings for that offence to describe the offence.
+(2) The use on a ticket of any word or expression in the Second Schedule describing the offence, or any word or expression substantially to the same effect, in relation to an offence under this Act is sufficient for all purposes in connection with proceedings for that offence to describe the offence.
 
 *Issue of ticket.*
 
@@ -1060,11 +1086,9 @@ Signature of Defendant
 
 (5) The court shall formally convict the person charged with an offence under this Act specified in the summons and no further penalty may be imposed in respect of the offence.
 
-(6) If a person charged with an offence under this Act does not plead guilty to the offence and pay the penalty specified in the summons, the person shall appear at the time and place specified in the summons for the hearing of the charge, and if they fail to appear, the court may proceed
-
 *Ch. 91.*
 
-in accordance with section 67 of the Criminal Procedure Code Act.
+(6) If a person charged with an offence under this Act does not plead guilty to the offence and pay the penalty specified in the summons, the person shall appear at the time and place specified in the summons for the hearing of the charge, and if they fail to appear, the court may proceed in accordance with section 67 of the Criminal Procedure Code Act.
 
 *Information.*
 
@@ -1092,11 +1116,9 @@ in accordance with section 67 of the Criminal Procedure Code Act.
 
 *Amendment of Schedules.*
 
-**45.** (1) The Minister may make regulations to amend any Schedule, including adding or deleting offences or changing the amounts of penalties specified for offences
-
 *Second Schedule.*
 
-in the Second Schedule.
+**45.** (1) The Minister may make regulations to amend any Schedule, including adding or deleting offences or changing the amounts of penalties specified for offences in the Second Schedule.
 
 (2) An amount specified by the regulations as the penalty for an offence shall not exceed the maximum amount, or be less than any minimum amount, established for the offence by the enactment that creates the offence.
 
@@ -1254,7 +1276,9 @@ The Board shall consist of twelve members appointed by the Minister of whom —
 
 **2.** Tenure of office.
 
-A member of the Board, other than the Director, shall hold office for a period not exceeding three years and shall be eligible for reappointment.
+*for*
+
+A member of the Board, other than the Director, shall hold office for a period not exceeding three years and shall be eligible reappointment.
 
 **3.** Chairman.
 
@@ -1324,15 +1348,15 @@ No member of the Board shall be personally liable for any act or default of the 
 
 The next page is 43
 
-## SECOND SCHEDULE (Section 37) OFFENCES AND PENALTIES
+*37)*
+
+## SECOND SCHEDULE (Section OFFENCES AND PENALTIES
 
 *PENALTY*
 
-### DESCRIPTION OF OFFENCE PROVISION OF LAW
-
 *$250.00 $50.00*
 
-Unlicensed dog Section 6(1), (2) Failing to notify Director (where dog dies or is Section 6(3), (4) transferred or moved permanently overseas)
+DESCRIPTION OF OFFENCE PROVISION OF LAW Unlicensed dog Section 6(1), (2) Failing to notify Director (where dog dies or is Section 6(3), (4) transferred or moved permanently overseas)
 
 *$50.00 $500.00*
 
@@ -1340,11 +1364,9 @@ Section 8(1) Dog without a collar and identification tag Keeping a female dog so
 
 *$500.00*
 
-Upon receiving notification, owner who j fails to Section 10 prevent animal from being a public nuisance
-
 *$250,00 $1,000.00*
 
-At large or roaming Sections 10 and Failure to have certificate of inspection where 23 Sections 17 and required (guard dog facility or animal holding 32 establishment)
+Upon receiving notification, owner who j fails to Section 10 prevent animal from being a public nuisance At large or roaming Sections 10 and Failure to have certificate of inspection where 23 Sections 17 and required (guard dog facility or animal holding 32 establishment)
 
 *$50.00 $50.00*
 

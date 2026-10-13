@@ -30,7 +30,9 @@ Section
 
 No. 36 of 2025 APPROPRIATION (REVENUE ACCOUNT EXPENSES) (2025/2026) ACT, 2025
 
-AN ACT FOR THE APPROPRIATION OF DIVERS SUMS OF MONEY FOR AND TOWARDS DEFRAYING THE EXPENSES OF THE GOVERNMENT OF THE COMMONWEALTH OF THE BAHAMAS ON REVENUE ACCOUNT FOR THE FINANCIAL YEAR COMMENCING 1ST JULY, 2025 AND ENDING 30TH JUNE, 2026
+*AN*
+
+ACT FOR THE APPROPRIATION OF DIVERS SUMS OF MONEY FOR AND TOWARDS DEFRAYING THE EXPENSES OF THE GOVERNMENT OF THE COMMONWEALTH OF THE BAHAMAS ON REVENUE ACCOUNT FOR THE FINANCIAL YEAR COMMENCING 1ST JULY, 2025 AND ENDING 30TH JUNE, 2026
 
 [Date of Assent 27 th June, 2025] Enacted by the Parliament of The Bahamas Enacted by the Parliament of The Bahamas
 
@@ -47,6 +49,8 @@ There may be paid out of the Treasury upon the authority of a warrant under the 
 Head of Expenditure Sum Granted $
 
 **1.** Governor General and Staff 2,001,499 The Senate
+
+*Page -*
 
 ### ACT, 2025 (REVENUE ACCOUNT EXPENSES)
 
@@ -68,11 +72,9 @@ Department of the Auditor-General Ministry of The Public Service
 
 **7.** Office of the Attorney-General and Ministry of
 
-**7.** Legal Office Affairs of the Attorney-General and Ministry of
-
 *1,796,670 1,796,670*
 
-Legal Affairs
+**7.** Legal Office Affairs of the Attorney-General and Ministry of Legal Affairs
 
 **8.** Office of The Judiciary
 

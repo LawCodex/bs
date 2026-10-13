@@ -45,6 +45,41 @@ def pdf_ok(path):
     return subprocess.run(["pdfinfo", path], capture_output=True).returncode == 0
 
 
+def download(url, path):
+    """Stream to path.part, resuming with HTTP Range after broken connections."""
+    part = path + ".part"
+    total = None
+    for attempt in range(8):
+        have = os.path.getsize(part) if os.path.exists(part) else 0
+        headers = {"Range": f"bytes={have}-"} if have else {}
+        try:
+            with s.get(url, headers=headers, stream=True, timeout=300) as r:
+                if r.status_code == 200:
+                    have = 0
+                    total = int(r.headers.get("content-length", 0)) or None
+                    mode = "wb"
+                elif r.status_code == 206:
+                    m = re.search(r"/(\d+)$", r.headers.get("content-range", ""))
+                    total = int(m.group(1)) if m else total
+                    mode = "ab"
+                elif r.status_code == 416:
+                    break
+                else:
+                    return r.status_code
+                with open(part, mode) as f:
+                    for chunk in r.iter_content(1 << 16):
+                        f.write(chunk)
+            if total is None or os.path.getsize(part) >= total:
+                break
+        except requests.RequestException as e:
+            print("  resume", url, e, file=sys.stderr, flush=True)
+            time.sleep(10 * (attempt + 1))
+    if os.path.exists(part) and (total is None or os.path.getsize(part) == total):
+        os.replace(part, path)
+        return 200
+    return -1
+
+
 def popover(td):
     d = td.find(attrs={"data-bs-content": True}) if td else None
     return d["data-bs-content"] if d else ""
@@ -95,12 +130,8 @@ def main():
         p = os.path.join(RAW, "pdf", fn)
         if pdf_ok(p):
             continue
-        r = req("GET", BASE + it["href"])
-        if r.status_code == 200 and r.content[:5] == b"%PDF-":
-            cl = r.headers.get("content-length")
-            if not cl or int(cl) == len(r.content):
-                open(p, "wb").write(r.content)
-        print(n, fn, pdf_ok(p), r.status_code, flush=True)
+        code = download(BASE + it["href"], p)
+        print(n, fn, pdf_ok(p), code, flush=True)
         time.sleep(DELAY)
 
 

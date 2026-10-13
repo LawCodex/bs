@@ -45,3 +45,7 @@ An Act to amend the Acquisition of Land Act and to implement an agreement made b
 *Governor in Council may grant lease.*
 
 **4.** The Governor in Council, or such person as the Governor in Council shall appoint, may grant a lease of land acquired under the authority of this Act and of the Acquisition of Land Act for the purpose of implementing the agreement referred to in section 2 of this Act.
+
+*THE BAHAMAS*
+
+### STATUTE LAW OF

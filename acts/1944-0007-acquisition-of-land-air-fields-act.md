@@ -42,11 +42,9 @@ An Act to make provision for the acquisition of certain lands for the constructi
 
 *Compensation, etc., for lands acquired. 32 of 1954, s. 2*
 
-**4.** Notwithstanding the provisions of section 37 of the principal Act if the Governor in Council is satisfied that compensation for the acquisition of the lands described in the fourth paragraph of the Schedule to this Act has been or will be paid out of funds provided by the Parliament of
-
 *6 of 1957, s. 2 7 & 8 Geo. 5. c.*
 
-the United Kingdom, the Air Council established under the authority of the Air Force (Constitution) Act 1917, enacted by the Parliament of the United Kingdom, may
+**4.** Notwithstanding the provisions of section 37 of the principal Act if the Governor in Council is satisfied that compensation for the acquisition of the lands described in the fourth paragraph of the Schedule to this Act has been or will be paid out of funds provided by the Parliament of the United Kingdom, the Air Council established under the authority of the Air Force (Constitution) Act 1917, enacted by the Parliament of the United Kingdom, may
 
 **51.** request the Governor in Council to convey such lands in fee simple to any person authorised by law to hold such lands on behalf of the Air Council, and it shall be lawful for the Governor in Council to convey such lands accordingly.
 
@@ -61,6 +59,10 @@ All that area situate in the Western District of the Island of New Providence, t
 All that tract of land containing about 2,070 acres and situate about one-half (½) mile south of the 9th Mile Post on West Bay Street in the Western District of the Island of New Providence beginning at an iron pipe, marking the southeast corner of a tract of land owned by G. R. B. Baxter and known as Orange Hill, thence 2,310.90 feet along the north-western edge of a locally called Burma Road to a point, thence.
 
 S 5° 03’ 00”..........................................................E467.90 feet S 1° 34’ 00”........................................................E1558.10 feet S 34° 53’ 00”.......................................................W750.55 feet to a post planted in the water of Lake Killarney, thence, S 3° 35’ 00”...................................................... W5650.00 feet
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 S 81° 55’ 00”......................................................E1602.35 feet to another post planted in the water of Lake Killarney, thence, S 44° 40’ 30”.....................................................W4066.30 feet N 45° 19’ 30” ....................................................W2229.49 feet S 89° 39’ 30”.....................................................W7508.81 feet N 9° 02’ 00” ......................................................W2315.20 feet N 28° 30’ 00” .....................................................E1253.47 feet N 50° 0’ 00” .......................................................E3471.58 feet N 51° 30’ 45” ............................................................E565 feet N 68° 17’ 45” .....................................................E2822.75 feet N 87° 39’ 30” ....................................................W4866.84 feet N 7° 09’ 30” .......................................................E1205.40 feet N 87° 30’ 00” .......................................................E848.40 feet S 5° 28’ 20”.............................................................E1200 feet to the point of beginning.
 

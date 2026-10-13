@@ -107,11 +107,11 @@ B: Operational Powers
 
 ## SCHEDULE.
 
-### BAHAMAS DEVELOPMENT BANK
-
 *18 of 1974 14 of 1989 46 of 1999*
 
-An Act to provide for the establishment of a financial institution to be known as The Bahamas Development Bank, for the functions of the institution and for matters connected therewith or incidental thereto.
+*for*
+
+BAHAMAS DEVELOPMENT BANK An Act to provide for the establishment of a financial institution to be known as The Bahamas Development Bank, the functions of the institution and for matters connected therewith or incidental thereto.
 
 [Assent 18th October, 1974]
 
@@ -201,19 +201,15 @@ Provided that the period beginning on the date of the commencement of this Act a
 
 (a) to promote industrial, agricultural and commercial development in The Bahamas through the financing of, or the investing in, approved enterprises;
 
-(b) to encourage the participation in approved enterprises by citizens of The Bahamas; and
+(b) to encourage the participation in approved enterprises by citizens of The Bahamas; and (c) generally to promote and enhance the economic development of The Bahamas.
 
-(c) generally to promote and enhance the economic development of The Bahamas.
+*General powers shall of Bank.*
 
-*General powers of Bank.*
+*of any to incidental without*
 
-**5.** Subject to the provisions of this Act, the Bank shall have power to do anything or to enter into any transaction whether or not involving expenditure, making or guaranteeing of loans or investing of money, the acquisition of any property or rights, which in its opinion is calculated to facilitate the proper discharge of its functions or is incidental or conducive thereto, and, in particular, but without limiting the generality of the foregoing, may —
+**5.** Subject to the provisions of this Act, the Bank have power to do anything or to enter into any transaction whether or not involving expenditure, making or guaranteeing of loans or investing of money, the acquisition property or rights, which in its opinion is calculated facilitate the proper discharge of its functions or is or conducive thereto, and, in particular, but limiting the generality of the foregoing, may — (a) provide finance in the form of loans, long, medium or short term, or by the purchase of securities or by participating in any share issue of any approved enterprise;
 
-(a) provide finance in the form of loans, long, medium or short term, or by the purchase of securities or by participating in any share issue of any approved enterprise;
-
-(b) obtain funds from international agencies, financial agencies of the governments of countries outside The Bahamas, banks, other financial institutions or the public for the purpose of re-lending such funds within The Bahamas;
-
-(c) invest moneys standing to the credit of the Bank by ways of loans, the purchase of securities, participation in any share issue of any approved enterprise or in such other manner as the Bank may from time to time think proper.
+(b) obtain funds from international agencies, financial agencies of the governments of countries outside The Bahamas, banks, other financial institutions or the public for the purpose of re-lending such funds within The Bahamas; (c) invest moneys standing to the credit of the Bank by ways of loans, the purchase of securities, participation in any share issue of any approved enterprise or in such other manner as the Bank may from time to time think proper.
 
 (d) guarantee loans from other investment sources to persons wishing to establish or modernise any approved enterprise;
 
@@ -445,37 +441,35 @@ institutions approved by the Minister under subsection (2) of section 14 and suc
 
 *Power to appoint a receiver, etc. Ch. 138.*
 
-**29.** (1) Notwithstanding that a loan granted by the Bank may not have been secured by a mortgage within the meaning of the Conveyancing and Law of Property Act, the Bank may, if a borrower defaults in respect of a loan made by the Bank, appoint a receiver in respect of the business in connection with which the loan was made, and a receiver so appointed shall have the same powers mutatis mutandis as a receiver appointed pursuant to the power
-
 *Ch. 138.*
 
-conferred on a mortgagee by section 21 of the Conveyancing and Law of Property Act.
+**29.** (1) Notwithstanding that a loan granted by the Bank may not have been secured by a mortgage within the meaning of the Conveyancing and Law of Property Act, the Bank may, if a borrower defaults in respect of a loan made by the Bank, appoint a receiver in respect of the business in connection with which the loan was made, and a receiver so appointed shall have the same powers mutatis mutandis as a receiver appointed pursuant to the power conferred on a mortgagee by section 21 of the Conveyancing and Law of Property Act.
 
 *Ch. 138.*
 
 (2) A person appointed by the Bank to be a receiver pursuant either to the power conferred on a mortgagee by section 21 of the Conveyancing and Law of Property Act
 
-or to the power conferred on the Bank by subsection (1), shall, if the Bank so appoint, be also the manager of the business in respect of which the loan was made and the effect of such an appointment shall be the same as if the person so appointed had been appointed by the Supreme Court to be the receiver and manager of such business.
+*or to the shall, if business effect of person so Court to*
 
-(3) No person appointed by the Bank to be a receiver or a receiver and manager under this section shall be deemed to be an officer of the Court.
+*or a deemed*
+
+power conferred on the Bank by subsection (1), the Bank so appoint, be also the manager of the in respect of which the loan was made and the such an appointment shall be the same as if the appointed had been appointed by the Supreme be the receiver and manager of such business. (3) No person appointed by the Bank to be a receiver receiver and manager under this section shall be to be an officer of the Court.
 
 *Offences in respect of loans.*
 
 **30.** Any person who —
 
-(a) obtains a loan or other financial assistance from the Bank by means of any false representation;
+(a) obtains a loan or other financial assistance from the Bank by means of any false representation; (b) wilfully applies any loan made to him by the Bank or guaranteed by the Bank under the provisions of this Act to any purpose other than the purpose for which the loan was made; (c) having obtained a loan from the Bank or the guarantee by the Bank of a loan under the provisions of this Act, wilfully destroys any security given in relation to any loan or guarantee,
 
-(b) wilfully applies any loan made to him by the Bank or guaranteed by the Bank under the provisions of this Act to any purpose other than the purpose for which the loan was made;
+*shall be summary five*
 
-(c) having obtained a loan from the Bank or the guarantee by the Bank of a loan under the provisions of this Act, wilfully destroys any security given in relation to any loan or guarantee,
-
-shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding one thousand five hundred dollars, or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
+guilty of an offence and shall be liable on conviction to a fine not exceeding one thousand hundred dollars, or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
 
 ## PART V MISCELLANEOUS
 
-*Power to delegate.*
+*Power to delegate. may —*
 
-**31.** Subject to the provisions of this Act, the Bank may —
+**31.** Subject to the provisions of this Act, the Bank
 
 (a) delegate to any director or to the managing director or any other officer of the Bank the power to carry out on behalf of the Bank such duties as the Bank may determine;
 

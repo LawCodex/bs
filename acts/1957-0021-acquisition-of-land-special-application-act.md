@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 Act No. 21 of 1957
 
-### ACQUISITION OF LAND (SPECIAL APPLICATION)
-
 *21 of 1957 29 of 1962 34 of 1964 43 of 1964*
 
-An act to apply the provisions of the Acquisition of Land Act for the purposes of agreements made between the Governments of the United Kingdom of Great Britain and Northern Ireland and the United States of America concerning a long range proving ground for guided missiles, oceanographic research stations and for the purposes of other agreements which may be made between the said Governments.
+ACQUISITION OF LAND (SPECIAL APPLICATION) An act to apply the provisions of the Acquisition of Land Act for the purposes of agreements made between the Governments of the United Kingdom of Great Britain and Northern Ireland and the United States of America concerning a long range proving ground for guided missiles, oceanographic research stations and for the purposes of other agreements which may be made between the said Governments.
 
 [Commencement 15th July, 1957] WHEREAS with the concurrence of the Government of the Bahama Islands an Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland concerning the establishment in the Bahama Islands of a Long Range Proving Ground for guided missiles was concluded in Washington on the Twenty-first day of July, 1950.
 
@@ -58,11 +56,13 @@ and WHEREAS It is desirable and expedient that the provisions of The Acquisition
 
 *Power of Treasurer to convey or lease land acquired for an undertaking. Ch. 23.*
 
-**5.** Notwithstanding the provisions of section 6(3) of the Ministry of Finance Act, on the request of one of Her Majesty’s Principal Secretaries of State, the Treasurer may, under his hand and seal, convey or lease any land which has been acquired for an undertaking to any person authorized by the law of the United Kingdom of Great Britain and Northern Ireland to hold land on behalf of Her Majesty, and every such person shall have power to hold and dispose of land or any interest in land in The
-
 *34 of 1964, s. 25.*
 
-Bahamas.
+**5.** Notwithstanding the provisions of section 6(3) of the Ministry of Finance Act, on the request of one of Her Majesty’s Principal Secretaries of State, the Treasurer may, under his hand and seal, convey or lease any land which has been acquired for an undertaking to any person authorized by the law of the United Kingdom of Great Britain and Northern Ireland to hold land on behalf of Her Majesty, and every such person shall have power to hold and dispose of land or any interest in land in The Bahamas.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 *Treasurer empowered to advance funds for payment of compensation.*
 
@@ -70,8 +70,6 @@ Bahamas.
 
 *New undertakings.*
 
-**7.** In the event of the Government of the United Kingdom of Great Britain and Northern Ireland, with the concurrence of the Government of the Bahama Islands entering or proposing to enter into any new Agreement with the Government of the United States of America under which the Government of the United States of America is given or will be given facilities in the Bahama
-
 *43 of 1964, Third Sch.*
 
-Islands similar to those provided for the Long Range Proving Ground for guided missiles and for Oceanographic Research Stations, the Governor may, with the prior approval of both Houses of the Legislature signified by resolution thereof, by Order declare that the purposes of any such Agreement shall be an undertaking within the meaning of this Act.
+**7.** In the event of the Government of the United Kingdom of Great Britain and Northern Ireland, with the concurrence of the Government of the Bahama Islands entering or proposing to enter into any new Agreement with the Government of the United States of America under which the Government of the United States of America is given or will be given facilities in the Bahama Islands similar to those provided for the Long Range Proving Ground for guided missiles and for Oceanographic Research Stations, the Governor may, with the prior approval of both Houses of the Legislature signified by resolution thereof, by Order declare that the purposes of any such Agreement shall be an undertaking within the meaning of this Act.

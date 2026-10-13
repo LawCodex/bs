@@ -18,11 +18,9 @@ retrieved: 2026-10-13
 
 Act No. 8 of 2011
 
-### ATLANTIC CARIBBEAN UNION OF SEVENTH-DAY ADVENTISTS INCORPORATION
-
 *8 of 2011 23 of 2011*
 
-An Act to incorporate the President of the Atlantic Caribbean Union of Seventh-Day Adventists in The Bahamas and for other purposes connected therewith.
+ATLANTIC CARIBBEAN UNION OF SEVENTH-DAY ADVENTISTS INCORPORATION An Act to incorporate the President of the Atlantic Caribbean Union of Seventh-Day Adventists in The Bahamas and for other purposes connected therewith.
 
 [Assent 1st June, 2011]
 
@@ -73,6 +71,10 @@ Act, the body known as The Bahamas Conference of Seventh-Day Adventists shall be
 **7.** The President shall have power to appoint an Attorney for such time and purposes and with such powers as may be stated in the Power of Attorney.
 
 **8.** Nothing in this Act shall prejudice or affect the rights of Her Majesty the Queen, Her Heirs and Successors or of any other person or persons except such as are mentioned in this Act and those claiming by, from, through or under them.
+
+*STATUTE LAW*
+
+### OF THE BAHAMAS
 
 *Vesting of property at present held by the President of The Bahamas Conference of Seventh-Day Adventists.*
 

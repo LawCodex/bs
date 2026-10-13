@@ -103,7 +103,9 @@ Remuneration of Directors.
 
 *28 of 2014*
 
-An Act to provide for the Establishment and Regulation of The Bahamas Protected Areas Fund and for matters connected thereto
+*for*
+
+An Act to provide for the Establishment and Regulation of The Bahamas Protected Areas Fund and matters connected thereto
 
 [Assent 7th July, 2014]
 
@@ -163,23 +165,17 @@ An Act to provide for the Establishment and Regulation of The Bahamas Protected 
 
 **3.** The system of protected areas in The Bahamas consist of the following kinds of protected areas —
 
-(a) the Clifton Heritage Park managed pursuant to
-
 *Ch. 51B.*
 
-section 4 of the Clifton Heritage Authority Act;
-
-(b) declared to be protected areas pursuant to an
+(a) the Clifton Heritage Park managed pursuant to section 4 of the Clifton Heritage Authority Act;
 
 *Ch. 244.*
 
-Order made under section 13 of the Fisheries Resources (Jurisdiction and Conservation) Act;
-
-(c) declared to be forest reserves, protected forests and conservation forests pursuant to an Order
+(b) declared to be protected areas pursuant to an Order made under section 13 of the Fisheries Resources (Jurisdiction and Conservation) Act;
 
 *Ch. 242A.*
 
-made under the Forestry Act;
+(c) declared to be forest reserves, protected forests and conservation forests pursuant to an Order made under the Forestry Act;
 
 (d) declared to be Wild Bird protected areas pursuant to the Wild Birds Protection Act; or
 
@@ -229,11 +225,9 @@ made under the Forestry Act;
 
 (b) any system of protected areas established by the Government of The Bahamas;
 
-(c) programs established for the management of any area required for biodiversity conservation, the protection of any carbon sink under the Forestry
-
 *Ch. 242A.*
 
-Act, the conservation and protection of water resources, wetlands or blue holes, degraded or threatened ecosystems, as defined under the United Nations Convention to Combat Desertification, any area which may be designated for the purpose of giving effect to the ultimate objective of the United Nations Framework Convention on Climate Change, any other relevant multilateral environmental agreement or International Convention to which The Bahamas is a signatory, or may become a signatory for adaptation to and mitigating the adverse effects of climate change.
+(c) programs established for the management of any area required for biodiversity conservation, the protection of any carbon sink under the Forestry Act, the conservation and protection of water resources, wetlands or blue holes, degraded or threatened ecosystems, as defined under the United Nations Convention to Combat Desertification, any area which may be designated for the purpose of giving effect to the ultimate objective of the United Nations Framework Convention on Climate Change, any other relevant multilateral environmental agreement or International Convention to which The Bahamas is a signatory, or may become a signatory for adaptation to and mitigating the adverse effects of climate change.
 
 *Acceptance of contributions.*
 
@@ -343,19 +337,31 @@ organisations and the private sector, and composed as follows —
 
 *Committees of the Board.*
 
-**15.** (1) The Board, in its discretion, may establish one or more committees, each to consist of one or more Directors, to advise it or to carry out specific responsibilities of the Board.
+*one*
 
-(2) Such committees may include an Executive Committee and a Finance Committee, in accordance with the procedures specified in the Bye-laws.
+**15.** (1) The Board, in its discretion, may establish or more committees, each to consist of one or more Directors, to advise it or to carry out specific responsibilities of the Board.
 
-(3) Each committee of the Board will be presided over by a Director who reports to the Chairperson of the Board.
+*the*
 
-(4) Any committee whose function is only to advise the Board may also include outside experts who are not Directors.
+(2) Such committees may include an Executive Committee and a Finance Committee, in accordance with procedures specified in the Bye-laws.
 
-*Powers and Duties of the Board.*
+*over*
 
-**16.** (1) The Board shall have the executive control and management of the affairs of the Fund, and shall exercise and perform the functions, powers and duties of the Fund on its behalf and shall be responsible for its effective and efficient administration.
+(3) Each committee of the Board will be presided by a Director who reports to the Chairperson of the Board.
 
-(2) The powers of the Board shall not be affected by any vacancy in its membership.
+*the*
+
+(4) Any committee whose function is only to advise Board may also include outside experts who are not Directors.
+
+*Powers and Duties of the and Board.*
+
+*the*
+
+**16.** (1) The Board shall have the executive control management of the affairs of the Fund, and shall exercise and perform the functions, powers and duties of Fund on its behalf and shall be responsible for its effective and efficient administration.
+
+*any*
+
+(2) The powers of the Board shall not be affected by vacancy in its membership.
 
 (3) The Board shall after consultation with the Minister —
 
@@ -401,7 +407,11 @@ organisations and the private sector, and composed as follows —
 
 (u) do all other things which the Board determines necessary for the administration and operation of the Fund in order to enable the Fund to achieve its general purposes.
 
-(4) The Board may, from time to time, in respect of any particular matter or class of matters, delegate to any Director, officer or to the Executive Director of the Fund, in writing, any of its functions under this Act except this
+*any*
+
+*in*
+
+(4) The Board may, from time to time, in respect of particular matter or class of matters, delegate to any Director, officer or to the Executive Director of the Fund, writing, any of its functions under this Act except this
 
 power of delegation and those powers and functions set forth above.
 
@@ -437,7 +447,9 @@ power of delegation and those powers and functions set forth above.
 
 **19.** (1) No Director or officer, and no organisation appointing such Director or officer, shall be personally liable to the Fund or any other person or entity for any action taken or omitted to be taken by such Director, officer, the Fund, the Board, or any other person:
 
-Provided, however, that this limitation of liability shall not extend to conduct —
+Provided, however, that this limitation of liability not extend to conduct —
+
+shall
 
 (a) taken or omitted to be taken in bad faith;
 
@@ -463,7 +475,9 @@ Provided, however, that no indemnity shall be permitted to the extent that the D
 
 *Removal of Directors.*
 
-**21.** A Director may be dismissed by the Board if he —
+**21.** A Director may be dismissed by the Board if —
+
+he
 
 (a) fails to notify the Board of a conflict of interest;
 
@@ -485,7 +499,9 @@ Provided that the member received notification of such meetings, and the Board, 
 
 **23.** (1) The assets of the Fund shall be exclusively dedicated to the charitable purposes and activities of the Fund as set forth in this Act.
 
-(2) The monies belonging to the Fund shall, subject to additional direction by the Board —
+(2) The monies belonging to the Fund shall, subject additional direction by the Board —
+
+to
 
 (a) be deposited in any onshore or offshore bank or savings bank; and
 
@@ -495,7 +511,9 @@ Provided that the member received notification of such meetings, and the Board, 
 
 *Revenue of the Fund.*
 
-**24.** (1) The revenue of the Fund may be generated from the following sources —
+**24.** (1) The revenue of the Fund may be generated the following sources —
+
+from
 
 (a) the Caribbean Biodiversity Fund;
 
@@ -595,11 +613,9 @@ transmitted to the Minister a report in such form as the Minister may, from time
 
 (2) Upon receipt of such request, the Parliament may vote for an application to be made to the Supreme Court for the Fund to be dissolved by a resolution of each House of Parliament in the manner prescribed under the Constitution.
 
-(3) The winding-up provisions of the Companies
-
 *Ch. 308.*
 
-Act shall apply mutatis mutandis to such dissolution proceedings as has been approved by Parliament.
+(3) The winding-up provisions of the Companies Act shall apply mutatis mutandis to such dissolution proceedings as has been approved by Parliament.
 
 (4) In the event of dissolution of the Fund, the assets of the Fund shall be distributed first, to pay all liabilities of the Fund, and second, in the discretion of the Supreme Court, to one or more organisations having charitable purposes similar to those of the Fund:
 
@@ -613,11 +629,9 @@ Provided, that all assets of the Fund will be used exclusively for charitable, e
 
 **33.** (1) The Board shall after consultation with the Minister have power to make Bye-laws not inconsistent with the provisions of this Act for the regulation of its affairs and the conduct of its business.
 
-(2) Sections 31 and 32 of the Interpretation and
-
 *Ch. 2.*
 
-General Clauses Act shall not apply to any Bye-laws duly made by the Board under the provisions of this section.
+(2) Sections 31 and 32 of the Interpretation and General Clauses Act shall not apply to any Bye-laws duly made by the Board under the provisions of this section.
 
 (3) The Board, may make Bye-laws for —
 
@@ -648,3 +662,7 @@ an original vote, the Chairman or other person who shall preside at a meeting of
 (k) formulating guidelines for the criteria for grant applicants; and
 
 (l) approving, denying and reviewing grant applications.
+
+*STATUTE LAW OF THE*
+
+### BAHAMAS

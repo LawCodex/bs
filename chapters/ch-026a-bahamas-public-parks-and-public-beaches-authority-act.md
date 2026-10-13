@@ -156,19 +156,25 @@ empowered to hold land and excludes Crown land;
 
 *Establishment of the Public Parks and Public Beaches Authority.*
 
-**3.** (1) There shall be established a body to be known as the Public Parks and Public Beaches Authority.
+**3.** (1) There shall be established a body to be known as the Public Parks and Public Beaches Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal, with power to purchase, lease or otherwise acquire, hold, vest, and dispose of land and other property of whatever kind, and to sue and be sued.
 
-(2) The Authority shall be a body corporate with perpetual succession and a common seal, with power to purchase, lease or otherwise acquire, hold, vest, and dispose of land and other property of whatever kind, and to sue and be sued.
+*the*
 
-(3) Notwithstanding subsection (2), the Authority may not dispose of any land without the prior approval of the House of Assembly signified by resolution thereof.
+(3) Notwithstanding subsection (2), the Authority may not dispose of any land without the prior approval of House of Assembly signified by resolution thereof.
 
 *Common Seal.*
 
-**4.** (1) The common seal of the Authority shall be kept in such custody as the Authority directs and shall not be used except as authorised by the Authority.
+*be*
 
-(2) The common seal of the Authority shall be authenticated by the signatures of the chairperson or any other member of the Authority authorised by the Authority in that behalf, and of the secretary.
+**4.** (1) The common seal of the Authority shall be kept in such custody as the Authority directs and shall not used except as authorised by the Authority.
 
-(3) The common seal of the Authority when affixed to any document and authenticated under this section shall be judicially and officially noticed, and, until the contrary is proved, any necessary order or authorisation of the Authority shall be presumed to have been given.
+*in*
+
+(2) The common seal of the Authority shall be authenticated by the signatures of the chairperson or any other member of the Authority authorised by the Authority that behalf, and of the secretary.
+
+*to be is*
+
+(3) The common seal of the Authority when affixed any document and authenticated under this section shall judicially and officially noticed, and, until the contrary proved, any necessary order or authorisation of the Authority shall be presumed to have been given.
 
 *Functions of the Authority.*
 
@@ -192,35 +198,27 @@ empowered to hold land and excludes Crown land;
 
 biotechnology, arboriculture, forestry, landscape architecture, parks and recreation management and natural and local history;
 
-(i) to provide and manage recreational, cultural, historical, research and educational facilities and resources in public parks and encourage their full and proper use by members of the public;
-
-(j) to advise the Minister —
+(i) to provide and manage recreational, cultural, historical, research and educational facilities and resources in public parks and encourage their full and proper use by members of the public; (j) to advise the Minister —
 
 (i) on the construction, rehabilitation, restoration and remediation of public beaches and ancillary recreational facilities on public beaches;
 
 (ii) on the control of the construction in any public park or on any public beach, of huts, booths, tents, sheds, stands, stalls, bath-houses, shops, whether movable or immovable;
 
-(iii) on such other matters, relating to the public parks and public beaches, including matters pertaining to public beach control and the protection of the sea-coast of The Bahamas from erosion or encroachment by the sea;
-
-(k) to beautify and add amenities to the public parks and public beaches and such other areas as determined by the Minister;
+(iii) on such other matters, relating to the public parks and public beaches, including matters pertaining to public beach control and the protection of the sea-coast of The Bahamas from erosion or encroachment by the sea; (k) to beautify and add amenities to the public parks and public beaches and such other areas as determined by the Minister;
 
 (l) to enter into written agreements with owners or occupiers of land adjacent the foreshore for the purpose of obtaining public access to public beaches;
 
-(m) to name public parks and public beaches;
-
-(n) generally, to carry out the provisions of this Act.
-
-(2) Notwithstanding subsection (1), and pursuant to
+*section*
 
 *Ch. 37.*
 
-section 9(1)(b) of the Local Government Act, the competent authority shall, in conjunction with any town committee, provide for the upkeep, maintenance and establishment of public parks and public beaches.
+(m) to name public parks and public beaches; (n) generally, to carry out the provisions of this Act. (2) Notwithstanding subsection (1), and pursuant to 9(1)(b) of the Local Government Act, the competent authority shall, in conjunction with any town committee, provide for the upkeep, maintenance and establishment of public parks and public beaches.
 
-*Powers of the Authority.*
+*Powers of the Authority. may —*
 
-**6.** In the exercise of its functions, the Authority may —
+**6.** In the exercise of its functions, the Authority
 
-(a) fix fees and charges for services provided to, and by, the Authority;
+fix fees and charges for services provided to, and by, the Authority;
 
 (b) administer and invest the financial resources of the Authority;
 
@@ -236,7 +234,9 @@ section 9(1)(b) of the Local Government Act, the competent authority shall, in c
 
 *Schedule.*
 
-(3) The Schedule shall have effect with respect to the constitution and procedure of the Board.
+*the*
+
+(3) The Schedule shall have effect with respect to constitution and procedure of the Board.
 
 *Schedule.*
 
@@ -290,33 +290,25 @@ on such terms and conditions as it considers necessary for the proper conduct of
 
 (a) vested in the Authority;
 
-(b) compulsorily acquired by the Crown pursuant to
-
 *Ch. 252.*
 
-the Acquisition of Land Act.
+(b) compulsorily acquired by the Crown pursuant to the Acquisition of Land Act.
 
 ### PROVISIONS RELATING TO STAFF
 
 *Pensions.*
 
-**13.** (1) Where any public officer holding a pensionable office under the Government ceases to be the holder of such an office by reason of his transfer with his consent to the service of the Authority and such person subsequently retires from the service of the Authority in such circumstances that, had he remained a public officer,
-
 *Ch. 43.*
 
-he would have been eligible for pension under the provisions of the Pensions Act, then in any such case, the provisions of subsections (2) and (3) shall have effect.
+**13.** (1) Where any public officer holding a pensionable office under the Government ceases to be the holder of such an office by reason of his transfer with his consent to the service of the Authority and such person subsequently retires from the service of the Authority in such circumstances that, had he remained a public officer, he would have been eligible for pension under the provisions of the Pensions Act, then in any such case, the provisions of subsections (2) and (3) shall have effect.
 
 (2) Any pension payable to such person as is mentioned in subsection (1) by the Authority to whose service he has been transferred, shall be calculated and granted to him in respect of his total service under the Government and with the Authority taken together, and such service shall be reckoned as continuous for pension purposes.
 
-(3) There shall be payable out of the Consolidated Fund upon the warrant of the Minister of Finance to the Authority as contribution to every pension paid in accordance with subsection (2) such amounts as would
+*Ch. 43.*
 
 *Ch. 43.*
 
-have been payable to the person concerned by way of pension under the Pensions Act, if any person had retired from the public service and if he had been granted a
-
-*Ch. 43.*
-
-pension under the Pensions Act upon the date of his ceasing to be a public officer.
+(3) There shall be payable out of the Consolidated Fund upon the warrant of the Minister of Finance to the Authority as contribution to every pension paid in accordance with subsection (2) such amounts as would have been payable to the person concerned by way of pension under the Pensions Act, if any person had retired from the public service and if he had been granted a pension under the Pensions Act upon the date of his ceasing to be a public officer.
 
 *Power to grant gratuities, etc.*
 
@@ -354,9 +346,9 @@ pension under the Pensions Act upon the date of his ceasing to be a public offic
 
 (e) any other expenditure authorised by the Authority for the discharge of its functions.
 
-*General Account.*
+*General Account. to*
 
-**17.** (1) All sums received by the Authority pursuant to section 15 shall be deposited into an account (to be known as “the General Account”) to be maintained by the Authority as the Authority may determine.
+**17.** (1) All sums received by the Authority pursuant section 15 shall be deposited into an account (to be known as “the General Account”) to be maintained by the Authority as the Authority may determine.
 
 (2) The Authority shall keep in respect of the General Account two separate accounts —
 
@@ -408,11 +400,9 @@ for application towards defraying current expenditure; and
 
 (2) Subject to subsection (3) the Minister of Finance may guarantee, in writing on any such condition as he thinks fit, the repayment of the principal of, and the payment of interest and other charges on, any borrowings of the Authority pursuant to section 22.
 
-(3) No advances shall be made and no guarantee shall be given under this section unless prior approval thereof has been signified by the House of Assembly in
-
 *Ch. 359.*
 
-accordance with sections 17 and 18 of the Financial Administration and Audit Act.
+(3) No advances shall be made and no guarantee shall be given under this section unless prior approval thereof has been signified by the House of Assembly in accordance with sections 17 and 18 of the Financial Administration and Audit Act.
 
 (4) Where a sum is paid pursuant to a guarantee given under this section, the Minister of Finance shall as soon as possible after the end of each financial year beginning that in which the sum is issued and ending with that in which all liability in respect of the principal of the sum and in respect of interest thereon is finally discharged, lay before the House of Assembly a statement relating to that sum.
 
@@ -500,15 +490,13 @@ accordance with sections 17 and 18 of the Financial Administration and Audit Act
 
 (2) Without prejudice to subsection (1), the Minister may make regulations —
 
-(a) providing for the conservation and protection of plants, animals and other organisms and property;
+providing for the conservation and protection of plants, animals and other organisms and property;
 
 (b) prescribing the sanitary and clean conditions and practices to be observed at and in respect of public parks and public beaches;
 
 (c) prescribing the fees chargeable by the Authority for entry to or for the use of any facility or property under the control of or maintained by the Authority, and the terms and conditions on which such fees shall be paid;
 
-(d) providing for the preservation from danger, obstruction or annoyance of members of the public using public parks and public beaches;
-
-(e) prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks.
+(d) providing for the preservation from danger, obstruction or annoyance of members of the public using public parks and public beaches; (e) prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks.
 
 *Penalty.*
 

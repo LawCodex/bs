@@ -14,11 +14,9 @@ retrieved: 2026-10-13
 
 # Appropriation (Revenue Account Expenses)(2026-2027) Act, 2026
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-1 st July, 2026
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 1 st July, 2026
 
 ### APPROPRIATION (REVENUE ACCOUNT EXPENSES) (2026/2027) ACT, 2026
 
@@ -47,6 +45,8 @@ This Act may be cited as the Appropriation (Revenue Account Expenses) (2026/2027
 **2.** Authority for payment.
 
 There may be paid out of the Treasury upon the authority of a warrant under the hand of the Minister of Finance during the financial year beginning on the 1 st day of July, 2026 and ending on the 30 th day of June, 2027 the several sums of money for defraying the recurrent expenses on revenue account for the public services of The Bahamas set forth in the Schedule.
+
+Page -
 
 ## SCHEDULE (section 2)
 
@@ -114,11 +114,9 @@ There may be paid out of the Treasury upon the authority of a warrant under the 
 
 **28.** Department of Inland Revenue Ministry of National Security
 
-Department of Immigration The Royal Bahamas Police Force
-
 *83,906,731 19,509,839*
 
-The Royal Bahamas Defence Force
+Department of Immigration The Royal Bahamas Police Force The Royal Bahamas Defence Force
 
 **33.** Ministry of Works and Family Island Affairs
 

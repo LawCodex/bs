@@ -64,19 +64,15 @@ In the finan ial year referre to in u e tion 1 not more than three hun re forty 
 
 **13.** ini try of orei n Affair 2
 
-**21.** ini try of inan e 113
-
 *2 .*
 
-ini try of ational Se urity 1
+**21.** ini try of inan e 113 ini try of ational Se urity 1
 
 **32.** he oyal ahama efen e or e
 
-**33.** ini try of or an amily I lan Affair 3
-
 *3 .*
 
-ini try of u ation an e hni al an 1 1 o ational rainin
+**33.** ini try of or an amily I lan Affair 3 ini try of u ation an e hni al an 1 1 o ational rainin
 
 *. . .*
 

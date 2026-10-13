@@ -14,11 +14,9 @@ retrieved: 2026-10-13
 
 # Appropriation (Capital Development)(2025-2026) Act, 2025
 
-### EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY
-
 *NASSAU*
 
-1 st July, 2025
+EXTRAORDINARY OFFICIAL GAZETTE THE BAHAMAS PUBLISHED BY AUTHORITY 1 st July, 2025
 
 ## Arrangement of Sections
 
@@ -34,7 +32,9 @@ Section
 
 ### APPROPRIATION (CAPITAL (2025/2026) DEVELOPMENT) ACT, 2025
 
-No. 35 of 2025 APPROPRIATION APPROPRIATION (CAPITAL (CAPITAL DEVELOPMENT) DEVELOPMENT) (2025/2026) (2025/2026) ACT, 2025 ACT, 2025
+No. 35 of 2025
+
+APPROPRIATION APPROPRIATION (CAPITAL (CAPITAL DEVELOPMENT) DEVELOPMENT) (2025/2026) (2025/2026) ACT, 2025 ACT, 2025
 
 AN AN ACT ACT FOR FOR THE THE APPROPRIATION APPROPRIATION OF OF THE SUM OF OF THE SUM THREE HUNDRED SEVENTY SIX MILLION THREE HUNDRED THREE HUNDRED SEVENTY SIX MILLION THREE HUNDRED TWENTY TWENTY FIVE FIVE THOUSAND THOUSAND TWO TWO HUNDRED HUNDRED AND FIFTY THREE THREE AND FIFTY DOLLARS
 
@@ -46,15 +46,19 @@ DOLLARS FOR AND TOWARDS DEFRAYING FOR AND TOWARDS DEFRAYING THE EXPENSES OF EXPE
 
 This This Act Act may may be be cited cited as as the the Appropriation Appropriation (Capital (Capital Development) Development) (2025/2026) (2025/2026) Act, Act, 2025. 2025.
 
-**2.** \2. Interpretation. Interpretation.
+**2.** \2. Interpretation.
 
-In In this this Act, Act, "development "development expenditure" expenditure" means means expenditure expenditure for for capital capital development The Bahamas.
+Interpretation.
+
+In In this Act, Act, "development "development expenditure" expenditure" means means expenditure expenditure for for capital this capital development The Bahamas.
 
 development in The Bahamas.
 
-**3.** \3. Authority Authority for for payment. payment.
+**3.** \3. Authority for for payment. payment.
 
-(1) (1) There There may may be be paid paid out out of of the the Treasury Treasury upon upon the the authority authority of of a a warrant warrant under the hand of the Minister of Finance during the financial year the hand of the Minister of Finance during the financial year beginning on the 1st day of July, 2025 and ending on the 30th day of June, beginning on the 1st day of July, 2025 and ending on the 30th day of June, 2026 the several sums of money in respect of development expenditure set 2026 the several sums of money in respect of development expenditure set forth in the Schedule.
+Authority
+
+(1) (1) There may may be be paid paid out out of of the the Treasury Treasury upon upon the the authority authority of of a a warrant There warrant under the hand of the Minister of Finance during the financial year the hand of the Minister of Finance during the financial year beginning on the 1st day of July, 2025 and ending on the 30th day of June, beginning on the 1st day of July, 2025 and ending on the 30th day of June, 2026 the several sums of money in respect of development expenditure set 2026 the several sums of money in respect of development expenditure set forth in the Schedule.
 
 forth in the Schedule.
 

@@ -45,9 +45,13 @@ retrieved: 2026-10-13
 
 ## SCHEDULE: Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
 
+*An*
+
 *43 of 2009*
 
-An Act to give effect in The Bahamas to the New York Convention on the recognition and enforcement of Foreign Arbitral Awards.
+*York of*
+
+Act to give effect in The Bahamas to the New Convention on the recognition and enforcement Foreign Arbitral Awards.
 
 [Assent 31st December, 2009]
 
@@ -59,23 +63,41 @@ PART l PRELIMINARY
 
 *Short title.*
 
-**1.** This Act may be cited as the Arbitration (Foreign Arbitral Awards) Act.
+*(Foreign*
+
+**1.** This Act may be cited as the Arbitration Arbitral Awards) Act.
 
 *Interpretation.*
 
-**2.** (1) In this Act —
+2.
 
-(a) “arbitration agreement” means an agreement in writing to submit to arbitration present or future disputes;
+(1) In this Act —
 
-(b) “convention award” means an award made pursuant to an arbitration agreement in a state other than The Bahamas that is a party to the New York Convention;
+(a)
 
-(c) ‘‘Minister” means the Attorney-General and Minister of Legal Affairs;
+“arbitration agreement” means an agreement in writing to submit to arbitration present or future disputes;
 
-(d) “New York Convention” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on International Commercial Arbitration on 10th June, 1958 and set out in the Schedule;
+(b)
 
-(e) “state that is party to the New York Convention”, in the case of a federal state whose constituent political subdivisions have legislative jurisdiction with respect to commercial arbitrations, includes a constituent political subdivision thereof that has given effect to the Convention by legislative or other action.
+“convention award” means an award made pursuant to an arbitration agreement in a state other than The Bahamas that is a party to the New York Convention;
 
-(2) For the purposes of paragraph (a) of subsection (1), the expression “agreement in writing” includes an agreement contained in an exchange of letters, facsimile or other means of communication which provide a record of the agreement.
+(c)
+
+‘‘Minister” means the Attorney-General and Minister of Legal Affairs;
+
+(d)
+
+“New York Convention” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on International Commercial Arbitration on 10th June, 1958 and set out in the Schedule;
+
+(e)
+
+“state that is party to the New York Convention”, in the case of a federal state whose constituent political subdivisions have legislative jurisdiction with respect to commercial arbitrations, includes a constituent political subdivision thereof that has given effect to the Convention by legislative or other action.
+
+*(1), the*
+
+*other*
+
+(2) For the purposes of paragraph (a) of subsection expression “agreement in writing” includes an agreement contained in an exchange of letters, facsimile or means of communication which provide a record of agreement.
 
 *Proving adherence to Convention.*
 
@@ -83,11 +105,9 @@ PART l PRELIMINARY
 
 *Effect of awards.*
 
-**4.** (1) Subject to this Act, a convention award is enforceable in The Bahamas either by action or in the same manner as the award of an arbitrator is enforceable by
-
 *Ch. 180.*
 
-section 88 of the Arbitration Act.
+**4.** (1) Subject to this Act, a convention award is enforceable in The Bahamas either by action or in the same manner as the award of an arbitrator is enforceable by section 88 of the Arbitration Act.
 
 (2) A convention award that would be enforceable under this Act is binding for all purposes on the persons between whom it was made; and it may be relied upon by any of those persons by way of defence, set-off or otherwise in any legal proceedings in The Bahamas.
 
@@ -95,7 +115,9 @@ section 88 of the Arbitration Act.
 
 *Evidence to enforce award.*
 
-**5.** The party seeking to enforce a convention award must produce —
+**5.** The party seeking to enforce a convention award produce —
+
+must
 
 (a) the duly authenticated original award or a duly certified copy of it;
 
@@ -147,7 +169,9 @@ proceedings or was otherwise unable to present his case;
 
 **1.** This Convention shall apply to the recognition and enforcement of arbitral awards made in the territory of a state other than the state where the recognition and enforcement of such awards are sought, and arising out of differences between persons whether physical or legal. It shall also apply to arbitral awards not considered as domestic awards in the state where their recognition and enforcement are sought.
 
-**2.** The term “arbitral awards” shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
+2.
+
+The term “arbitral awards” shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
 
 **3.** When signing, ratifying or acceding to this Convention, or notifying extension under Article X hereof, any state may on the basis of reciprocity declare that it will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State. It may also declare that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the state making such declaration.
 
@@ -155,9 +179,11 @@ proceedings or was otherwise unable to present his case;
 
 **1.** Each Contracting State shall recognise an agreement in writing under which the parties undertake to submit to arbitration all or any differences which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not, concerning a subject matter capable of settlement by arbitration.
 
-**2.** The term “agreement in writing” shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
+2.
 
-**3.** The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this article, shall, at the request of one of the parties, refer the parties to arbitration,
+The term “agreement in writing” shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
+
+The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this article, shall, at the request of one of the parties, refer the parties to arbitration,
 
 unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
 
@@ -183,13 +209,15 @@ Each Contracting State shall recognise arbitral awards as binding and enforce th
 
 arbitrator or of the arbitration proceedings or was otherwise unable to present his case; or
 
-(c) the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced; or
+the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced; or
 
 (d) the composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
 
 (e) the award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, that award was made.
 
-**2.** Recognition and enforcement of an arbitral award may also be refused if the competent authority in the country where recognition and enforcement is sought finds that —
+*be*
+
+**2.** Recognition and enforcement of an arbitral award may also refused if the competent authority in the country where recognition and enforcement is sought finds that —
 
 (a) the subject matter of the difference is not capable of settlement by arbitration under the law of that country; or
 
@@ -197,11 +225,15 @@ arbitrator or of the arbitration proceedings or was otherwise unable to present 
 
 ### ARTICLE VI
 
-If an application for the setting aside or suspension of the award has been made to a competent authority referred to in Article V (1)(e), the authority before which the award is sought to be relied upon may, if it considers it proper, adjourn the decision on the enforcement of the award and may also, on the application of the party claiming enforcement of the award, order the other party to give suitable security.
+*If an*
+
+*relied the*
+
+application for the setting aside or suspension of the award has been made to a competent authority referred to in Article V (1)(e), the authority before which the award is sought to be upon may, if it considers it proper, adjourn the decision on enforcement of the award and may also, on the application of the party claiming enforcement of the award, order the other party to give suitable security.
 
 ### ARTICLE VII
 
-**1.** The provisions of the present Convention shall not affect the validity of multilateral or bilateral agreements concerning the recognition and enforcement of arbitral awards entered into by the Contracting States nor deprive any interested
+**1.** The provisions of the present Convention shall not affect the validity of multilateral or bilateral agreements concerning recognition and enforcement of arbitral awards entered into by the Contracting States nor deprive any interested
 
 party of any right he may have to avail himself of an arbitral award in the manner and to the extent allowed by the law or the treaties of the country where such award is sought to be relied upon.
 
@@ -225,11 +257,21 @@ party of any right he may have to avail himself of an arbitral award in the mann
 
 **2.** At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the state concerned, whichever is the later.
 
-With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each state concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of the governments of such territories.
+*not*
+
+*of*
+
+*the*
+
+With respect to those territories to which this Convention is extended at the time of signature, ratification or accession, each state concerned shall consider the possibility taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of governments of such territories.
 
 ### ARTICLE XI
 
-In the case of a federal or non-unitary state, the following provisions shall apply —
+*In the*
+
+case of a federal or non-unitary state, the following provisions
+
+shall apply —
 
 (a) with respect to those articles of this Convention that come within the legislative jurisdiction of the federal authority, the obligations of the federal government shall to this extent be the same as those of Contracting States which are not federal states;
 
@@ -239,13 +281,17 @@ In the case of a federal or non-unitary state, the following provisions shall ap
 
 ### ARTICLE XII
 
-**1.** This Convention shall come into force on the ninetieth day following the date of deposit of the third instrument of ratification or accession.
+*\1. This*
 
-**2.** For each state ratifying or acceding to this Convention after the deposit of the third instrument of ratification or accession, this Convention shall enter into force on the ninetieth day after deposit by such state of its instrument of ratification or accession.
+Convention shall come into force on the ninetieth day following the date of deposit of the third instrument of ratification or accession.
+
+*\2. For the*
+
+each state ratifying or acceding to this Convention after deposit of the third instrument of ratification or accession, this Convention shall enter into force on the ninetieth day after deposit by such state of its instrument of ratification or accession.
 
 ### ARTICLE XIII
 
-**1.** Any Contracting State may denounce this Convention by written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
+Any Contracting State may denounce this Convention by written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 
 **2.** Any state which has made a declaration or notification under Article X may, at any time thereafter, by notification to the Secretary-General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary-General.
 
@@ -253,7 +299,11 @@ In the case of a federal or non-unitary state, the following provisions shall ap
 
 ### ARTICLE XIV
 
-A Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to the extent that it is itself bound to apply the Convention.
+*A*
+
+*the*
+
+Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to extent that it is itself bound to apply the Convention.
 
 ### ARTICLE XV
 
@@ -269,6 +319,6 @@ The Secretary-General of the United Nations shall notify the states contemplated
 
 (e) Denunciations and notifications in accordance with Article XIII.
 
-(1) This Convention, of which the Chinese, English, French, Russian and Spanish tests shall be equally authentic, shall be deposited in the archives of the United Nations.
+This Convention, of which the Chinese, English, French, Russian and Spanish tests shall be equally authentic, shall be deposited in the archives of the United Nations.
 
 (2) The Secretary-General of the United Nations shall transmit a certified copy of this Convention to the states contemplated in Article VIII.
